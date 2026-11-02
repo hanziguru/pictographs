@@ -11,7 +11,9 @@
   "file": "pictograph-ba1-516b.webp",
   "card_bytes": 35626,
   "thumb": "ba1-516b-thumb.webp",
-  "thumb_bytes": 13220
+  "thumb_bytes": 13220,
+  "art": "ba1-516b-art.webp",
+  "art_bytes": 32306
  },
  {
   "char": "包",
@@ -25,7 +27,9 @@
   "file": "pictograph-bao1.webp",
   "card_bytes": 36784,
   "thumb": "bao1-thumb.webp",
-  "thumb_bytes": 14666
+  "thumb_bytes": 14666,
+  "art": "bao1-art.webp",
+  "art_bytes": 32388
  },
  {
   "char": "不",
@@ -39,7 +43,9 @@
   "file": "pictograph-bu4.webp",
   "card_bytes": 37026,
   "thumb": "bu4-thumb.webp",
-  "thumb_bytes": 13022
+  "thumb_bytes": 13022,
+  "art": "bu4-art.webp",
+  "art_bytes": 33846
  },
  {
   "char": "车",
@@ -53,7 +59,9 @@
   "file": "pictograph-che1.webp",
   "card_bytes": 28258,
   "thumb": "che1-thumb.webp",
-  "thumb_bytes": 10232
+  "thumb_bytes": 10232,
+  "art": "che1-art.webp",
+  "art_bytes": 23960
  },
  {
   "char": "东",
@@ -67,7 +75,9 @@
   "file": "pictograph-dong1-4e1c.webp",
   "card_bytes": 48270,
   "thumb": "dong1-4e1c-thumb.webp",
-  "thumb_bytes": 18178
+  "thumb_bytes": 18178,
+  "art": "dong1-4e1c-art.webp",
+  "art_bytes": 41868
  },
  {
   "char": "儿",
@@ -81,7 +91,9 @@
   "file": "pictograph-er2-513f.webp",
   "card_bytes": 22316,
   "thumb": "er2-513f-thumb.webp",
-  "thumb_bytes": 7970
+  "thumb_bytes": 7970,
+  "art": "er2-513f-art.webp",
+  "art_bytes": 19042
  },
  {
   "char": "方",
@@ -95,7 +107,9 @@
   "file": "pictograph-fang1.webp",
   "card_bytes": 57294,
   "thumb": "fang1-thumb.webp",
-  "thumb_bytes": 20552
+  "thumb_bytes": 20552,
+  "art": "fang1-art.webp",
+  "art_bytes": 53020
  },
  {
   "char": "飞",
@@ -109,7 +123,9 @@
   "file": "pictograph-fei1.webp",
   "card_bytes": 33608,
   "thumb": "fei1-thumb.webp",
-  "thumb_bytes": 12632
+  "thumb_bytes": 12632,
+  "art": "fei1-art.webp",
+  "art_bytes": 30630
  },
  {
   "char": "干",
@@ -123,7 +139,9 @@
   "file": "pictograph-gan1.webp",
   "card_bytes": 56010,
   "thumb": "gan1-thumb.webp",
-  "thumb_bytes": 22444
+  "thumb_bytes": 22444,
+  "art": "gan1-art.webp",
+  "art_bytes": 50698
  },
  {
   "char": "高",
@@ -137,7 +155,9 @@
   "file": "pictograph-gao1.webp",
   "card_bytes": 84748,
   "thumb": "gao1-thumb.webp",
-  "thumb_bytes": 33932
+  "thumb_bytes": 33932,
+  "art": "gao1-art.webp",
+  "art_bytes": 82090
  },
  {
   "char": "工",
@@ -151,7 +171,9 @@
   "file": "pictograph-gong1-5de5.webp",
   "card_bytes": 41820,
   "thumb": "gong1-5de5-thumb.webp",
-  "thumb_bytes": 16002
+  "thumb_bytes": 16002,
+  "art": "gong1-5de5-art.webp",
+  "art_bytes": 38694
  },
  {
   "char": "果",
@@ -165,7 +187,9 @@
   "file": "pictograph-guo3.webp",
   "card_bytes": 45340,
   "thumb": "guo3-thumb.webp",
-  "thumb_bytes": 17476
+  "thumb_bytes": 17476,
+  "art": "guo3-art.webp",
+  "art_bytes": 41660
  },
  {
   "char": "回",
@@ -179,7 +203,9 @@
   "file": "pictograph-hui2.webp",
   "card_bytes": 27154,
   "thumb": "hui2-thumb.webp",
-  "thumb_bytes": 11272
+  "thumb_bytes": 11272,
+  "art": "hui2-art.webp",
+  "art_bytes": 23362
  },
  {
   "char": "火",
@@ -193,7 +219,9 @@
   "file": "pictograph-huo3.webp",
   "card_bytes": 31998,
   "thumb": "huo3-thumb.webp",
-  "thumb_bytes": 12148
+  "thumb_bytes": 12148,
+  "art": "huo3-art.webp",
+  "art_bytes": 29456
  },
  {
   "char": "京",
@@ -207,7 +235,9 @@
   "file": "pictograph-jing1.webp",
   "card_bytes": 64936,
   "thumb": "jing1-thumb.webp",
-  "thumb_bytes": 22604
+  "thumb_bytes": 22604,
+  "art": "jing1-art.webp",
+  "art_bytes": 61894
  },
  {
   "char": "九",
@@ -221,7 +251,9 @@
   "file": "pictograph-jiu3.webp",
   "card_bytes": 32352,
   "thumb": "jiu3-thumb.webp",
-  "thumb_bytes": 12162
+  "thumb_bytes": 12162,
+  "art": "jiu3-art.webp",
+  "art_bytes": 29492
  },
  {
   "char": "口",
@@ -235,7 +267,9 @@
   "file": "pictograph-kou3.webp",
   "card_bytes": 24692,
   "thumb": "kou3-thumb.webp",
-  "thumb_bytes": 9034
+  "thumb_bytes": 9034,
+  "art": "kou3-art.webp",
+  "art_bytes": 21952
  },
  {
   "char": "来",
@@ -249,7 +283,9 @@
   "file": "pictograph-lai2.webp",
   "card_bytes": 59832,
   "thumb": "lai2-thumb.webp",
-  "thumb_bytes": 24180
+  "thumb_bytes": 24180,
+  "art": "lai2-art.webp",
+  "art_bytes": 52606
  },
  {
   "char": "马",
@@ -263,7 +299,9 @@
   "file": "pictograph-ma3.webp",
   "card_bytes": 30626,
   "thumb": "ma3-thumb.webp",
-  "thumb_bytes": 12146
+  "thumb_bytes": 12146,
+  "art": "ma3-art.webp",
+  "art_bytes": 27502
  },
  {
   "char": "毛",
@@ -277,7 +315,9 @@
   "file": "pictograph-mao2-6bdb.webp",
   "card_bytes": 52538,
   "thumb": "mao2-6bdb-thumb.webp",
-  "thumb_bytes": 19660
+  "thumb_bytes": 19660,
+  "art": "mao2-6bdb-art.webp",
+  "art_bytes": 49714
  },
  {
   "char": "门",
@@ -291,7 +331,9 @@
   "file": "pictograph-men2.webp",
   "card_bytes": 34042,
   "thumb": "men2-thumb.webp",
-  "thumb_bytes": 12454
+  "thumb_bytes": 12454,
+  "art": "men2-art.webp",
+  "art_bytes": 30394
  },
  {
   "char": "米",
@@ -305,7 +347,9 @@
   "file": "pictograph-mi3.webp",
   "card_bytes": 31630,
   "thumb": "mi3-thumb.webp",
-  "thumb_bytes": 12204
+  "thumb_bytes": 12204,
+  "art": "mi3-art.webp",
+  "art_bytes": 28066
  },
  {
   "char": "面",
@@ -319,7 +363,9 @@
   "file": "pictograph-mian4.webp",
   "card_bytes": 52470,
   "thumb": "mian4-thumb.webp",
-  "thumb_bytes": 19284
+  "thumb_bytes": 19284,
+  "art": "mian4-art.webp",
+  "art_bytes": 49304
  },
  {
   "char": "牛",
@@ -333,7 +379,9 @@
   "file": "pictograph-niu2.webp",
   "card_bytes": 37974,
   "thumb": "niu2-thumb.webp",
-  "thumb_bytes": 15696
+  "thumb_bytes": 15696,
+  "art": "niu2-art.webp",
+  "art_bytes": 34798
  },
  {
   "char": "女",
@@ -347,7 +395,9 @@
   "file": "pictograph-nv3.webp",
   "card_bytes": 50840,
   "thumb": "nv3-thumb.webp",
-  "thumb_bytes": 19298
+  "thumb_bytes": 19298,
+  "art": "nv3-art.webp",
+  "art_bytes": 48386
  },
  {
   "char": "气",
@@ -361,7 +411,9 @@
   "file": "pictograph-qi4.webp",
   "card_bytes": 50188,
   "thumb": "qi4-thumb.webp",
-  "thumb_bytes": 18538
+  "thumb_bytes": 18538,
+  "art": "qi4-art.webp",
+  "art_bytes": 47620
  },
  {
   "char": "人",
@@ -375,7 +427,9 @@
   "file": "pictograph-ren2.webp",
   "card_bytes": 36764,
   "thumb": "ren2-thumb.webp",
-  "thumb_bytes": 14186
+  "thumb_bytes": 14186,
+  "art": "ren2-art.webp",
+  "art_bytes": 33328
  },
  {
   "char": "日",
@@ -389,7 +443,9 @@
   "file": "pictograph-ri4.webp",
   "card_bytes": 37388,
   "thumb": "ri4-thumb.webp",
-  "thumb_bytes": 13724
+  "thumb_bytes": 13724,
+  "art": "ri4-art.webp",
+  "art_bytes": 35548
  },
  {
   "char": "肉",
@@ -403,7 +459,9 @@
   "file": "pictograph-rou4.webp",
   "card_bytes": 45110,
   "thumb": "rou4-thumb.webp",
-  "thumb_bytes": 16412
+  "thumb_bytes": 16412,
+  "art": "rou4-art.webp",
+  "art_bytes": 41620
  },
  {
   "char": "山",
@@ -417,7 +475,9 @@
   "file": "pictograph-shan1.webp",
   "card_bytes": 42888,
   "thumb": "shan1-thumb.webp",
-  "thumb_bytes": 16110
+  "thumb_bytes": 16110,
+  "art": "shan1-art.webp",
+  "art_bytes": 39564
  },
  {
   "char": "身",
@@ -431,7 +491,9 @@
   "file": "pictograph-shen1-8eab.webp",
   "card_bytes": 37778,
   "thumb": "shen1-8eab-thumb.webp",
-  "thumb_bytes": 14144
+  "thumb_bytes": 14144,
+  "art": "shen1-8eab-art.webp",
+  "art_bytes": 33848
  },
  {
   "char": "生",
@@ -445,7 +507,9 @@
   "file": "pictograph-sheng1-751f.webp",
   "card_bytes": 32382,
   "thumb": "sheng1-751f-thumb.webp",
-  "thumb_bytes": 12734
+  "thumb_bytes": 12734,
+  "art": "sheng1-751f-art.webp",
+  "art_bytes": 27090
  },
  {
   "char": "手",
@@ -459,7 +523,9 @@
   "file": "pictograph-shou3-624b.webp",
   "card_bytes": 32912,
   "thumb": "shou3-624b-thumb.webp",
-  "thumb_bytes": 13434
+  "thumb_bytes": 13434,
+  "art": "shou3-624b-art.webp",
+  "art_bytes": 29540
  },
  {
   "char": "水",
@@ -473,7 +539,9 @@
   "file": "pictograph-shui3.webp",
   "card_bytes": 59872,
   "thumb": "shui3-thumb.webp",
-  "thumb_bytes": 23500
+  "thumb_bytes": 23500,
+  "art": "shui3-art.webp",
+  "art_bytes": 56372
  },
  {
   "char": "网",
@@ -487,7 +555,9 @@
   "file": "pictograph-wang3.webp",
   "card_bytes": 58684,
   "thumb": "wang3-thumb.webp",
-  "thumb_bytes": 24008
+  "thumb_bytes": 24008,
+  "art": "wang3-art.webp",
+  "art_bytes": 55352
  },
  {
   "char": "文",
@@ -501,7 +571,9 @@
   "file": "pictograph-wen2.webp",
   "card_bytes": 64062,
   "thumb": "wen2-thumb.webp",
-  "thumb_bytes": 25708
+  "thumb_bytes": 25708,
+  "art": "wen2-art.webp",
+  "art_bytes": 59042
  },
  {
   "char": "西",
@@ -515,7 +587,9 @@
   "file": "pictograph-xi1-897f.webp",
   "card_bytes": 44592,
   "thumb": "xi1-897f-thumb.webp",
-  "thumb_bytes": 15682
+  "thumb_bytes": 15682,
+  "art": "xi1-897f-art.webp",
+  "art_bytes": 41444
  },
  {
   "char": "小",
@@ -529,7 +603,9 @@
   "file": "pictograph-xiao3.webp",
   "card_bytes": 27576,
   "thumb": "xiao3-thumb.webp",
-  "thumb_bytes": 9744
+  "thumb_bytes": 9744,
+  "art": "xiao3-art.webp",
+  "art_bytes": 23228
  },
  {
   "char": "页",
@@ -543,7 +619,9 @@
   "file": "pictograph-ye4.webp",
   "card_bytes": 44100,
   "thumb": "ye4-thumb.webp",
-  "thumb_bytes": 17008
+  "thumb_bytes": 17008,
+  "art": "ye4-art.webp",
+  "art_bytes": 38416
  },
  {
   "char": "衣",
@@ -557,7 +635,9 @@
   "file": "pictograph-yi1.webp",
   "card_bytes": 58110,
   "thumb": "yi1-thumb.webp",
-  "thumb_bytes": 23346
+  "thumb_bytes": 23346,
+  "art": "yi1-art.webp",
+  "art_bytes": 55370
  },
  {
   "char": "雨",
@@ -571,7 +651,9 @@
   "file": "pictograph-yu3-96e8.webp",
   "card_bytes": 31700,
   "thumb": "yu3-96e8-thumb.webp",
-  "thumb_bytes": 12116
+  "thumb_bytes": 12116,
+  "art": "yu3-96e8-art.webp",
+  "art_bytes": 29488
  },
  {
   "char": "月",
@@ -585,7 +667,9 @@
   "file": "pictograph-yue4.webp",
   "card_bytes": 29960,
   "thumb": "yue4-thumb.webp",
-  "thumb_bytes": 11222
+  "thumb_bytes": 11222,
+  "art": "yue4-art.webp",
+  "art_bytes": 26652
  },
  {
   "char": "子",
@@ -599,7 +683,9 @@
   "file": "pictograph-zi3.webp",
   "card_bytes": 39384,
   "thumb": "zi3-thumb.webp",
-  "thumb_bytes": 14978
+  "thumb_bytes": 14978,
+  "art": "zi3-art.webp",
+  "art_bytes": 36876
  },
  {
   "char": "带",
@@ -613,7 +699,9 @@
   "file": "pictograph-dai4.webp",
   "card_bytes": 24250,
   "thumb": "dai4-thumb.webp",
-  "thumb_bytes": 9370
+  "thumb_bytes": 9370,
+  "art": "dai4-art.webp",
+  "art_bytes": 19754
  },
  {
   "char": "冬",
@@ -627,7 +715,9 @@
   "file": "pictograph-dong1-51ac.webp",
   "card_bytes": 51392,
   "thumb": "dong1-51ac-thumb.webp",
-  "thumb_bytes": 19268
+  "thumb_bytes": 19268,
+  "art": "dong1-51ac-art.webp",
+  "art_bytes": 46806
  },
  {
   "char": "而",
@@ -641,7 +731,9 @@
   "file": "pictograph-er2-800c.webp",
   "card_bytes": 74060,
   "thumb": "er2-800c-thumb.webp",
-  "thumb_bytes": 25612
+  "thumb_bytes": 25612,
+  "art": "er2-800c-art.webp",
+  "art_bytes": 70462
  },
  {
   "char": "广",
@@ -655,7 +747,329 @@
   "file": "pictograph-guang3.webp",
   "card_bytes": 84324,
   "thumb": "guang3-thumb.webp",
-  "thumb_bytes": 31860
+  "thumb_bytes": 31860,
+  "art": "guang3-art.webp",
+  "art_bytes": 80460
+ },
+ {
+  "char": "己",
+  "trad": "己",
+  "pinyin": "jǐ",
+  "pinyin_num": "ji3",
+  "gloss": "self",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "A length of cord bent into a squared-off coil, partly unwound.",
+  "file": "pictograph-ji3.webp",
+  "card_bytes": 48246,
+  "thumb": "ji3-thumb.webp",
+  "thumb_bytes": 19724,
+  "art": "ji3-art.webp",
+  "art_bytes": 47454
+ },
+ {
+  "char": "交",
+  "trad": "交",
+  "pinyin": "jiāo",
+  "pinyin_num": "jiao1",
+  "gloss": "to cross; intersect",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "A person standing with legs crossed at the ankles and arms folded across the chest.",
+  "file": "pictograph-jiao1.webp",
+  "card_bytes": 53564,
+  "thumb": "jiao1-thumb.webp",
+  "thumb_bytes": 21624,
+  "art": "jiao1-art.webp",
+  "art_bytes": 47846
+ },
+ {
+  "char": "斤",
+  "trad": "斤",
+  "pinyin": "jīn",
+  "pinyin_num": "jin1",
+  "gloss": "axe (original); unit of weight",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "An axe seen from the side: a broad curved blade mounted on a handle.",
+  "file": "pictograph-jin1-65a4.webp",
+  "card_bytes": 47740,
+  "thumb": "jin1-65a4-thumb.webp",
+  "thumb_bytes": 16782,
+  "art": "jin1-65a4-art.webp",
+  "art_bytes": 41044
+ },
+ {
+  "char": "力",
+  "trad": "力",
+  "pinyin": "lì",
+  "pinyin_num": "li4",
+  "gloss": "strength; plough (original)",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "An ancient plough: a long curved handle coming down to a forked share that bites into the soil.",
+  "file": "pictograph-li4-529b.webp",
+  "card_bytes": 27650,
+  "thumb": "li4-529b-thumb.webp",
+  "thumb_bytes": 9924,
+  "art": "li4-529b-art.webp",
+  "art_bytes": 21766
+ },
+ {
+  "char": "目",
+  "trad": "目",
+  "pinyin": "mù",
+  "pinyin_num": "mu4",
+  "gloss": "eye",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "An eye drawn on its side: an outline with the pupil as a mark in the middle.",
+  "file": "pictograph-mu4-76ee.webp",
+  "card_bytes": 34622,
+  "thumb": "mu4-76ee-thumb.webp",
+  "thumb_bytes": 12724,
+  "art": "mu4-76ee-art.webp",
+  "art_bytes": 32250
+ },
+ {
+  "char": "鸟",
+  "trad": "鳥",
+  "pinyin": "niǎo",
+  "pinyin_num": "niao3",
+  "gloss": "bird",
+  "hsk": 2,
+  "category": "animals",
+  "depicts": "A perched bird in profile: crested head with beak and eye, folded wing, tail feathers and clawed feet.",
+  "file": "pictograph-niao3.webp",
+  "card_bytes": 32522,
+  "thumb": "niao3-thumb.webp",
+  "thumb_bytes": 11612,
+  "art": "niao3-art.webp",
+  "art_bytes": 30200
+ },
+ {
+  "char": "片",
+  "trad": "片",
+  "pinyin": "piàn",
+  "pinyin_num": "pian4",
+  "gloss": "slice; slab",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "A log split lengthwise: one half of a trunk with its flat split face forward.",
+  "file": "pictograph-pian4.webp",
+  "card_bytes": 37170,
+  "thumb": "pian4-thumb.webp",
+  "thumb_bytes": 12780,
+  "art": "pian4-art.webp",
+  "art_bytes": 34074
+ },
+ {
+  "char": "且",
+  "trad": "且",
+  "pinyin": "qiě",
+  "pinyin_num": "qie3",
+  "gloss": "moreover; stand (original)",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "A sacrificial stand seen from the front: a flat top carried on legs, like a small altar table.",
+  "file": "pictograph-qie3.webp",
+  "card_bytes": 29306,
+  "thumb": "qie3-thumb.webp",
+  "thumb_bytes": 11314,
+  "art": "qie3-art.webp",
+  "art_bytes": 23150
+ },
+ {
+  "char": "示",
+  "trad": "示",
+  "pinyin": "shì",
+  "pinyin_num": "shi4",
+  "gloss": "to show; altar (original)",
+  "hsk": 2,
+  "category": "people-society",
+  "depicts": "A sacrificial altar: a table-like stand with offerings hanging from its top board.",
+  "file": "pictograph-shi4.webp",
+  "card_bytes": 25674,
+  "thumb": "shi4-thumb.webp",
+  "thumb_bytes": 10254,
+  "art": "shi4-art.webp",
+  "art_bytes": 20468
+ },
+ {
+  "char": "它",
+  "trad": "它",
+  "pinyin": "tā",
+  "pinyin_num": "ta1",
+  "gloss": "it",
+  "hsk": 2,
+  "category": "animals",
+  "depicts": "A snake with its head raised: a small head and a very long body curving down into a drooping tail.",
+  "file": "pictograph-ta1.webp",
+  "card_bytes": 30266,
+  "thumb": "ta1-thumb.webp",
+  "thumb_bytes": 11548,
+  "art": "ta1-art.webp",
+  "art_bytes": 27308
+ },
+ {
+  "char": "万",
+  "trad": "萬",
+  "pinyin": "wàn",
+  "pinyin_num": "wan4",
+  "gloss": "ten thousand",
+  "hsk": 2,
+  "category": "animals",
+  "depicts": "A scorpion: a round body with claws at the front, jointed legs at the sides and a curved sting tail.",
+  "file": "pictograph-wan4.webp",
+  "card_bytes": 46312,
+  "thumb": "wan4-thumb.webp",
+  "thumb_bytes": 19358,
+  "art": "wan4-art.webp",
+  "art_bytes": 43444
+ },
+ {
+  "char": "心",
+  "trad": "心",
+  "pinyin": "xīn",
+  "pinyin_num": "xin1",
+  "gloss": "heart",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "A heart organ: a rounded sac with the great vessels curving out of its top.",
+  "file": "pictograph-xin1-5fc3.webp",
+  "card_bytes": 47544,
+  "thumb": "xin1-5fc3-thumb.webp",
+  "thumb_bytes": 17916,
+  "art": "xin1-5fc3-art.webp",
+  "art_bytes": 44440
+ },
+ {
+  "char": "行",
+  "trad": "行",
+  "pinyin": "xíng",
+  "pinyin_num": "xing2",
+  "gloss": "to go; to walk",
+  "hsk": 2,
+  "category": "other",
+  "depicts": "A crossroads seen from above: one road crossing another at right angles.",
+  "file": "pictograph-xing2.webp",
+  "card_bytes": 48602,
+  "thumb": "xing2-thumb.webp",
+  "thumb_bytes": 18252,
+  "art": "xing2-art.webp",
+  "art_bytes": 43668
+ },
+ {
+  "char": "要",
+  "trad": "要",
+  "pinyin": "yào",
+  "pinyin_num": "yao4",
+  "gloss": "to want; important",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "A person standing with both hands planted on their waist, elbows out.",
+  "file": "pictograph-yao4.webp",
+  "card_bytes": 33602,
+  "thumb": "yao4-thumb.webp",
+  "thumb_bytes": 13066,
+  "art": "yao4-art.webp",
+  "art_bytes": 27370
+ },
+ {
+  "char": "又",
+  "trad": "又",
+  "pinyin": "yòu",
+  "pinyin_num": "you4",
+  "gloss": "again; hand (original)",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "A right hand seen from the side, its fingers curled as if gripping.",
+  "file": "pictograph-you4.webp",
+  "card_bytes": 29704,
+  "thumb": "you4-thumb.webp",
+  "thumb_bytes": 11768,
+  "art": "you4-art.webp",
+  "art_bytes": 23836
+ },
+ {
+  "char": "鱼",
+  "trad": "魚",
+  "pinyin": "yú",
+  "pinyin_num": "yu2",
+  "gloss": "fish",
+  "hsk": 2,
+  "category": "animals",
+  "depicts": "A fish in profile: triangular head with mouth and eye, a scaled body, fins, and a forked tail.",
+  "file": "pictograph-yu2.webp",
+  "card_bytes": 29410,
+  "thumb": "yu2-thumb.webp",
+  "thumb_bytes": 11228,
+  "art": "yu2-art.webp",
+  "art_bytes": 26356
+ },
+ {
+  "char": "云",
+  "trad": "雲",
+  "pinyin": "yún",
+  "pinyin_num": "yun2",
+  "gloss": "cloud",
+  "hsk": 2,
+  "category": "nature",
+  "depicts": "A cloud curling over on itself: a straight stroke on top with a spiral swirl hanging below.",
+  "file": "pictograph-yun2.webp",
+  "card_bytes": 25600,
+  "thumb": "yun2-thumb.webp",
+  "thumb_bytes": 10080,
+  "art": "yun2-art.webp",
+  "art_bytes": 22178
+ },
+ {
+  "char": "长",
+  "trad": "長",
+  "pinyin": "zhǎng",
+  "pinyin_num": "zhang3",
+  "gloss": "to grow; long",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "An old man with very long hair streaming behind him, leaning on a walking staff.",
+  "file": "pictograph-zhang3.webp",
+  "card_bytes": 41120,
+  "thumb": "zhang3-thumb.webp",
+  "thumb_bytes": 15426,
+  "art": "zhang3-art.webp",
+  "art_bytes": 36884
+ },
+ {
+  "char": "主",
+  "trad": "主",
+  "pinyin": "zhǔ",
+  "pinyin_num": "zhu3",
+  "gloss": "master; lamp (original)",
+  "hsk": 2,
+  "category": "tools-objects",
+  "depicts": "An oil lamp on a stand: a stem rising to a shallow dish with a single flame burning on top.",
+  "file": "pictograph-zhu3.webp",
+  "card_bytes": 32298,
+  "thumb": "zhu3-thumb.webp",
+  "thumb_bytes": 12390,
+  "art": "zhu3-art.webp",
+  "art_bytes": 27304
+ },
+ {
+  "char": "自",
+  "trad": "自",
+  "pinyin": "zì",
+  "pinyin_num": "zi4",
+  "gloss": "self (originally: nose)",
+  "hsk": 2,
+  "category": "body",
+  "depicts": "A nose seen from the front: the bridge, the two nostrils and the wings of the nose.",
+  "file": "pictograph-zi4.webp",
+  "card_bytes": 55986,
+  "thumb": "zi4-thumb.webp",
+  "thumb_bytes": 20538,
+  "art": "zi4-art.webp",
+  "art_bytes": 51592
  },
  {
   "char": "厂",
@@ -669,7 +1083,9 @@
   "file": "pictograph-chang3.webp",
   "card_bytes": 88174,
   "thumb": "chang3-thumb.webp",
-  "thumb_bytes": 33592
+  "thumb_bytes": 33592,
+  "art": "chang3-art.webp",
+  "art_bytes": 84720
  },
  {
   "char": "大",
@@ -683,7 +1099,9 @@
   "file": "pictograph-da4.webp",
   "card_bytes": 47440,
   "thumb": "da4-thumb.webp",
-  "thumb_bytes": 18448
+  "thumb_bytes": 18448,
+  "art": "da4-art.webp",
+  "art_bytes": 44536
  },
  {
   "char": "刀",
@@ -697,7 +1115,9 @@
   "file": "pictograph-dao1.webp",
   "card_bytes": 24022,
   "thumb": "dao1-thumb.webp",
-  "thumb_bytes": 8480
+  "thumb_bytes": 8480,
+  "art": "dao1-art.webp",
+  "art_bytes": 20652
  },
  {
   "char": "丰",
@@ -711,7 +1131,473 @@
   "file": "pictograph-feng1.webp",
   "card_bytes": 50054,
   "thumb": "feng1-thumb.webp",
-  "thumb_bytes": 19106
+  "thumb_bytes": 19106,
+  "art": "feng1-art.webp",
+  "art_bytes": 44708
+ },
+ {
+  "char": "立",
+  "trad": "立",
+  "pinyin": "lì",
+  "pinyin_num": "li4",
+  "gloss": "to stand",
+  "hsk": 3,
+  "category": "body",
+  "depicts": "A person standing squarely on a ground line, seen from the front.",
+  "file": "pictograph-li4-7acb.webp",
+  "card_bytes": 61434,
+  "thumb": "li4-7acb-thumb.webp",
+  "thumb_bytes": 25282,
+  "art": "li4-7acb-art.webp",
+  "art_bytes": 58352
+ },
+ {
+  "char": "龙",
+  "trad": "龍",
+  "pinyin": "lóng",
+  "pinyin_num": "long2",
+  "gloss": "dragon",
+  "hsk": 3,
+  "category": "animals",
+  "depicts": "A dragon rearing up: a horned head with open jaws at the top of a long serpentine body ending in a tail.",
+  "file": "pictograph-long2.webp",
+  "card_bytes": 55382,
+  "thumb": "long2-thumb.webp",
+  "thumb_bytes": 21476,
+  "art": "long2-art.webp",
+  "art_bytes": 52634
+ },
+ {
+  "char": "木",
+  "trad": "木",
+  "pinyin": "mù",
+  "pinyin_num": "mu4",
+  "gloss": "tree; wood",
+  "hsk": 3,
+  "category": "plants",
+  "depicts": "A tree: a straight trunk, branches spreading up and out, and roots spreading down into the ground.",
+  "file": "pictograph-mu4-6728.webp",
+  "card_bytes": 81252,
+  "thumb": "mu4-6728-thumb.webp",
+  "thumb_bytes": 34178,
+  "art": "mu4-6728-art.webp",
+  "art_bytes": 78068
+ },
+ {
+  "char": "齐",
+  "trad": "齊",
+  "pinyin": "qí",
+  "pinyin_num": "qi2",
+  "gloss": "even; level",
+  "hsk": 3,
+  "category": "plants",
+  "depicts": "Three heads of grain standing in a row, all grown to exactly the same height.",
+  "file": "pictograph-qi2.webp",
+  "card_bytes": 28656,
+  "thumb": "qi2-thumb.webp",
+  "thumb_bytes": 10132,
+  "art": "qi2-art.webp",
+  "art_bytes": 24478
+ },
+ {
+  "char": "升",
+  "trad": "升",
+  "pinyin": "shēng",
+  "pinyin_num": "sheng1",
+  "gloss": "to rise; measuring ladle (original)",
+  "hsk": 3,
+  "category": "tools-objects",
+  "depicts": "A measuring dipper: a deep cup with a long flat handle sticking out to one side.",
+  "file": "pictograph-sheng1-5347.webp",
+  "card_bytes": 32376,
+  "thumb": "sheng1-5347-thumb.webp",
+  "thumb_bytes": 11622,
+  "art": "sheng1-5347-art.webp",
+  "art_bytes": 25280
+ },
+ {
+  "char": "石",
+  "trad": "石",
+  "pinyin": "shí",
+  "pinyin_num": "shi2",
+  "gloss": "stone; rock",
+  "hsk": 3,
+  "category": "nature",
+  "depicts": "A rounded boulder lying at the foot of a cliff overhang.",
+  "file": "pictograph-shi2.webp",
+  "card_bytes": 56594,
+  "thumb": "shi2-thumb.webp",
+  "thumb_bytes": 20496,
+  "art": "shi2-art.webp",
+  "art_bytes": 53104
+ },
+ {
+  "char": "首",
+  "trad": "首",
+  "pinyin": "shǒu",
+  "pinyin_num": "shou3",
+  "gloss": "head",
+  "hsk": 3,
+  "category": "body",
+  "depicts": "A head with a full mass of hair on top, hair strokes rising above the face.",
+  "file": "pictograph-shou3-9996.webp",
+  "card_bytes": 46006,
+  "thumb": "shou3-9996-thumb.webp",
+  "thumb_bytes": 16950,
+  "art": "shou3-9996-art.webp",
+  "art_bytes": 43402
+ },
+ {
+  "char": "土",
+  "trad": "土",
+  "pinyin": "tǔ",
+  "pinyin_num": "tu3",
+  "gloss": "earth; soil",
+  "hsk": 3,
+  "category": "nature",
+  "depicts": "A mound of earth heaped up on a flat ground line, like a small altar of soil.",
+  "file": "pictograph-tu3.webp",
+  "card_bytes": 31772,
+  "thumb": "tu3-thumb.webp",
+  "thumb_bytes": 11276,
+  "art": "tu3-art.webp",
+  "art_bytes": 29974
+ },
+ {
+  "char": "象",
+  "trad": "象",
+  "pinyin": "xiàng",
+  "pinyin_num": "xiang4",
+  "gloss": "elephant",
+  "hsk": 3,
+  "category": "animals",
+  "depicts": "An elephant in profile: a huge ear, a long trunk curling down, tusks, a massive body and four column legs.",
+  "file": "pictograph-xiang4.webp",
+  "card_bytes": 38868,
+  "thumb": "xiang4-thumb.webp",
+  "thumb_bytes": 15488,
+  "art": "xiang4-art.webp",
+  "art_bytes": 33238
+ },
+ {
+  "char": "羊",
+  "trad": "羊",
+  "pinyin": "yáng",
+  "pinyin_num": "yang2",
+  "gloss": "sheep; goat",
+  "hsk": 3,
+  "category": "animals",
+  "depicts": "A sheep's head seen from the front: two curling horns, ears, and a pointed face below.",
+  "file": "pictograph-yang2.webp",
+  "card_bytes": 35724,
+  "thumb": "yang2-thumb.webp",
+  "thumb_bytes": 13870,
+  "art": "yang2-art.webp",
+  "art_bytes": 31218
+ },
+ {
+  "char": "至",
+  "trad": "至",
+  "pinyin": "zhì",
+  "pinyin_num": "zhi4",
+  "gloss": "to arrive",
+  "hsk": 3,
+  "category": "tools-objects",
+  "depicts": "An arrow flying downward and striking a horizontal ground line point-first.",
+  "file": "pictograph-zhi4.webp",
+  "card_bytes": 43116,
+  "thumb": "zhi4-thumb.webp",
+  "thumb_bytes": 16656,
+  "art": "zhi4-art.webp",
+  "art_bytes": 39088
+ },
+ {
+  "char": "足",
+  "trad": "足",
+  "pinyin": "zú",
+  "pinyin_num": "zu2",
+  "gloss": "foot",
+  "hsk": 3,
+  "category": "body",
+  "depicts": "A whole leg: a circle for the kneecap at the top, the shin below, and a foot at the bottom.",
+  "file": "pictograph-zu2.webp",
+  "card_bytes": 60102,
+  "thumb": "zu2-thumb.webp",
+  "thumb_bytes": 22744,
+  "art": "zu2-art.webp",
+  "art_bytes": 57416
+ },
+ {
+  "char": "巴",
+  "trad": "巴",
+  "pinyin": "bā",
+  "pinyin_num": "ba1",
+  "gloss": "(used in compounds)",
+  "hsk": 4,
+  "category": "animals",
+  "depicts": "A big thick snake coiled up, its head raised at one end of the coil.",
+  "file": "pictograph-ba1-5df4.webp",
+  "card_bytes": 41990,
+  "thumb": "ba1-5df4-thumb.webp",
+  "thumb_bytes": 15728,
+  "art": "ba1-5df4-art.webp",
+  "art_bytes": 37798
+ },
+ {
+  "char": "贝",
+  "trad": "貝",
+  "pinyin": "bèi",
+  "pinyin_num": "bei4",
+  "gloss": "shell; cowrie",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "A cowrie shell: an oval shell with a serrated slit running down its middle.",
+  "file": "pictograph-bei4.webp",
+  "card_bytes": 24354,
+  "thumb": "bei4-thumb.webp",
+  "thumb_bytes": 9426,
+  "art": "bei4-art.webp",
+  "art_bytes": 20038
+ },
+ {
+  "char": "虫",
+  "trad": "蟲",
+  "pinyin": "chóng",
+  "pinyin_num": "chong2",
+  "gloss": "insect; worm",
+  "hsk": 4,
+  "category": "animals",
+  "depicts": "A snake rearing up: a triangular head with an eye on a thick body curving down into a tail.",
+  "file": "pictograph-chong2.webp",
+  "card_bytes": 42620,
+  "thumb": "chong2-thumb.webp",
+  "thumb_bytes": 15920,
+  "art": "chong2-art.webp",
+  "art_bytes": 38242
+ },
+ {
+  "char": "豆",
+  "trad": "豆",
+  "pinyin": "dòu",
+  "pinyin_num": "dou4",
+  "gloss": "bean; (originally) stemmed vessel",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "A stemmed serving bowl: a wide dish on a tall flared foot, with a raised rim.",
+  "file": "pictograph-dou4.webp",
+  "card_bytes": 28856,
+  "thumb": "dou4-thumb.webp",
+  "thumb_bytes": 11786,
+  "art": "dou4-art.webp",
+  "art_bytes": 21950
+ },
+ {
+  "char": "耳",
+  "trad": "耳",
+  "pinyin": "ěr",
+  "pinyin_num": "er3",
+  "gloss": "ear",
+  "hsk": 4,
+  "category": "body",
+  "depicts": "An ear seen from the side: an outer rim, inner folds, and the ear opening.",
+  "file": "pictograph-er3.webp",
+  "card_bytes": 42522,
+  "thumb": "er3-thumb.webp",
+  "thumb_bytes": 16440,
+  "art": "er3-art.webp",
+  "art_bytes": 39936
+ },
+ {
+  "char": "瓜",
+  "trad": "瓜",
+  "pinyin": "guā",
+  "pinyin_num": "gua1",
+  "gloss": "melon",
+  "hsk": 4,
+  "category": "plants",
+  "depicts": "A round melon hanging from a curling vine with leaves.",
+  "file": "pictograph-gua1.webp",
+  "card_bytes": 50362,
+  "thumb": "gua1-thumb.webp",
+  "thumb_bytes": 19402,
+  "art": "gua1-art.webp",
+  "art_bytes": 46208
+ },
+ {
+  "char": "户",
+  "trad": "戶",
+  "pinyin": "hù",
+  "pinyin_num": "hu4",
+  "gloss": "door; household",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "One single leaf of a door — half of a double gate — with its pivot post.",
+  "file": "pictograph-hu4.webp",
+  "card_bytes": 39810,
+  "thumb": "hu4-thumb.webp",
+  "thumb_bytes": 14574,
+  "art": "hu4-art.webp",
+  "art_bytes": 35700
+ },
+ {
+  "char": "几",
+  "trad": "几",
+  "pinyin": "jī",
+  "pinyin_num": "ji1",
+  "gloss": "small table",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "A small low table with short legs, drawn from the side.",
+  "file": "pictograph-ji1.webp",
+  "card_bytes": 17366,
+  "thumb": "ji1-thumb.webp",
+  "thumb_bytes": 6324,
+  "art": "ji1-art.webp",
+  "art_bytes": 14144
+ },
+ {
+  "char": "角",
+  "trad": "角",
+  "pinyin": "jiǎo",
+  "pinyin_num": "jiao3",
+  "gloss": "horn; corner",
+  "hsk": 4,
+  "category": "animals",
+  "depicts": "An animal horn: thick and curved with ringed ridges along it, tapering to a point.",
+  "file": "pictograph-jiao3.webp",
+  "card_bytes": 39236,
+  "thumb": "jiao3-thumb.webp",
+  "thumb_bytes": 14742,
+  "art": "jiao3-art.webp",
+  "art_bytes": 34722
+ },
+ {
+  "char": "巾",
+  "trad": "巾",
+  "pinyin": "jīn",
+  "pinyin_num": "jin1",
+  "gloss": "cloth; towel",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "A rectangular cloth hanging down from a horizontal strap, its lower edge loose.",
+  "file": "pictograph-jin1-5dfe.webp",
+  "card_bytes": 39564,
+  "thumb": "jin1-5dfe-thumb.webp",
+  "thumb_bytes": 14884,
+  "art": "jin1-5dfe-art.webp",
+  "art_bytes": 36150
+ },
+ {
+  "char": "泉",
+  "trad": "泉",
+  "pinyin": "quán",
+  "pinyin_num": "quan2",
+  "gloss": "spring (water)",
+  "hsk": 4,
+  "category": "nature",
+  "depicts": "Water gushing out of a round spring mouth in rock and streaming away below it.",
+  "file": "pictograph-quan2.webp",
+  "card_bytes": 52138,
+  "thumb": "quan2-thumb.webp",
+  "thumb_bytes": 19672,
+  "art": "quan2-art.webp",
+  "art_bytes": 46916
+ },
+ {
+  "char": "伞",
+  "trad": "傘",
+  "pinyin": "sǎn",
+  "pinyin_num": "san3",
+  "gloss": "umbrella",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "An open umbrella from the side: a curved canopy with ribs and a straight handle below.",
+  "file": "pictograph-san3.webp",
+  "card_bytes": 32478,
+  "thumb": "san3-thumb.webp",
+  "thumb_bytes": 12452,
+  "art": "san3-art.webp",
+  "art_bytes": 28458
+ },
+ {
+  "char": "申",
+  "trad": "申",
+  "pinyin": "shēn",
+  "pinyin_num": "shen1",
+  "gloss": "to state; lightning (original)",
+  "hsk": 4,
+  "category": "nature",
+  "depicts": "A bolt of lightning zigzagging down from the sky.",
+  "file": "pictograph-shen1-7533.webp",
+  "card_bytes": 85846,
+  "thumb": "shen1-7533-thumb.webp",
+  "thumb_bytes": 36644,
+  "art": "shen1-7533-art.webp",
+  "art_bytes": 79574
+ },
+ {
+  "char": "牙",
+  "trad": "牙",
+  "pinyin": "yá",
+  "pinyin_num": "ya2",
+  "gloss": "tooth",
+  "hsk": 4,
+  "category": "body",
+  "depicts": "Upper and lower molar teeth meshing together, their cusped crowns interlocked.",
+  "file": "pictograph-ya2.webp",
+  "card_bytes": 39208,
+  "thumb": "ya2-thumb.webp",
+  "thumb_bytes": 15242,
+  "art": "ya2-art.webp",
+  "art_bytes": 35900
+ },
+ {
+  "char": "亚",
+  "trad": "亞",
+  "pinyin": "yà",
+  "pinyin_num": "ya4",
+  "gloss": "second; Asia",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "The ground plan of a building drawn from above: a square outline with a cross-shaped inner plan.",
+  "file": "pictograph-ya4.webp",
+  "card_bytes": 30094,
+  "thumb": "ya4-thumb.webp",
+  "thumb_bytes": 10984,
+  "art": "ya4-art.webp",
+  "art_bytes": 25620
+ },
+ {
+  "char": "玉",
+  "trad": "玉",
+  "pinyin": "yù",
+  "pinyin_num": "yu4",
+  "gloss": "jade",
+  "hsk": 4,
+  "category": "tools-objects",
+  "depicts": "Three flat jade tablets strung together on one vertical cord.",
+  "file": "pictograph-yu4.webp",
+  "card_bytes": 49902,
+  "thumb": "yu4-thumb.webp",
+  "thumb_bytes": 18154,
+  "art": "yu4-art.webp",
+  "art_bytes": 46896
+ },
+ {
+  "char": "中",
+  "trad": "中",
+  "pinyin": "zhōng",
+  "pinyin_num": "zhong1",
+  "gloss": "middle; centre",
+  "hsk": 4,
+  "category": "people-society",
+  "depicts": "A clan banner: a tall pole planted in a base, with long streamers flying from its top.",
+  "file": "pictograph-zhong1.webp",
+  "card_bytes": 42138,
+  "thumb": "zhong1-thumb.webp",
+  "thumb_bytes": 16356,
+  "art": "zhong1-art.webp",
+  "art_bytes": 37626
  },
  {
   "char": "册",
@@ -725,7 +1611,9 @@
   "file": "pictograph-ce4.webp",
   "card_bytes": 26902,
   "thumb": "ce4-thumb.webp",
-  "thumb_bytes": 10136
+  "thumb_bytes": 10136,
+  "art": "ce4-art.webp",
+  "art_bytes": 22920
  },
  {
   "char": "盾",
@@ -739,7 +1627,9 @@
   "file": "pictograph-dun4.webp",
   "card_bytes": 38288,
   "thumb": "dun4-thumb.webp",
-  "thumb_bytes": 13676
+  "thumb_bytes": 13676,
+  "art": "dun4-art.webp",
+  "art_bytes": 35556
  },
  {
   "char": "革",
@@ -753,7 +1643,9 @@
   "file": "pictograph-ge2.webp",
   "card_bytes": 25546,
   "thumb": "ge2-thumb.webp",
-  "thumb_bytes": 9884
+  "thumb_bytes": 9884,
+  "art": "ge2-art.webp",
+  "art_bytes": 21386
  },
  {
   "char": "虎",
@@ -767,7 +1659,9 @@
   "file": "pictograph-hu3.webp",
   "card_bytes": 41088,
   "thumb": "hu3-thumb.webp",
-  "thumb_bytes": 16568
+  "thumb_bytes": 16568,
+  "art": "hu3-art.webp",
+  "art_bytes": 38264
  },
  {
   "char": "矛",
@@ -781,7 +1675,9 @@
   "file": "pictograph-mao2-77db.webp",
   "card_bytes": 56268,
   "thumb": "mao2-77db-thumb.webp",
-  "thumb_bytes": 21544
+  "thumb_bytes": 21544,
+  "art": "mao2-77db-art.webp",
+  "art_bytes": 52240
  },
  {
   "char": "欠",
@@ -795,6 +1691,472 @@
   "file": "pictograph-qian4.webp",
   "card_bytes": 29326,
   "thumb": "qian4-thumb.webp",
-  "thumb_bytes": 11754
+  "thumb_bytes": 11754,
+  "art": "qian4-art.webp",
+  "art_bytes": 23732
+ },
+ {
+  "char": "鼠",
+  "trad": "鼠",
+  "pinyin": "shǔ",
+  "pinyin_num": "shu3",
+  "gloss": "rat; mouse",
+  "hsk": 5,
+  "category": "animals",
+  "depicts": "A rat in profile: pointed snout with whiskers and teeth, round ears, a plump body, little feet and a long thin tail.",
+  "file": "pictograph-shu3.webp",
+  "card_bytes": 37504,
+  "thumb": "shu3-thumb.webp",
+  "thumb_bytes": 14532,
+  "art": "shu3-art.webp",
+  "art_bytes": 33868
+ },
+ {
+  "char": "兔",
+  "trad": "兔",
+  "pinyin": "tù",
+  "pinyin_num": "tu4",
+  "gloss": "rabbit",
+  "hsk": 5,
+  "category": "animals",
+  "depicts": "A rabbit crouching in profile: long ears laid back, a round body, a short tail and folded legs.",
+  "file": "pictograph-tu4.webp",
+  "card_bytes": 35050,
+  "thumb": "tu4-thumb.webp",
+  "thumb_bytes": 13690,
+  "art": "tu4-art.webp",
+  "art_bytes": 31014
+ },
+ {
+  "char": "胃",
+  "trad": "胃",
+  "pinyin": "wèi",
+  "pinyin_num": "wei4",
+  "gloss": "stomach",
+  "hsk": 5,
+  "category": "body",
+  "depicts": "A stomach: a curved sac filled with grain, sitting above a strip of flesh.",
+  "file": "pictograph-wei4.webp",
+  "card_bytes": 48628,
+  "thumb": "wei4-thumb.webp",
+  "thumb_bytes": 17552,
+  "art": "wei4-art.webp",
+  "art_bytes": 44970
+ },
+ {
+  "char": "夕",
+  "trad": "夕",
+  "pinyin": "xī",
+  "pinyin_num": "xi1",
+  "gloss": "evening; sunset",
+  "hsk": 5,
+  "category": "nature",
+  "depicts": "A crescent moon only half risen: the lower half of a crescent showing at dusk.",
+  "file": "pictograph-xi1-5915.webp",
+  "card_bytes": 35226,
+  "thumb": "xi1-5915-thumb.webp",
+  "thumb_bytes": 13468,
+  "art": "xi1-5915-art.webp",
+  "art_bytes": 30530
+ },
+ {
+  "char": "辛",
+  "trad": "辛",
+  "pinyin": "xīn",
+  "pinyin_num": "xin1",
+  "gloss": "pungent; bitter",
+  "hsk": 5,
+  "category": "tools-objects",
+  "depicts": "A sharp tattooing knife standing upright on its point.",
+  "file": "pictograph-xin1-8f9b.webp",
+  "card_bytes": 31478,
+  "thumb": "xin1-8f9b-thumb.webp",
+  "thumb_bytes": 11104,
+  "art": "xin1-8f9b-art.webp",
+  "art_bytes": 25448
+ },
+ {
+  "char": "乙",
+  "trad": "乙",
+  "pinyin": "yǐ",
+  "pinyin_num": "yi3",
+  "gloss": "second (heavenly stem)",
+  "hsk": 5,
+  "category": "plants",
+  "depicts": "A seedling bending sideways as it forces its way out of the soil in spring.",
+  "file": "pictograph-yi3.webp",
+  "card_bytes": 25430,
+  "thumb": "yi3-thumb.webp",
+  "thumb_bytes": 9906,
+  "art": "yi3-art.webp",
+  "art_bytes": 20002
+ },
+ {
+  "char": "羽",
+  "trad": "羽",
+  "pinyin": "yǔ",
+  "pinyin_num": "yu3",
+  "gloss": "feather",
+  "hsk": 5,
+  "category": "animals",
+  "depicts": "Two long feathers side by side, each with a central quill and fine barbs along both sides.",
+  "file": "pictograph-yu3-7fbd.webp",
+  "card_bytes": 68454,
+  "thumb": "yu3-7fbd-thumb.webp",
+  "thumb_bytes": 24048,
+  "art": "yu3-7fbd-art.webp",
+  "art_bytes": 64614
+ },
+ {
+  "char": "竹",
+  "trad": "竹",
+  "pinyin": "zhú",
+  "pinyin_num": "zhu2",
+  "gloss": "bamboo",
+  "hsk": 5,
+  "category": "plants",
+  "depicts": "Two bamboo stalks side by side, each with pointed leaves drooping from its upper joints.",
+  "file": "pictograph-zhu2.webp",
+  "card_bytes": 76382,
+  "thumb": "zhu2-thumb.webp",
+  "thumb_bytes": 33340,
+  "art": "zhu2-art.webp",
+  "art_bytes": 72636
+ },
+ {
+  "char": "壶",
+  "trad": "壺",
+  "pinyin": "hú",
+  "pinyin_num": "hu2",
+  "gloss": "pot; kettle",
+  "hsk": 6,
+  "category": "tools-objects",
+  "depicts": "A round pot with a domed lid and a small knob on top, its belly swelling out.",
+  "file": "pictograph-hu2.webp",
+  "card_bytes": 44308,
+  "thumb": "hu2-thumb.webp",
+  "thumb_bytes": 15322,
+  "art": "hu2-art.webp",
+  "art_bytes": 40068
+ },
+ {
+  "char": "井",
+  "trad": "井",
+  "pinyin": "jǐng",
+  "pinyin_num": "jing3",
+  "gloss": "well",
+  "hsk": 6,
+  "category": "tools-objects",
+  "depicts": "The square wooden frame of a well seen from above: crossed timbers forming a grid over the opening.",
+  "file": "pictograph-jing3.webp",
+  "card_bytes": 45150,
+  "thumb": "jing3-thumb.webp",
+  "thumb_bytes": 16966,
+  "art": "jing3-art.webp",
+  "art_bytes": 43568
+ },
+ {
+  "char": "曲",
+  "trad": "曲",
+  "pinyin": "qū",
+  "pinyin_num": "qu1",
+  "gloss": "bent; curved",
+  "hsk": 6,
+  "category": "tools-objects",
+  "depicts": "A shallow rectangular tray with bent-up sides — a frame used for raising silkworms.",
+  "file": "pictograph-qu1.webp",
+  "card_bytes": 60202,
+  "thumb": "qu1-thumb.webp",
+  "thumb_bytes": 21270,
+  "art": "qu1-art.webp",
+  "art_bytes": 56208
+ },
+ {
+  "char": "勺",
+  "trad": "勺",
+  "pinyin": "sháo",
+  "pinyin_num": "shao2",
+  "gloss": "spoon; ladle",
+  "hsk": 6,
+  "category": "tools-objects",
+  "depicts": "A ladle: a small round cup with a long handle curving out of it.",
+  "file": "pictograph-shao2.webp",
+  "card_bytes": 28044,
+  "thumb": "shao2-thumb.webp",
+  "thumb_bytes": 10480,
+  "art": "shao2-art.webp",
+  "art_bytes": 23442
+ },
+ {
+  "char": "舌",
+  "trad": "舌",
+  "pinyin": "shé",
+  "pinyin_num": "she2",
+  "gloss": "tongue",
+  "hsk": 6,
+  "category": "body",
+  "depicts": "A tongue lolling out of an open mouth, its tip flicking upward.",
+  "file": "pictograph-she2.webp",
+  "card_bytes": 30990,
+  "thumb": "she2-thumb.webp",
+  "thumb_bytes": 12502,
+  "art": "she2-art.webp",
+  "art_bytes": 27470
+ },
+ {
+  "char": "田",
+  "trad": "田",
+  "pinyin": "tián",
+  "pinyin_num": "tian2",
+  "gloss": "field",
+  "hsk": 6,
+  "category": "nature",
+  "depicts": "A rectangular field divided by crossing paths into four plots, like a paddy seen from above.",
+  "file": "pictograph-tian2.webp",
+  "card_bytes": 48178,
+  "thumb": "tian2-thumb.webp",
+  "thumb_bytes": 17702,
+  "art": "tian2-art.webp",
+  "art_bytes": 45446
+ },
+ {
+  "char": "乌",
+  "trad": "烏",
+  "pinyin": "wū",
+  "pinyin_num": "wu1",
+  "gloss": "crow",
+  "hsk": 6,
+  "category": "animals",
+  "depicts": "A crow in profile like a bird drawing — head, beak, wing, tail and feet — but with no eye dot, because the crow is too black for its eye to show.",
+  "file": "pictograph-wu1.webp",
+  "card_bytes": 17820,
+  "thumb": "wu1-thumb.webp",
+  "thumb_bytes": 7516,
+  "art": "wu1-art.webp",
+  "art_bytes": 14528
+ },
+ {
+  "char": "血",
+  "trad": "血",
+  "pinyin": "xuè",
+  "pinyin_num": "xue4",
+  "gloss": "blood",
+  "hsk": 6,
+  "category": "body",
+  "depicts": "A shallow sacrificial dish with a single drop of blood in the middle of it.",
+  "file": "pictograph-xue4.webp",
+  "card_bytes": 30296,
+  "thumb": "xue4-thumb.webp",
+  "thumb_bytes": 11410,
+  "art": "xue4-art.webp",
+  "art_bytes": 27230
+ },
+ {
+  "char": "予",
+  "trad": "予",
+  "pinyin": "yǔ",
+  "pinyin_num": "yu3",
+  "gloss": "to give; I",
+  "hsk": 6,
+  "category": "tools-objects",
+  "depicts": "A weaving shuttle: a pointed peg with thread being pushed across the warp threads.",
+  "file": "pictograph-yu3-4e88.webp",
+  "card_bytes": 28066,
+  "thumb": "yu3-4e88-thumb.webp",
+  "thumb_bytes": 10340,
+  "art": "yu3-4e88-art.webp",
+  "art_bytes": 24506
+ },
+ {
+  "char": "臣",
+  "trad": "臣",
+  "pinyin": "chén",
+  "pinyin_num": "chen2",
+  "gloss": "minister; official",
+  "hsk": null,
+  "category": "body",
+  "depicts": "One eye drawn upright and vertical — the eye of a head bowed low in submission.",
+  "file": "pictograph-chen2.webp",
+  "card_bytes": 37956,
+  "thumb": "chen2-thumb.webp",
+  "thumb_bytes": 14362,
+  "art": "chen2-art.webp",
+  "art_bytes": 33364
+ },
+ {
+  "char": "川",
+  "trad": "川",
+  "pinyin": "chuān",
+  "pinyin_num": "chuan1",
+  "gloss": "river",
+  "hsk": null,
+  "category": "nature",
+  "depicts": "Three long parallel streams of water flowing downward side by side.",
+  "file": "pictograph-chuan1.webp",
+  "card_bytes": 47962,
+  "thumb": "chuan1-thumb.webp",
+  "thumb_bytes": 18532,
+  "art": "chuan1-art.webp",
+  "art_bytes": 45156
+ },
+ {
+  "char": "鼎",
+  "trad": "鼎",
+  "pinyin": "dǐng",
+  "pinyin_num": "ding3",
+  "gloss": "tripod cauldron",
+  "hsk": null,
+  "category": "tools-objects",
+  "depicts": "A bronze tripod cauldron: a round belly, two handles on the rim, and three sturdy legs.",
+  "file": "pictograph-ding3.webp",
+  "card_bytes": 24748,
+  "thumb": "ding3-thumb.webp",
+  "thumb_bytes": 8934,
+  "art": "ding3-art.webp",
+  "art_bytes": 19406
+ },
+ {
+  "char": "弓",
+  "trad": "弓",
+  "pinyin": "gōng",
+  "pinyin_num": "gong1",
+  "gloss": "bow",
+  "hsk": null,
+  "category": "tools-objects",
+  "depicts": "A strung bow: a deeply curved bow with its string drawn straight down one side.",
+  "file": "pictograph-gong1-5f13.webp",
+  "card_bytes": 22208,
+  "thumb": "gong1-5f13-thumb.webp",
+  "thumb_bytes": 8574,
+  "art": "gong1-5f13-art.webp",
+  "art_bytes": 18816
+ },
+ {
+  "char": "禾",
+  "trad": "禾",
+  "pinyin": "hé",
+  "pinyin_num": "he2",
+  "gloss": "grain plant",
+  "hsk": null,
+  "category": "plants",
+  "depicts": "A standing grain plant: a stalk with leaves and a heavy drooping ear of grain at the top.",
+  "file": "pictograph-he2.webp",
+  "card_bytes": 34850,
+  "thumb": "he2-thumb.webp",
+  "thumb_bytes": 13478,
+  "art": "he2-art.webp",
+  "art_bytes": 30660
+ },
+ {
+  "char": "鹿",
+  "trad": "鹿",
+  "pinyin": "lù",
+  "pinyin_num": "lu4",
+  "gloss": "deer",
+  "hsk": null,
+  "category": "animals",
+  "depicts": "A deer in profile: a head crowned with big branching antlers, a slim body and four thin legs.",
+  "file": "pictograph-lu4.webp",
+  "card_bytes": 30176,
+  "thumb": "lu4-thumb.webp",
+  "thumb_bytes": 11864,
+  "art": "lu4-art.webp",
+  "art_bytes": 26380
+ },
+ {
+  "char": "眉",
+  "trad": "眉",
+  "pinyin": "méi",
+  "pinyin_num": "mei2",
+  "gloss": "eyebrow",
+  "hsk": null,
+  "category": "body",
+  "depicts": "An eyebrow arching over an eye: a curved brow with hair strokes, the eye below it.",
+  "file": "pictograph-mei2.webp",
+  "card_bytes": 44238,
+  "thumb": "mei2-thumb.webp",
+  "thumb_bytes": 16558,
+  "art": "mei2-art.webp",
+  "art_bytes": 40360
+ },
+ {
+  "char": "犬",
+  "trad": "犬",
+  "pinyin": "quǎn",
+  "pinyin_num": "quan3",
+  "gloss": "dog",
+  "hsk": null,
+  "category": "animals",
+  "depicts": "A dog standing in profile: pointed ears, a long snout, a curled tail, and a spot marking its side.",
+  "file": "pictograph-quan3.webp",
+  "card_bytes": 27398,
+  "thumb": "quan3-thumb.webp",
+  "thumb_bytes": 10736,
+  "art": "quan3-art.webp",
+  "art_bytes": 23718
+ },
+ {
+  "char": "矢",
+  "trad": "矢",
+  "pinyin": "shǐ",
+  "pinyin_num": "shi3",
+  "gloss": "arrow",
+  "hsk": null,
+  "category": "tools-objects",
+  "depicts": "An arrow: a pointed metal head, a straight shaft, and feather fletching at the tail.",
+  "file": "pictograph-shi3.webp",
+  "card_bytes": 54914,
+  "thumb": "shi3-thumb.webp",
+  "thumb_bytes": 21728,
+  "art": "shi3-art.webp",
+  "art_bytes": 52894
+ },
+ {
+  "char": "穴",
+  "trad": "穴",
+  "pinyin": "xué",
+  "pinyin_num": "xue2",
+  "gloss": "cave; hole",
+  "hsk": null,
+  "category": "tools-objects",
+  "depicts": "A cave dwelling: an arched mound of earth with a dark entrance opening under its roof.",
+  "file": "pictograph-xue2.webp",
+  "card_bytes": 42478,
+  "thumb": "xue2-thumb.webp",
+  "thumb_bytes": 15206,
+  "art": "xue2-art.webp",
+  "art_bytes": 38876
+ },
+ {
+  "char": "舟",
+  "trad": "舟",
+  "pinyin": "zhōu",
+  "pinyin_num": "zhou1",
+  "gloss": "boat",
+  "hsk": null,
+  "category": "tools-objects",
+  "depicts": "A boat from the side: a narrow hull with raised bow and stern and a line for its deck.",
+  "file": "pictograph-zhou1.webp",
+  "card_bytes": 20590,
+  "thumb": "zhou1-thumb.webp",
+  "thumb_bytes": 7902,
+  "art": "zhou1-art.webp",
+  "art_bytes": 16718
+ },
+ {
+  "char": "爪",
+  "trad": "爪",
+  "pinyin": "zhuǎ",
+  "pinyin_num": "zhua3",
+  "gloss": "claw",
+  "hsk": null,
+  "category": "body",
+  "depicts": "A clawed foot pressing down: sharp talons curving out of a pad.",
+  "file": "pictograph-zhua3.webp",
+  "card_bytes": 28346,
+  "thumb": "zhua3-thumb.webp",
+  "thumb_bytes": 10868,
+  "art": "zhua3-art.webp",
+  "art_bytes": 24922
  }
 ]
