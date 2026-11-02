@@ -1168,6 +1168,22 @@
   "art_bytes": 52634
  },
  {
+  "char": "母",
+  "trad": "母",
+  "pinyin": "mǔ",
+  "pinyin_num": "mu3",
+  "gloss": "mother",
+  "hsk": 3,
+  "category": "body",
+  "depicts": "A kneeling woman shown by her two breasts, drawn as two dots inside her body's outline.",
+  "file": "pictograph-mu3.webp",
+  "card_bytes": 39762,
+  "thumb": "mu3-thumb.webp",
+  "thumb_bytes": 14366,
+  "art": "mu3-art.webp",
+  "art_bytes": 35824
+ },
+ {
   "char": "木",
   "trad": "木",
   "pinyin": "mù",
