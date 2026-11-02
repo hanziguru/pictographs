@@ -13,7 +13,8 @@
   "thumb": "ba1-516b-thumb.webp",
   "thumb_bytes": 13220,
   "art": "ba1-516b-art.webp",
-  "art_bytes": 32306
+  "art_bytes": 32306,
+  "commentary": "八 (bā, eight) — Two strokes split away from each other, like something being divided in two. The widening gap is the picture: one thing pulling apart."
  },
  {
   "char": "包",
@@ -29,7 +30,8 @@
   "thumb": "bao1-thumb.webp",
   "thumb_bytes": 14666,
   "art": "bao1-art.webp",
-  "art_bytes": 32388
+  "art_bytes": 32388,
+  "commentary": "包 (bāo, to wrap; bag) — A baby lies curled inside a womb that wraps around it like a bundle. The wrapping shape around the curled form is what carries the meaning."
  },
  {
   "char": "不",
@@ -45,7 +47,8 @@
   "thumb": "bu4-thumb.webp",
   "thumb_bytes": 13022,
   "art": "bu4-art.webp",
-  "art_bytes": 33846
+  "art_bytes": 33846,
+  "commentary": "不 (bù, not; no) — The picture is a flower's green calyx: a small cup of pointed sepals on a stem that once held a bloom. Look for the pointed cup on its stem."
  },
  {
   "char": "车",
@@ -61,7 +64,8 @@
   "thumb": "che1-thumb.webp",
   "thumb_bytes": 10232,
   "art": "che1-art.webp",
-  "art_bytes": 23960
+  "art_bytes": 23960,
+  "commentary": "车 (chē, cart; vehicle) — A cart seen from above: two big wheels, an axle and a shaft, with the cart's box between them. The wheels and axle frame the whole character."
  },
  {
   "char": "东",
@@ -77,7 +81,8 @@
   "thumb": "dong1-4e1c-thumb.webp",
   "thumb_bytes": 18178,
   "art": "dong1-4e1c-art.webp",
-  "art_bytes": 41868
+  "art_bytes": 41868,
+  "commentary": "东 (dōng, east; sack) — A cloth sack bulging in the middle, both ends tied shut with cord. The tied ends above and below the bulge are the detail to hold onto."
  },
  {
   "char": "儿",
@@ -93,7 +98,8 @@
   "thumb": "er2-513f-thumb.webp",
   "thumb_bytes": 7970,
   "art": "er2-513f-art.webp",
-  "art_bytes": 19042
+  "art_bytes": 19042,
+  "commentary": "儿 (ér, child; son) — A small toddler: a big round head with a soft spot on top and little legs below. The oversized head is what makes it a child."
  },
  {
   "char": "方",
@@ -109,7 +115,8 @@
   "thumb": "fang1-thumb.webp",
   "thumb_bytes": 20552,
   "art": "fang1-art.webp",
-  "art_bytes": 53020
+  "art_bytes": 53020,
+  "commentary": "方 (fāng, square; raft) — Two boat hulls lashed side by side into a raft, their bows tied together. The paired hulls tied at the front form the picture."
  },
  {
   "char": "飞",
@@ -125,7 +132,8 @@
   "thumb": "fei1-thumb.webp",
   "thumb_bytes": 12632,
   "art": "fei1-art.webp",
-  "art_bytes": 30630
+  "art_bytes": 30630,
+  "commentary": "飞 (fēi, to fly) — A bird in flight, wings spread wide and tail feathers streaming behind. The spread wings and trailing tail say movement through air."
  },
  {
   "char": "干",
@@ -141,7 +149,8 @@
   "thumb": "gan1-thumb.webp",
   "thumb_bytes": 22444,
   "art": "gan1-art.webp",
-  "art_bytes": 50698
+  "art_bytes": 50698,
+  "commentary": "干 (gān, shield; forked weapon) — A forked pole weapon: a long shaft splitting into two prongs at the top. The split at the top of the shaft is the key detail."
  },
  {
   "char": "高",
@@ -157,7 +166,8 @@
   "thumb": "gao1-thumb.webp",
   "thumb_bytes": 33932,
   "art": "gao1-art.webp",
-  "art_bytes": 82090
+  "art_bytes": 82090,
+  "commentary": "高 (gāo, tall; high) — A tall watchtower: a roofed building with a doorway, raised on a high platform. Everything sits up high — that height is the meaning."
  },
  {
   "char": "工",
@@ -173,7 +183,8 @@
   "thumb": "gong1-5de5-thumb.webp",
   "thumb_bytes": 16002,
   "art": "gong1-5de5-art.webp",
-  "art_bytes": 38694
+  "art_bytes": 38694,
+  "commentary": "工 (gōng, work; tool) — An ancient carpenter's square: a thick I-shaped measuring tool with notched ends. The two horizontal bars joined by a vertical are the tool itself."
  },
  {
   "char": "果",
@@ -189,7 +200,8 @@
   "thumb": "guo3-thumb.webp",
   "thumb_bytes": 17476,
   "art": "guo3-art.webp",
-  "art_bytes": 41660
+  "art_bytes": 41660,
+  "commentary": "果 (guǒ, fruit) — A round fruit hangs at the very top of a tree, with trunk and branches below it. Find the round shape sitting on top — that is the fruit."
  },
  {
   "char": "回",
@@ -205,7 +217,8 @@
   "thumb": "hui2-thumb.webp",
   "thumb_bytes": 11272,
   "art": "hui2-art.webp",
-  "art_bytes": 23362
+  "art_bytes": 23362,
+  "commentary": "回 (huí, to turn around) — A whirlpool: two concentric squared spirals turning around a centre. The nested turning shapes show the motion of turning back."
  },
  {
   "char": "火",
@@ -221,7 +234,8 @@
   "thumb": "huo3-thumb.webp",
   "thumb_bytes": 12148,
   "art": "huo3-art.webp",
-  "art_bytes": 29456
+  "art_bytes": 29456,
+  "commentary": "火 (huǒ, fire) — A central flame tongue rises up with two smaller flames flickering out at its sides. The tall middle flame flanked by sparks is the fire."
  },
  {
   "char": "京",
@@ -237,7 +251,8 @@
   "thumb": "jing1-thumb.webp",
   "thumb_bytes": 22604,
   "art": "jing1-art.webp",
-  "art_bytes": 61894
+  "art_bytes": 61894,
+  "commentary": "京 (jīng, capital) — A tall gatehouse on a high mound: a roofed building raised on an earthen platform. The building lifted high on its mound gives the grand, capital feel."
  },
  {
   "char": "九",
@@ -253,7 +268,8 @@
   "thumb": "jiu3-thumb.webp",
   "thumb_bytes": 12162,
   "art": "jiu3-art.webp",
-  "art_bytes": 29492
+  "art_bytes": 29492,
+  "commentary": "九 (jiǔ, nine) — A bent arm: upper arm and forearm folded at the elbow, reaching out. The fold at the elbow is the shape to remember."
  },
  {
   "char": "口",
@@ -269,7 +285,8 @@
   "thumb": "kou3-thumb.webp",
   "thumb_bytes": 9034,
   "art": "kou3-art.webp",
-  "art_bytes": 21952
+  "art_bytes": 21952,
+  "commentary": "口 (kǒu, mouth) — An open mouth: one simple rounded square outline, nothing more. The plain empty opening is the whole picture."
  },
  {
   "char": "来",
@@ -285,7 +302,8 @@
   "thumb": "lai2-thumb.webp",
   "thumb_bytes": 24180,
   "art": "lai2-art.webp",
-  "art_bytes": 52606
+  "art_bytes": 52606,
+  "commentary": "来 (lái, wheat; to come) — A stalk of wheat: a vertical stem with grains and long awns at its head. The bristly head on the stem is the wheat."
  },
  {
   "char": "马",
@@ -301,7 +319,8 @@
   "thumb": "ma3-thumb.webp",
   "thumb_bytes": 12146,
   "art": "ma3-art.webp",
-  "art_bytes": 27502
+  "art_bytes": 27502,
+  "commentary": "马 (mǎ, horse) — A horse in profile facing left: crested mane, one visible eye, four legs and a long flowing tail. The mane on the neck and the streaming tail mark it as a horse."
  },
  {
   "char": "毛",
@@ -317,7 +336,8 @@
   "thumb": "mao2-6bdb-thumb.webp",
   "thumb_bytes": 19660,
   "art": "mao2-6bdb-art.webp",
-  "art_bytes": 49714
+  "art_bytes": 49714,
+  "commentary": "毛 (máo, hair; fur) — A tuft of hair: fine strands bending over together from a root. The strands curving over in one direction give it the soft look of hair."
  },
  {
   "char": "门",
@@ -333,7 +353,8 @@
   "thumb": "men2-thumb.webp",
   "thumb_bytes": 12454,
   "art": "men2-art.webp",
-  "art_bytes": 30394
+  "art_bytes": 30394,
+  "commentary": "门 (mén, door; gate) — A double-leaf gate: two door panels hanging in a frame. The pair of panels side by side is the gate."
  },
  {
   "char": "米",
@@ -349,7 +370,8 @@
   "thumb": "mi3-thumb.webp",
   "thumb_bytes": 12204,
   "art": "mi3-art.webp",
-  "art_bytes": 28066
+  "art_bytes": 28066,
+  "commentary": "米 (mǐ, rice) — Loose grains of rice as small dots clustered around a central husk on a stem. The scattered dots are the grains."
  },
  {
   "char": "面",
@@ -365,7 +387,8 @@
   "thumb": "mian4-thumb.webp",
   "thumb_bytes": 19284,
   "art": "mian4-art.webp",
-  "art_bytes": 49304
+  "art_bytes": 49304,
+  "commentary": "面 (miàn, face) — A human face drawn full-on: an outline of a face with one eye in the middle. The single eye inside the outline anchors the face."
  },
  {
   "char": "牛",
@@ -381,7 +404,8 @@
   "thumb": "niu2-thumb.webp",
   "thumb_bytes": 15696,
   "art": "niu2-art.webp",
-  "art_bytes": 34798
+  "art_bytes": 34798,
+  "commentary": "牛 (niú, ox; cow) — A bull's head seen from the front: two curved horns, ears at the sides and a muzzle below. The horns rising at the top are the first thing to find."
  },
  {
   "char": "女",
@@ -397,7 +421,8 @@
   "thumb": "nv3-thumb.webp",
   "thumb_bytes": 19298,
   "art": "nv3-art.webp",
-  "art_bytes": 48386
+  "art_bytes": 48386,
+  "commentary": "女 (nǚ, woman) — A woman kneeling in profile with her arms folded in front of her body. The kneeling posture and folded arms make the figure."
  },
  {
   "char": "气",
@@ -413,7 +438,8 @@
   "thumb": "qi4-thumb.webp",
   "thumb_bytes": 18538,
   "art": "qi4-art.webp",
-  "art_bytes": 47620
+  "art_bytes": 47620,
+  "commentary": "气 (qì, air; vapour) — Three long wavy horizontal bands stacked one above another, like layers of drifting cloud or steam. The layered waves are air itself, rising and drifting."
  },
  {
   "char": "人",
@@ -429,7 +455,8 @@
   "thumb": "ren2-thumb.webp",
   "thumb_bytes": 14186,
   "art": "ren2-art.webp",
-  "art_bytes": 33328
+  "art_bytes": 33328,
+  "commentary": "人 (rén, person) — A person in profile: a bent back, one arm hanging down and legs mid-stride. Two strokes are enough — a body leaning into a step."
  },
  {
   "char": "日",
@@ -445,7 +472,8 @@
   "thumb": "ri4-thumb.webp",
   "thumb_bytes": 13724,
   "art": "ri4-art.webp",
-  "art_bytes": 35548
+  "art_bytes": 35548,
+  "commentary": "日 (rì, sun) — A ring for the sun: a circle with a short mark in its centre. The mark inside the ring is what makes it the sun and not just a circle."
  },
  {
   "char": "肉",
@@ -461,7 +489,8 @@
   "thumb": "rou4-thumb.webp",
   "thumb_bytes": 16412,
   "art": "rou4-art.webp",
-  "art_bytes": 41620
+  "art_bytes": 41620,
+  "commentary": "肉 (ròu, meat; flesh) — A cut of meat: a chunk with the grain of flesh and fat drawn as lines inside it. The lines inside the chunk show the texture of flesh."
  },
  {
   "char": "山",
@@ -477,7 +506,8 @@
   "thumb": "shan1-thumb.webp",
   "thumb_bytes": 16110,
   "art": "shan1-art.webp",
-  "art_bytes": 39564
+  "art_bytes": 39564,
+  "commentary": "山 (shān, mountain) — Three mountain peaks rise from one ground line, the middle peak the tallest. The three upright peaks on a shared base are the mountains."
  },
  {
   "char": "身",
@@ -493,7 +523,8 @@
   "thumb": "shen1-8eab-thumb.webp",
   "thumb_bytes": 14144,
   "art": "shen1-8eab-art.webp",
-  "art_bytes": 33848
+  "art_bytes": 33848,
+  "commentary": "身 (shēn, body) — A person in profile with a big swollen belly: a pregnant body. The rounded belly is the detail the picture is built around."
  },
  {
   "char": "生",
@@ -509,7 +540,8 @@
   "thumb": "sheng1-751f-thumb.webp",
   "thumb_bytes": 12734,
   "art": "sheng1-751f-art.webp",
-  "art_bytes": 27090
+  "art_bytes": 27090,
+  "commentary": "生 (shēng, to grow; to be born) — A young shoot with two new leaves pushes up out of a line of soil. New growth breaking the surface is the meaning in action."
  },
  {
   "char": "手",
@@ -525,7 +557,8 @@
   "thumb": "shou3-624b-thumb.webp",
   "thumb_bytes": 13434,
   "art": "shou3-624b-art.webp",
-  "art_bytes": 29540
+  "art_bytes": 29540,
+  "commentary": "手 (shǒu, hand) — An open hand with fingers spread, palm facing the viewer. The spread fingers at the top are unmistakably a hand."
  },
  {
   "char": "水",
@@ -541,7 +574,8 @@
   "thumb": "shui3-thumb.webp",
   "thumb_bytes": 23500,
   "art": "shui3-art.webp",
-  "art_bytes": 56372
+  "art_bytes": 56372,
+  "commentary": "水 (shuǐ, water) — A main stream flows down the middle with smaller streams splashing off to both sides. The central flow with splashes on each side is water in motion."
  },
  {
   "char": "网",
@@ -557,7 +591,8 @@
   "thumb": "wang3-thumb.webp",
   "thumb_bytes": 24008,
   "art": "wang3-art.webp",
-  "art_bytes": 55352
+  "art_bytes": 55352,
+  "commentary": "网 (wǎng, net; web) — A fishing net hung open: a straight top edge with a mesh of crossed lines below. The criss-cross mesh under the top bar is the net."
  },
  {
   "char": "文",
@@ -573,7 +608,8 @@
   "thumb": "wen2-thumb.webp",
   "thumb_bytes": 25708,
   "art": "wen2-art.webp",
-  "art_bytes": 59042
+  "art_bytes": 59042,
+  "commentary": "文 (wén, script; pattern) — A standing person seen from the front with decorative tattoo lines drawn across the chest. The patterned lines on the chest are the point — pattern itself."
  },
  {
   "char": "西",
@@ -589,7 +625,8 @@
   "thumb": "xi1-897f-thumb.webp",
   "thumb_bytes": 15682,
   "art": "xi1-897f-art.webp",
-  "art_bytes": 41444
+  "art_bytes": 41444,
+  "commentary": "西 (xī, west) — A bird settled in its nest at sunset: a round nest with a bird resting inside it. The bird home for the night points to the setting sun and the west."
  },
  {
   "char": "小",
@@ -605,7 +642,8 @@
   "thumb": "xiao3-thumb.webp",
   "thumb_bytes": 9744,
   "art": "xiao3-art.webp",
-  "art_bytes": 23228
+  "art_bytes": 23228,
+  "commentary": "小 (xiǎo, small) — Three tiny grains of sand lying side by side. Their tininess is the whole message: small things, drawn small."
  },
  {
   "char": "页",
@@ -621,7 +659,8 @@
   "thumb": "ye4-thumb.webp",
   "thumb_bytes": 17008,
   "art": "ye4-art.webp",
-  "art_bytes": 38416
+  "art_bytes": 38416,
+  "commentary": "页 (yè, page; head) — A kneeling person drawn with a greatly oversized head. The head swollen out of proportion is the whole point of the picture."
  },
  {
   "char": "衣",
@@ -637,7 +676,8 @@
   "thumb": "yi1-thumb.webp",
   "thumb_bytes": 23346,
   "art": "yi1-art.webp",
-  "art_bytes": 55370
+  "art_bytes": 55370,
+  "commentary": "衣 (yī, clothes) — A robe with wide sleeves: a collar crossing at the neck, sleeves hanging at both sides and a skirt below. The crossing collar and hanging sleeves make it a garment."
  },
  {
   "char": "雨",
@@ -653,7 +693,8 @@
   "thumb": "yu3-96e8-thumb.webp",
   "thumb_bytes": 12116,
   "art": "yu3-96e8-art.webp",
-  "art_bytes": 29488
+  "art_bytes": 29488,
+  "commentary": "雨 (yǔ, rain) — A line of sky at the top, a band of cloud under it, and four raindrops falling through the air. The drops falling beneath the cloud band are the rain."
  },
  {
   "char": "月",
@@ -669,7 +710,8 @@
   "thumb": "yue4-thumb.webp",
   "thumb_bytes": 11222,
   "art": "yue4-art.webp",
-  "art_bytes": 26652
+  "art_bytes": 26652,
+  "commentary": "月 (yuè, moon) — A slim crescent moon with its horns pointing up and a short stroke inside the crescent. The thin crescent shape separates it from the round sun."
  },
  {
   "char": "子",
@@ -685,7 +727,8 @@
   "thumb": "zi3-thumb.webp",
   "thumb_bytes": 14978,
   "art": "zi3-art.webp",
-  "art_bytes": 36876
+  "art_bytes": 36876,
+  "commentary": "子 (zǐ, child) — A baby with a big head and waving arms, its lower body wrapped in swaddling clothes. The big head and little waving arms say infant."
  },
  {
   "char": "带",
@@ -701,7 +744,8 @@
   "thumb": "dai4-thumb.webp",
   "thumb_bytes": 9370,
   "art": "dai4-art.webp",
-  "art_bytes": 19754
+  "art_bytes": 19754,
+  "commentary": "带 (dài, belt; sash) — A waist belt with a sash hanging down the front and small objects dangling from its loops. The dangling sash and objects hang from the belt line."
  },
  {
   "char": "冬",
@@ -717,7 +761,8 @@
   "thumb": "dong1-51ac-thumb.webp",
   "thumb_bytes": 19268,
   "art": "dong1-51ac-art.webp",
-  "art_bytes": 46806
+  "art_bytes": 46806,
+  "commentary": "冬 (dōng, winter) — A length of thread with a knot tied at both ends, hanging down. The knots closing both ends give a sense of things tied up and finished."
  },
  {
   "char": "而",
@@ -733,7 +778,8 @@
   "thumb": "er2-800c-thumb.webp",
   "thumb_bytes": 25612,
   "art": "er2-800c-art.webp",
-  "art_bytes": 70462
+  "art_bytes": 70462,
+  "commentary": "而 (ér, and; but) — A beard: strands of hair hanging down from a chin. The hanging strands below the chin line are the beard."
  },
  {
   "char": "广",
@@ -749,7 +795,8 @@
   "thumb": "guang3-thumb.webp",
   "thumb_bytes": 31860,
   "art": "guang3-art.webp",
-  "art_bytes": 80460
+  "art_bytes": 80460,
+  "commentary": "广 (guǎng, wide; shelter) — A house built under a cliff: a wide sloping roof over an open front. The broad roof sheltering an open space is the picture."
  },
  {
   "char": "己",
@@ -765,7 +812,8 @@
   "thumb": "ji3-thumb.webp",
   "thumb_bytes": 19724,
   "art": "ji3-art.webp",
-  "art_bytes": 47454
+  "art_bytes": 47454,
+  "commentary": "己 (jǐ, self) — A length of cord bent into a squared-off coil, partly unwound. The bent, coiling line is the whole form."
  },
  {
   "char": "交",
@@ -781,7 +829,8 @@
   "thumb": "jiao1-thumb.webp",
   "thumb_bytes": 21624,
   "art": "jiao1-art.webp",
-  "art_bytes": 47846
+  "art_bytes": 47846,
+  "commentary": "交 (jiāo, to cross; intersect) — A person standing with legs crossed at the ankles and arms folded across the chest. Crossed limbs top and bottom are the crossing the character names."
  },
  {
   "char": "斤",
@@ -797,7 +846,8 @@
   "thumb": "jin1-65a4-thumb.webp",
   "thumb_bytes": 16782,
   "art": "jin1-65a4-art.webp",
-  "art_bytes": 41044
+  "art_bytes": 41044,
+  "commentary": "斤 (jīn, axe; unit of weight) — An axe seen from the side: a broad curved blade mounted on a handle. The curved blade edge is the working part to spot."
  },
  {
   "char": "力",
@@ -813,7 +863,8 @@
   "thumb": "li4-529b-thumb.webp",
   "thumb_bytes": 9924,
   "art": "li4-529b-art.webp",
-  "art_bytes": 21766
+  "art_bytes": 21766,
+  "commentary": "力 (lì, strength; plough) — An ancient plough: a long curved handle coming down to a forked share that bites into the soil. The share digging into the ground is where the strength goes."
  },
  {
   "char": "目",
@@ -829,7 +880,8 @@
   "thumb": "mu4-76ee-thumb.webp",
   "thumb_bytes": 12724,
   "art": "mu4-76ee-art.webp",
-  "art_bytes": 32250
+  "art_bytes": 32250,
+  "commentary": "目 (mù, eye) — An eye drawn on its side: an outline with the pupil as a mark in the middle. The pupil centred in the outline makes it an eye at a glance."
  },
  {
   "char": "鸟",
@@ -845,7 +897,8 @@
   "thumb": "niao3-thumb.webp",
   "thumb_bytes": 11612,
   "art": "niao3-art.webp",
-  "art_bytes": 30200
+  "art_bytes": 30200,
+  "commentary": "鸟 (niǎo, bird) — A perched bird in profile: crested head with beak and eye, folded wing, tail feathers and clawed feet. The beak, crest and claws give the full bird."
  },
  {
   "char": "片",
@@ -861,7 +914,8 @@
   "thumb": "pian4-thumb.webp",
   "thumb_bytes": 12780,
   "art": "pian4-art.webp",
-  "art_bytes": 34074
+  "art_bytes": 34074,
+  "commentary": "片 (piàn, slice; slab) — A log split lengthwise: one half of a trunk with its flat split face forward. The flat face shows it is a cut slice, not a whole log."
  },
  {
   "char": "且",
@@ -877,7 +931,8 @@
   "thumb": "qie3-thumb.webp",
   "thumb_bytes": 11314,
   "art": "qie3-art.webp",
-  "art_bytes": 23150
+  "art_bytes": 23150,
+  "commentary": "且 (qiě, moreover; stand) — A sacrificial stand seen from the front: a flat top carried on legs, like a small altar table. The flat top on legs is the stand."
  },
  {
   "char": "示",
@@ -893,7 +948,8 @@
   "thumb": "shi4-thumb.webp",
   "thumb_bytes": 10254,
   "art": "shi4-art.webp",
-  "art_bytes": 20468
+  "art_bytes": 20468,
+  "commentary": "示 (shì, to show; altar) — A sacrificial altar: a table-like stand with offerings hanging from its top board. The offerings hanging from the top mark it as an altar."
  },
  {
   "char": "它",
@@ -909,7 +965,8 @@
   "thumb": "ta1-thumb.webp",
   "thumb_bytes": 11548,
   "art": "ta1-art.webp",
-  "art_bytes": 27308
+  "art_bytes": 27308,
+  "commentary": "它 (tā, it) — A snake with its head raised: a small head and a very long body curving down into a drooping tail. The small head on the long curving body is the snake."
  },
  {
   "char": "万",
@@ -925,7 +982,8 @@
   "thumb": "wan4-thumb.webp",
   "thumb_bytes": 19358,
   "art": "wan4-art.webp",
-  "art_bytes": 43444
+  "art_bytes": 43444,
+  "commentary": "万 (wàn, ten thousand) — A scorpion: a round body with claws at the front, jointed legs at the sides and a curved sting tail. The claws in front and the sting curving behind identify it."
  },
  {
   "char": "心",
@@ -941,7 +999,8 @@
   "thumb": "xin1-5fc3-thumb.webp",
   "thumb_bytes": 17916,
   "art": "xin1-5fc3-art.webp",
-  "art_bytes": 44440
+  "art_bytes": 44440,
+  "commentary": "心 (xīn, heart) — A heart organ: a rounded sac with the great vessels curving out of its top. The curved vessels on top of the sac are the anatomical giveaway."
  },
  {
   "char": "行",
@@ -957,7 +1016,8 @@
   "thumb": "xing2-thumb.webp",
   "thumb_bytes": 18252,
   "art": "xing2-art.webp",
-  "art_bytes": 43668
+  "art_bytes": 43668,
+  "commentary": "行 (xíng, to go; to walk) — A crossroads seen from above: one road crossing another at right angles. Where the two roads cross is where walking and travel happen."
  },
  {
   "char": "要",
@@ -973,7 +1033,8 @@
   "thumb": "yao4-thumb.webp",
   "thumb_bytes": 13066,
   "art": "yao4-art.webp",
-  "art_bytes": 27370
+  "art_bytes": 27370,
+  "commentary": "要 (yào, to want; important) — A person standing with both hands planted on their waist, elbows out. The hands-on-waist stance is the picture's whole posture."
  },
  {
   "char": "又",
@@ -989,7 +1050,8 @@
   "thumb": "you4-thumb.webp",
   "thumb_bytes": 11768,
   "art": "you4-art.webp",
-  "art_bytes": 23836
+  "art_bytes": 23836,
+  "commentary": "又 (yòu, again; hand) — A right hand seen from the side, its fingers curled as if gripping. The curled fingers show a hand in the act of holding."
  },
  {
   "char": "鱼",
@@ -1005,7 +1067,8 @@
   "thumb": "yu2-thumb.webp",
   "thumb_bytes": 11228,
   "art": "yu2-art.webp",
-  "art_bytes": 26356
+  "art_bytes": 26356,
+  "commentary": "鱼 (yú, fish) — A fish in profile: triangular head with mouth and eye, a scaled body, fins and a forked tail. Head, scales and forked tail leave no doubt it is a fish."
  },
  {
   "char": "云",
@@ -1021,7 +1084,8 @@
   "thumb": "yun2-thumb.webp",
   "thumb_bytes": 10080,
   "art": "yun2-art.webp",
-  "art_bytes": 22178
+  "art_bytes": 22178,
+  "commentary": "云 (yún, cloud) — A cloud curling over on itself: a straight stroke on top with a spiral swirl hanging below. The swirl underneath is the cloud rolling."
  },
  {
   "char": "长",
@@ -1037,7 +1101,8 @@
   "thumb": "zhang3-thumb.webp",
   "thumb_bytes": 15426,
   "art": "zhang3-art.webp",
-  "art_bytes": 36884
+  "art_bytes": 36884,
+  "commentary": "长 (zhǎng, to grow; long) — An old man with very long hair streaming behind him, leaning on a walking staff. The streaming long hair carries both age and length."
  },
  {
   "char": "主",
@@ -1053,7 +1118,8 @@
   "thumb": "zhu3-thumb.webp",
   "thumb_bytes": 12390,
   "art": "zhu3-art.webp",
-  "art_bytes": 27304
+  "art_bytes": 27304,
+  "commentary": "主 (zhǔ, master; lamp) — An oil lamp on a stand: a stem rising to a shallow dish with a single flame burning on top. The one flame at the very top is the focal point."
  },
  {
   "char": "自",
@@ -1069,7 +1135,8 @@
   "thumb": "zi4-thumb.webp",
   "thumb_bytes": 20538,
   "art": "zi4-art.webp",
-  "art_bytes": 51592
+  "art_bytes": 51592,
+  "commentary": "自 (zì, self; originally nose) — A nose seen from the front: the bridge, the two nostrils and the wings of the nose. The two nostrils at the bottom are the detail to find."
  },
  {
   "char": "厂",
@@ -1085,7 +1152,8 @@
   "thumb": "chang3-thumb.webp",
   "thumb_bytes": 33592,
   "art": "chang3-art.webp",
-  "art_bytes": 84720
+  "art_bytes": 84720,
+  "commentary": "厂 (chǎng, factory; cliff) — A steep cliff face: one long slope dropping away from a top edge. The single dropping slope is the cliff."
  },
  {
   "char": "大",
@@ -1101,7 +1169,8 @@
   "thumb": "da4-thumb.webp",
   "thumb_bytes": 18448,
   "art": "da4-art.webp",
-  "art_bytes": 44536
+  "art_bytes": 44536,
+  "commentary": "大 (dà, big) — A person seen from the front, standing tall with arms stretched wide and legs apart. A human figure spread as wide as it can go is how the picture says big."
  },
  {
   "char": "刀",
@@ -1117,7 +1186,8 @@
   "thumb": "dao1-thumb.webp",
   "thumb_bytes": 8480,
   "art": "dao1-art.webp",
-  "art_bytes": 20652
+  "art_bytes": 20652,
+  "commentary": "刀 (dāo, knife) — A curved single-edged knife blade with a short handle. The curve of the blade is the cutting edge to notice."
  },
  {
   "char": "丰",
@@ -1133,7 +1203,8 @@
   "thumb": "feng1-thumb.webp",
   "thumb_bytes": 19106,
   "art": "feng1-art.webp",
-  "art_bytes": 44708
+  "art_bytes": 44708,
+  "commentary": "丰 (fēng, abundant) — Three young grass shoots sprouting in a row from a single ground stem. Shoot after shoot rising together gives the feel of plenty."
  },
  {
   "char": "立",
@@ -1149,7 +1220,8 @@
   "thumb": "li4-7acb-thumb.webp",
   "thumb_bytes": 25282,
   "art": "li4-7acb-art.webp",
-  "art_bytes": 58352
+  "art_bytes": 58352,
+  "commentary": "立 (lì, to stand) — A person standing squarely on a ground line, seen from the front. Feet planted on the ground line: standing, plain and simple."
  },
  {
   "char": "龙",
@@ -1165,7 +1237,8 @@
   "thumb": "long2-thumb.webp",
   "thumb_bytes": 21476,
   "art": "long2-art.webp",
-  "art_bytes": 52634
+  "art_bytes": 52634,
+  "commentary": "龙 (lóng, dragon) — A dragon rearing up: a horned head with open jaws at the top of a long serpentine body ending in a tail. The horned head and open jaws crown the winding body."
  },
  {
   "char": "母",
@@ -1181,7 +1254,8 @@
   "thumb": "mu3-thumb.webp",
   "thumb_bytes": 14366,
   "art": "mu3-art.webp",
-  "art_bytes": 35824
+  "art_bytes": 35824,
+  "commentary": "母 (mǔ, mother) — A kneeling woman shown by her two breasts, drawn as two dots inside her body's outline. The two dots inside the outline are the meaning."
  },
  {
   "char": "木",
@@ -1197,7 +1271,8 @@
   "thumb": "mu4-6728-thumb.webp",
   "thumb_bytes": 34178,
   "art": "mu4-6728-art.webp",
-  "art_bytes": 78068
+  "art_bytes": 78068,
+  "commentary": "木 (mù, tree; wood) — A tree: a straight trunk, branches spreading up and out, and roots spreading down into the ground. Branches above and roots below balance around the trunk."
  },
  {
   "char": "齐",
@@ -1213,7 +1288,8 @@
   "thumb": "qi2-thumb.webp",
   "thumb_bytes": 10132,
   "art": "qi2-art.webp",
-  "art_bytes": 24478
+  "art_bytes": 24478,
+  "commentary": "齐 (qí, even; level) — Three heads of grain standing in a row, all grown to exactly the same height. Their tops lining up evenly is the whole idea."
  },
  {
   "char": "升",
@@ -1229,7 +1305,8 @@
   "thumb": "sheng1-5347-thumb.webp",
   "thumb_bytes": 11622,
   "art": "sheng1-5347-art.webp",
-  "art_bytes": 25280
+  "art_bytes": 25280,
+  "commentary": "升 (shēng, to rise; measuring ladle) — A measuring dipper: a deep cup with a long flat handle sticking out to one side. The cup with its handle is the ladle."
  },
  {
   "char": "石",
@@ -1245,7 +1322,8 @@
   "thumb": "shi2-thumb.webp",
   "thumb_bytes": 20496,
   "art": "shi2-art.webp",
-  "art_bytes": 53104
+  "art_bytes": 53104,
+  "commentary": "石 (shí, stone; rock) — A rounded boulder lying at the foot of a cliff overhang. The boulder tucked under the overhang is the stone."
  },
  {
   "char": "首",
@@ -1261,7 +1339,8 @@
   "thumb": "shou3-9996-thumb.webp",
   "thumb_bytes": 16950,
   "art": "shou3-9996-art.webp",
-  "art_bytes": 43402
+  "art_bytes": 43402,
+  "commentary": "首 (shǒu, head) — A head with a full mass of hair on top, hair strokes rising above the face. The hair crowning the head is the feature that stands out."
  },
  {
   "char": "土",
@@ -1277,7 +1356,8 @@
   "thumb": "tu3-thumb.webp",
   "thumb_bytes": 11276,
   "art": "tu3-art.webp",
-  "art_bytes": 29974
+  "art_bytes": 29974,
+  "commentary": "土 (tǔ, earth; soil) — A mound of earth heaped up on a flat ground line, like a small altar of soil. The heap rising from the ground line is the earth itself."
  },
  {
   "char": "象",
@@ -1293,7 +1373,8 @@
   "thumb": "xiang4-thumb.webp",
   "thumb_bytes": 15488,
   "art": "xiang4-art.webp",
-  "art_bytes": 33238
+  "art_bytes": 33238,
+  "commentary": "象 (xiàng, elephant) — An elephant in profile: a huge ear, a long trunk curling down, tusks, a massive body and four column legs. The long trunk curling down is unmistakably an elephant."
  },
  {
   "char": "羊",
@@ -1309,7 +1390,8 @@
   "thumb": "yang2-thumb.webp",
   "thumb_bytes": 13870,
   "art": "yang2-art.webp",
-  "art_bytes": 31218
+  "art_bytes": 31218,
+  "commentary": "羊 (yáng, sheep; goat) — A sheep's head seen from the front: two curling horns, ears and a pointed face below. The curling horns at the top frame the face."
  },
  {
   "char": "至",
@@ -1325,7 +1407,8 @@
   "thumb": "zhi4-thumb.webp",
   "thumb_bytes": 16656,
   "art": "zhi4-art.webp",
-  "art_bytes": 39088
+  "art_bytes": 39088,
+  "commentary": "至 (zhì, to arrive) — An arrow flying downward and striking a horizontal ground line point-first. Arrival is shown the moment the arrow lands."
  },
  {
   "char": "足",
@@ -1341,7 +1424,8 @@
   "thumb": "zu2-thumb.webp",
   "thumb_bytes": 22744,
   "art": "zu2-art.webp",
-  "art_bytes": 57416
+  "art_bytes": 57416,
+  "commentary": "足 (zú, foot) — A whole leg: a circle for the kneecap at the top, the shin below and a foot at the bottom. Follow it down — kneecap, shin, foot."
  },
  {
   "char": "巴",
@@ -1357,7 +1441,8 @@
   "thumb": "ba1-5df4-thumb.webp",
   "thumb_bytes": 15728,
   "art": "ba1-5df4-art.webp",
-  "art_bytes": 37798
+  "art_bytes": 37798,
+  "commentary": "巴 (bā, used in compounds) — A big thick snake coiled up, its head raised at one end of the coil. The thick coil with the head lifted is the snake."
  },
  {
   "char": "贝",
@@ -1373,7 +1458,8 @@
   "thumb": "bei4-thumb.webp",
   "thumb_bytes": 9426,
   "art": "bei4-art.webp",
-  "art_bytes": 20038
+  "art_bytes": 20038,
+  "commentary": "贝 (bèi, shell; cowrie) — A cowrie shell: an oval shell with a serrated slit running down its middle. The toothed slit down the centre is the cowrie's signature."
  },
  {
   "char": "虫",
@@ -1389,7 +1475,8 @@
   "thumb": "chong2-thumb.webp",
   "thumb_bytes": 15920,
   "art": "chong2-art.webp",
-  "art_bytes": 38242
+  "art_bytes": 38242,
+  "commentary": "虫 (chóng, insect; worm) — A snake rearing up: a triangular head with an eye on a thick body curving down into a tail. The raised triangular head on the curving body gives the creature."
  },
  {
   "char": "豆",
@@ -1405,7 +1492,8 @@
   "thumb": "dou4-thumb.webp",
   "thumb_bytes": 11786,
   "art": "dou4-art.webp",
-  "art_bytes": 21950
+  "art_bytes": 21950,
+  "commentary": "豆 (dòu, bean; stemmed vessel) — A stemmed serving bowl: a wide dish on a tall flared foot, with a raised rim. The dish held high on its foot is the vessel."
  },
  {
   "char": "耳",
@@ -1421,7 +1509,8 @@
   "thumb": "er3-thumb.webp",
   "thumb_bytes": 16440,
   "art": "er3-art.webp",
-  "art_bytes": 39936
+  "art_bytes": 39936,
+  "commentary": "耳 (ěr, ear) — An ear seen from the side: an outer rim, inner folds and the ear opening. The folds inside the rim are what make it read as an ear."
  },
  {
   "char": "瓜",
@@ -1437,7 +1526,8 @@
   "thumb": "gua1-thumb.webp",
   "thumb_bytes": 19402,
   "art": "gua1-art.webp",
-  "art_bytes": 46208
+  "art_bytes": 46208,
+  "commentary": "瓜 (guā, melon) — A round melon hanging from a curling vine with leaves. The round fruit suspended from the vine is the melon."
  },
  {
   "char": "户",
@@ -1453,7 +1543,8 @@
   "thumb": "hu4-thumb.webp",
   "thumb_bytes": 14574,
   "art": "hu4-art.webp",
-  "art_bytes": 35700
+  "art_bytes": 35700,
+  "commentary": "户 (hù, door; household) — One single leaf of a door — half of a double gate — with its pivot post. A single panel on its pivot is the door."
  },
  {
   "char": "几",
@@ -1469,7 +1560,8 @@
   "thumb": "ji1-thumb.webp",
   "thumb_bytes": 6324,
   "art": "ji1-art.webp",
-  "art_bytes": 14144
+  "art_bytes": 14144,
+  "commentary": "几 (jī, small table) — A small low table with short legs, drawn from the side. Its low top on short legs keeps it a small table."
  },
  {
   "char": "角",
@@ -1485,7 +1577,8 @@
   "thumb": "jiao3-thumb.webp",
   "thumb_bytes": 14742,
   "art": "jiao3-art.webp",
-  "art_bytes": 34722
+  "art_bytes": 34722,
+  "commentary": "角 (jiǎo, horn; corner) — An animal horn: thick and curved with ringed ridges along it, tapering to a point. The ringed ridges running along the curve are the horn's texture."
  },
  {
   "char": "巾",
@@ -1501,7 +1594,8 @@
   "thumb": "jin1-5dfe-thumb.webp",
   "thumb_bytes": 14884,
   "art": "jin1-5dfe-art.webp",
-  "art_bytes": 36150
+  "art_bytes": 36150,
+  "commentary": "巾 (jīn, cloth; towel) — A rectangular cloth hanging down from a horizontal strap, its lower edge loose. The cloth dangling from the strap is the picture."
  },
  {
   "char": "泉",
@@ -1517,7 +1611,8 @@
   "thumb": "quan2-thumb.webp",
   "thumb_bytes": 19672,
   "art": "quan2-art.webp",
-  "art_bytes": 46916
+  "art_bytes": 46916,
+  "commentary": "泉 (quán, spring) — Water gushing out of a round spring mouth in rock and streaming away below it. Water bursting from the rock is the spring in action."
  },
  {
   "char": "伞",
@@ -1533,7 +1628,8 @@
   "thumb": "san3-thumb.webp",
   "thumb_bytes": 12452,
   "art": "san3-art.webp",
-  "art_bytes": 28458
+  "art_bytes": 28458,
+  "commentary": "伞 (sǎn, umbrella) — An open umbrella from the side: a curved canopy with ribs and a straight handle below. The ribbed canopy over the handle is the umbrella."
  },
  {
   "char": "申",
@@ -1549,7 +1645,8 @@
   "thumb": "shen1-7533-thumb.webp",
   "thumb_bytes": 36644,
   "art": "shen1-7533-art.webp",
-  "art_bytes": 79574
+  "art_bytes": 79574,
+  "commentary": "申 (shēn, to state; lightning) — A bolt of lightning zigzagging down from the sky. The jagged zigzag is the lightning bolt itself."
  },
  {
   "char": "牙",
@@ -1565,7 +1662,8 @@
   "thumb": "ya2-thumb.webp",
   "thumb_bytes": 15242,
   "art": "ya2-art.webp",
-  "art_bytes": 35900
+  "art_bytes": 35900,
+  "commentary": "牙 (yá, tooth) — Upper and lower molar teeth meshing together, their cusped crowns interlocked. The interlocking crowns show teeth built for grinding."
  },
  {
   "char": "亚",
@@ -1581,7 +1679,8 @@
   "thumb": "ya4-thumb.webp",
   "thumb_bytes": 10984,
   "art": "ya4-art.webp",
-  "art_bytes": 25620
+  "art_bytes": 25620,
+  "commentary": "亚 (yà, second; Asia) — The ground plan of a building drawn from above: a square outline with a cross-shaped inner plan. Read it as a floor plan, walls and all."
  },
  {
   "char": "玉",
@@ -1597,7 +1696,8 @@
   "thumb": "yu4-thumb.webp",
   "thumb_bytes": 18154,
   "art": "yu4-art.webp",
-  "art_bytes": 46896
+  "art_bytes": 46896,
+  "commentary": "玉 (yù, jade) — Three flat jade tablets strung together on one vertical cord. The three tablets threaded on a single cord are the treasure."
  },
  {
   "char": "中",
@@ -1613,7 +1713,8 @@
   "thumb": "zhong1-thumb.webp",
   "thumb_bytes": 16356,
   "art": "zhong1-art.webp",
-  "art_bytes": 37626
+  "art_bytes": 37626,
+  "commentary": "中 (zhōng, middle; centre) — A clan banner: a tall pole planted in a base, with long streamers flying from its top. The pole rising through the middle, streamers flying, marks the gathering centre."
  },
  {
   "char": "册",
@@ -1629,7 +1730,8 @@
   "thumb": "ce4-thumb.webp",
   "thumb_bytes": 10136,
   "art": "ce4-art.webp",
-  "art_bytes": 22920
+  "art_bytes": 22920,
+  "commentary": "册 (cè, book; volume) — Writing slips bound into a book: vertical bamboo strips tied together by two horizontal cords. The cords binding the strips are what make it a book."
  },
  {
   "char": "盾",
@@ -1645,7 +1747,8 @@
   "thumb": "dun4-thumb.webp",
   "thumb_bytes": 13676,
   "art": "dun4-art.webp",
-  "art_bytes": 35556
+  "art_bytes": 35556,
+  "commentary": "盾 (dùn, shield) — A broad shield with one eye peeking over its top edge. The eye above the shield shows the soldier hiding behind it."
  },
  {
   "char": "革",
@@ -1661,7 +1764,8 @@
   "thumb": "ge2-thumb.webp",
   "thumb_bytes": 9884,
   "art": "ge2-art.webp",
-  "art_bytes": 21386
+  "art_bytes": 21386,
+  "commentary": "革 (gé, leather; hide) — A flayed animal hide stretched out flat: the head at the top and legs splayed at the corners. Stretched flat with legs at the corners, it is a hide laid out to dry."
  },
  {
   "char": "虎",
@@ -1677,7 +1781,8 @@
   "thumb": "hu3-thumb.webp",
   "thumb_bytes": 16568,
   "art": "hu3-art.webp",
-  "art_bytes": 38264
+  "art_bytes": 38264,
+  "commentary": "虎 (hǔ, tiger) — A tiger rearing in profile: a big head with open jaws, a striped body, powerful legs and a long tail. The stripes and open jaws make the tiger fierce and clear."
  },
  {
   "char": "矛",
@@ -1693,7 +1798,8 @@
   "thumb": "mao2-77db-thumb.webp",
   "thumb_bytes": 21544,
   "art": "mao2-77db-art.webp",
-  "art_bytes": 52240
+  "art_bytes": 52240,
+  "commentary": "矛 (máo, spear) — A spear: a leaf-shaped spearhead mounted on a long straight shaft. The broad leaf-shaped head on the shaft is the weapon."
  },
  {
   "char": "欠",
@@ -1709,7 +1815,8 @@
   "thumb": "qian4-thumb.webp",
   "thumb_bytes": 11754,
   "art": "qian4-art.webp",
-  "art_bytes": 23732
+  "art_bytes": 23732,
+  "commentary": "欠 (qiàn, to yawn; to owe) — A person with mouth wide open, yawning, breath rising from the mouth. The wide-open mouth with breath rising is the yawn."
  },
  {
   "char": "鼠",
@@ -1725,7 +1832,8 @@
   "thumb": "shu3-thumb.webp",
   "thumb_bytes": 14532,
   "art": "shu3-art.webp",
-  "art_bytes": 33868
+  "art_bytes": 33868,
+  "commentary": "鼠 (shǔ, rat; mouse) — A rat in profile: pointed snout with whiskers and teeth, round ears, a plump body, little feet and a long thin tail. Whiskers, teeth and that long thin tail give the rat away."
  },
  {
   "char": "兔",
@@ -1741,7 +1849,8 @@
   "thumb": "tu4-thumb.webp",
   "thumb_bytes": 13690,
   "art": "tu4-art.webp",
-  "art_bytes": 31014
+  "art_bytes": 31014,
+  "commentary": "兔 (tù, rabbit) — A rabbit crouching in profile: long ears laid back, a round body, a short tail and folded legs. The long ears laid back over the round body are the rabbit."
  },
  {
   "char": "胃",
@@ -1757,7 +1866,8 @@
   "thumb": "wei4-thumb.webp",
   "thumb_bytes": 17552,
   "art": "wei4-art.webp",
-  "art_bytes": 44970
+  "art_bytes": 44970,
+  "commentary": "胃 (wèi, stomach) — A stomach: a curved sac filled with grain, sitting above a strip of flesh. The grain-filled sac is the stomach shown by what it holds."
  },
  {
   "char": "夕",
@@ -1773,7 +1883,8 @@
   "thumb": "xi1-5915-thumb.webp",
   "thumb_bytes": 13468,
   "art": "xi1-5915-art.webp",
-  "art_bytes": 30530
+  "art_bytes": 30530,
+  "commentary": "夕 (xī, evening; sunset) — A crescent moon only half risen: the lower half of a crescent showing at dusk. Only half the moon is up — that is evening arriving."
  },
  {
   "char": "辛",
@@ -1789,7 +1900,8 @@
   "thumb": "xin1-8f9b-thumb.webp",
   "thumb_bytes": 11104,
   "art": "xin1-8f9b-art.webp",
-  "art_bytes": 25448
+  "art_bytes": 25448,
+  "commentary": "辛 (xīn, pungent; bitter) — A sharp tattooing knife standing upright on its point. The knife balanced on its point gives the sharp, biting feel."
  },
  {
   "char": "乙",
@@ -1805,7 +1917,8 @@
   "thumb": "yi3-thumb.webp",
   "thumb_bytes": 9906,
   "art": "yi3-art.webp",
-  "art_bytes": 20002
+  "art_bytes": 20002,
+  "commentary": "乙 (yǐ, second) — A seedling bending sideways as it forces its way out of the soil in spring. The bent little shoot is growth pushing through resistance."
  },
  {
   "char": "羽",
@@ -1821,7 +1934,8 @@
   "thumb": "yu3-7fbd-thumb.webp",
   "thumb_bytes": 24048,
   "art": "yu3-7fbd-art.webp",
-  "art_bytes": 64614
+  "art_bytes": 64614,
+  "commentary": "羽 (yǔ, feather) — Two long feathers side by side, each with a central quill and fine barbs along both sides. The quill down the middle with barbs fanning out is a feather's structure."
  },
  {
   "char": "竹",
@@ -1837,7 +1951,8 @@
   "thumb": "zhu2-thumb.webp",
   "thumb_bytes": 33340,
   "art": "zhu2-art.webp",
-  "art_bytes": 72636
+  "art_bytes": 72636,
+  "commentary": "竹 (zhú, bamboo) — Two bamboo stalks side by side, each with pointed leaves drooping from its upper joints. The drooping leaves at the joints mark the bamboo."
  },
  {
   "char": "壶",
@@ -1853,7 +1968,8 @@
   "thumb": "hu2-thumb.webp",
   "thumb_bytes": 15322,
   "art": "hu2-art.webp",
-  "art_bytes": 40068
+  "art_bytes": 40068,
+  "commentary": "壶 (hú, pot; kettle) — A round pot with a domed lid and a small knob on top, its belly swelling out. The swollen belly under the lidded top is the pot."
  },
  {
   "char": "井",
@@ -1869,7 +1985,8 @@
   "thumb": "jing3-thumb.webp",
   "thumb_bytes": 16966,
   "art": "jing3-art.webp",
-  "art_bytes": 43568
+  "art_bytes": 43568,
+  "commentary": "井 (jǐng, well) — The square wooden frame of a well seen from above: crossed timbers forming a grid over the opening. Looking down through the timber grid, you are looking into the well."
  },
  {
   "char": "曲",
@@ -1885,7 +2002,8 @@
   "thumb": "qu1-thumb.webp",
   "thumb_bytes": 21270,
   "art": "qu1-art.webp",
-  "art_bytes": 56208
+  "art_bytes": 56208,
+  "commentary": "曲 (qū, bent; curved) — A shallow rectangular tray with bent-up sides — a frame used for raising silkworms. The sides bent upward give the character its bent shape."
  },
  {
   "char": "勺",
@@ -1901,7 +2019,8 @@
   "thumb": "shao2-thumb.webp",
   "thumb_bytes": 10480,
   "art": "shao2-art.webp",
-  "art_bytes": 23442
+  "art_bytes": 23442,
+  "commentary": "勺 (sháo, spoon; ladle) — A ladle: a small round cup with a long handle curving out of it. The little cup on its curving handle is made for scooping."
  },
  {
   "char": "舌",
@@ -1917,7 +2036,8 @@
   "thumb": "she2-thumb.webp",
   "thumb_bytes": 12502,
   "art": "she2-art.webp",
-  "art_bytes": 27470
+  "art_bytes": 27470,
+  "commentary": "舌 (shé, tongue) — A tongue lolling out of an open mouth, its tip flicking upward. The tongue sticking out of the mouth is the whole picture."
  },
  {
   "char": "田",
@@ -1933,7 +2053,8 @@
   "thumb": "tian2-thumb.webp",
   "thumb_bytes": 17702,
   "art": "tian2-art.webp",
-  "art_bytes": 45446
+  "art_bytes": 45446,
+  "commentary": "田 (tián, field) — A rectangular field divided by crossing paths into four plots, like a paddy seen from above. The crossing paths quartering the rectangle are the field's layout."
  },
  {
   "char": "乌",
@@ -1949,7 +2070,8 @@
   "thumb": "wu1-thumb.webp",
   "thumb_bytes": 7516,
   "art": "wu1-art.webp",
-  "art_bytes": 14528
+  "art_bytes": 14528,
+  "commentary": "乌 (wū, crow) — A crow in profile like a bird drawing — head, beak, wing, tail and feet — but with no eye dot, because the crow is too black for its eye to show. The missing eye is the point."
  },
  {
   "char": "血",
@@ -1965,7 +2087,8 @@
   "thumb": "xue4-thumb.webp",
   "thumb_bytes": 11410,
   "art": "xue4-art.webp",
-  "art_bytes": 27230
+  "art_bytes": 27230,
+  "commentary": "血 (xuè, blood) — A shallow sacrificial dish with a single drop of blood in the middle of it. One drop in the dish carries the whole meaning."
  },
  {
   "char": "予",
@@ -1981,7 +2104,8 @@
   "thumb": "yu3-4e88-thumb.webp",
   "thumb_bytes": 10340,
   "art": "yu3-4e88-art.webp",
-  "art_bytes": 24506
+  "art_bytes": 24506,
+  "commentary": "予 (yǔ, to give; I) — A weaving shuttle: a pointed peg with thread being pushed across the warp threads. The shuttle carrying thread across the warp is the picture."
  },
  {
   "char": "臣",
@@ -1997,7 +2121,8 @@
   "thumb": "chen2-thumb.webp",
   "thumb_bytes": 14362,
   "art": "chen2-art.webp",
-  "art_bytes": 33364
+  "art_bytes": 33364,
+  "commentary": "臣 (chén, minister; official) — One eye drawn upright and vertical — the eye of a head bowed low in submission. The turned eye shows the bowed head without drawing it."
  },
  {
   "char": "川",
@@ -2013,7 +2138,8 @@
   "thumb": "chuan1-thumb.webp",
   "thumb_bytes": 18532,
   "art": "chuan1-art.webp",
-  "art_bytes": 45156
+  "art_bytes": 45156,
+  "commentary": "川 (chuān, river) — Three long parallel streams of water flowing downward side by side. Stream beside stream: the flow itself is the river."
  },
  {
   "char": "鼎",
@@ -2029,7 +2155,8 @@
   "thumb": "ding3-thumb.webp",
   "thumb_bytes": 8934,
   "art": "ding3-art.webp",
-  "art_bytes": 19406
+  "art_bytes": 19406,
+  "commentary": "鼎 (dǐng, tripod cauldron) — A bronze tripod cauldron: a round belly, two handles on the rim and three sturdy legs. Three legs under the round belly make it a tripod."
  },
  {
   "char": "弓",
@@ -2045,7 +2172,8 @@
   "thumb": "gong1-5f13-thumb.webp",
   "thumb_bytes": 8574,
   "art": "gong1-5f13-art.webp",
-  "art_bytes": 18816
+  "art_bytes": 18816,
+  "commentary": "弓 (gōng, bow) — A strung bow: a deeply curved bow with its string drawn straight down one side. The curve of the wood against the straight string is the bow."
  },
  {
   "char": "禾",
@@ -2061,7 +2189,8 @@
   "thumb": "he2-thumb.webp",
   "thumb_bytes": 13478,
   "art": "he2-art.webp",
-  "art_bytes": 30660
+  "art_bytes": 30660,
+  "commentary": "禾 (hé, grain plant) — A standing grain plant: a stalk with leaves and a heavy drooping ear of grain at the top. The heavy ear bending the top over is the ripe grain."
  },
  {
   "char": "鹿",
@@ -2077,7 +2206,8 @@
   "thumb": "lu4-thumb.webp",
   "thumb_bytes": 11864,
   "art": "lu4-art.webp",
-  "art_bytes": 26380
+  "art_bytes": 26380,
+  "commentary": "鹿 (lù, deer) — A deer in profile: a head crowned with big branching antlers, a slim body and four thin legs. The branching antlers are the first thing to look for."
  },
  {
   "char": "眉",
@@ -2093,7 +2223,8 @@
   "thumb": "mei2-thumb.webp",
   "thumb_bytes": 16558,
   "art": "mei2-art.webp",
-  "art_bytes": 40360
+  "art_bytes": 40360,
+  "commentary": "眉 (méi, eyebrow) — An eyebrow arching over an eye: a curved brow with hair strokes, the eye below it. The brow's arch over the eye is exactly what the word names."
  },
  {
   "char": "犬",
@@ -2109,7 +2240,8 @@
   "thumb": "quan3-thumb.webp",
   "thumb_bytes": 10736,
   "art": "quan3-art.webp",
-  "art_bytes": 23718
+  "art_bytes": 23718,
+  "commentary": "犬 (quǎn, dog) — A dog standing in profile: pointed ears, a long snout, a curled tail and a spot marking its side. Pointed ears, long snout and curled tail make the dog."
  },
  {
   "char": "矢",
@@ -2125,7 +2257,8 @@
   "thumb": "shi3-thumb.webp",
   "thumb_bytes": 21728,
   "art": "shi3-art.webp",
-  "art_bytes": 52894
+  "art_bytes": 52894,
+  "commentary": "矢 (shǐ, arrow) — An arrow: a pointed metal head, a straight shaft and feather fletching at the tail. Point at the front, feathers at the back — the arrow in full."
  },
  {
   "char": "穴",
@@ -2141,7 +2274,8 @@
   "thumb": "xue2-thumb.webp",
   "thumb_bytes": 15206,
   "art": "xue2-art.webp",
-  "art_bytes": 38876
+  "art_bytes": 38876,
+  "commentary": "穴 (xué, cave; hole) — A cave dwelling: an arched mound of earth with a dark entrance opening under its roof. The dark opening under the arch is the cave mouth."
  },
  {
   "char": "舟",
@@ -2157,7 +2291,8 @@
   "thumb": "zhou1-thumb.webp",
   "thumb_bytes": 7902,
   "art": "zhou1-art.webp",
-  "art_bytes": 16718
+  "art_bytes": 16718,
+  "commentary": "舟 (zhōu, boat) — A boat from the side: a narrow hull with raised bow and stern and a line for its deck. The hull rising at both ends is the boat's profile."
  },
  {
   "char": "爪",
@@ -2173,6 +2308,7 @@
   "thumb": "zhua3-thumb.webp",
   "thumb_bytes": 10868,
   "art": "zhua3-art.webp",
-  "art_bytes": 24922
+  "art_bytes": 24922,
+  "commentary": "爪 (zhuǎ, claw) — A clawed foot pressing down: sharp talons curving out of a pad. The talons curving downward are built for gripping."
  }
 ]
