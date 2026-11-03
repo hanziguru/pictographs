@@ -12823,5 +12823,572 @@
    "ko": null,
    "fr": null
   }
+ },
+ {
+  "char": "错",
+  "trad": "錯",
+  "pinyin": "cuò",
+  "pinyin_num": "cuo4",
+  "gloss": "wrong, mistaken",
+  "hsk": 1,
+  "cluster": "jin",
+  "cue": "An archer's arrow stuck in the grass just beside the target, the archer scratching his head at the miss",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cuo4.webp",
+  "card_bytes": 82670,
+  "art": "meaning/art/cuo4-art.webp",
+  "art_bytes": 70840,
+  "thumb": "meaning/thumbs/cuo4-thumb.webp",
+  "thumb_bytes": 34762,
+  "i18n": {
+   "en": {
+    "cue": "An archer's arrow stuck in the grass just beside the target, the archer scratching his head at the miss"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "钱",
+  "trad": "錢",
+  "pinyin": "qián",
+  "pinyin_num": "qian2",
+  "gloss": "money, coins",
+  "hsk": 1,
+  "cluster": "jin",
+  "cue": "An open coin purse with round copper coins spilling onto a wooden counter",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qian2.webp",
+  "card_bytes": 90994,
+  "art": "meaning/art/qian2-art.webp",
+  "art_bytes": 82862,
+  "thumb": "meaning/thumbs/qian2-thumb.webp",
+  "thumb_bytes": 34358,
+  "i18n": {
+   "en": {
+    "cue": "An open coin purse with round copper coins spilling onto a wooden counter"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "铁",
+  "trad": "鐵",
+  "pinyin": "tiě",
+  "pinyin_num": "tie3",
+  "gloss": "iron",
+  "hsk": 2,
+  "cluster": "jin",
+  "cue": "A blacksmith's dark iron anvil with a horseshoe resting on it, heavy and rough",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tie3.webp",
+  "card_bytes": 65658,
+  "art": "meaning/art/tie3-art.webp",
+  "art_bytes": 56472,
+  "thumb": "meaning/thumbs/tie3-thumb.webp",
+  "thumb_bytes": 26120,
+  "i18n": {
+   "en": {
+    "cue": "A blacksmith's dark iron anvil with a horseshoe resting on it, heavy and rough"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "银",
+  "trad": "銀",
+  "pinyin": "yín",
+  "pinyin_num": "yin2",
+  "gloss": "silver",
+  "hsk": 2,
+  "cluster": "jin",
+  "cue": "Pale silver ingots (sycee, boat-shaped) arranged on a tray, cool bright sheen",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yin2.webp",
+  "card_bytes": 87546,
+  "art": "meaning/art/yin2-art.webp",
+  "art_bytes": 79582,
+  "thumb": "meaning/thumbs/yin2-thumb.webp",
+  "thumb_bytes": 33582,
+  "i18n": {
+   "en": {
+    "cue": "Pale silver ingots (sycee, boat-shaped) arranged on a tray, cool bright sheen"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "钟",
+  "trad": "鐘鍾",
+  "pinyin": "zhōng",
+  "pinyin_num": "zhong1",
+  "gloss": "clock",
+  "hsk": 2,
+  "cluster": "jin",
+  "cue": "A round wall clock with a swinging pendulum, plain tick marks only on its face, no numerals",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhong1-949f.webp",
+  "card_bytes": 60448,
+  "art": "meaning/art/zhong1-949f-art.webp",
+  "art_bytes": 49734,
+  "thumb": "meaning/thumbs/zhong1-949f-thumb.webp",
+  "thumb_bytes": 25526,
+  "i18n": {
+   "en": {
+    "cue": "A round wall clock with a swinging pendulum, plain tick marks only on its face, no numerals"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "金",
+  "trad": "金",
+  "pinyin": "jīn",
+  "pinyin_num": "jin1",
+  "gloss": "gold, metal",
+  "hsk": 3,
+  "cluster": "jin",
+  "cue": "A pile of rich golden ingots (sycee, boat-shaped), warm saturated gold metal",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jin1.webp",
+  "card_bytes": 75430,
+  "art": "meaning/art/jin1-art.webp",
+  "art_bytes": 65872,
+  "thumb": "meaning/thumbs/jin1-thumb.webp",
+  "thumb_bytes": 28710,
+  "i18n": {
+   "en": {
+    "cue": "A pile of rich golden ingots (sycee, boat-shaped), warm saturated gold metal"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "锻",
+  "trad": "鍛",
+  "pinyin": "duàn",
+  "pinyin_num": "duan4",
+  "gloss": "to forge, to temper",
+  "hsk": 4,
+  "cluster": "jin",
+  "cue": "A blacksmith hammering a bright hot blade on an anvil, sparks flying, in a traditional forge",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-duan4.webp",
+  "card_bytes": 84056,
+  "art": "meaning/art/duan4-art.webp",
+  "art_bytes": 72368,
+  "thumb": "meaning/thumbs/duan4-thumb.webp",
+  "thumb_bytes": 34672,
+  "i18n": {
+   "en": {
+    "cue": "A blacksmith hammering a bright hot blade on an anvil, sparks flying, in a traditional forge"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "镜",
+  "trad": "鏡",
+  "pinyin": "jìng",
+  "pinyin_num": "jing4",
+  "gloss": "mirror",
+  "hsk": 4,
+  "cluster": "jin",
+  "cue": "A round mirror on a wooden dressing table reflecting a sprig of plum blossom",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jing4-955c.webp",
+  "card_bytes": 67314,
+  "art": "meaning/art/jing4-955c-art.webp",
+  "art_bytes": 57080,
+  "thumb": "meaning/thumbs/jing4-955c-thumb.webp",
+  "thumb_bytes": 26338,
+  "i18n": {
+   "en": {
+    "cue": "A round mirror on a wooden dressing table reflecting a sprig of plum blossom"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "销",
+  "trad": "銷",
+  "pinyin": "xiāo",
+  "pinyin_num": "xiao1",
+  "gloss": "to melt (metal)",
+  "hsk": 4,
+  "cluster": "jin",
+  "cue": "A foundry worker pouring a bright stream of molten metal from a crucible into a mould",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xiao1.webp",
+  "card_bytes": 65978,
+  "art": "meaning/art/xiao1-art.webp",
+  "art_bytes": 54448,
+  "thumb": "meaning/thumbs/xiao1-thumb.webp",
+  "thumb_bytes": 26820,
+  "i18n": {
+   "en": {
+    "cue": "A foundry worker pouring a bright stream of molten metal from a crucible into a mould"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "针",
+  "trad": "針",
+  "pinyin": "zhēn",
+  "pinyin_num": "zhen1",
+  "gloss": "needle",
+  "hsk": 4,
+  "cluster": "jin",
+  "cue": "One large sewing needle with thread through its eye, resting beside a pincushion",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhen1.webp",
+  "card_bytes": 57818,
+  "art": "meaning/art/zhen1-art.webp",
+  "art_bytes": 47680,
+  "thumb": "meaning/thumbs/zhen1-thumb.webp",
+  "thumb_bytes": 24298,
+  "i18n": {
+   "en": {
+    "cue": "One large sewing needle with thread through its eye, resting beside a pincushion"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "钢",
+  "trad": "鋼",
+  "pinyin": "gāng",
+  "pinyin_num": "gang1",
+  "gloss": "steel",
+  "hsk": 5,
+  "cluster": "jin",
+  "cue": "Neatly stacked polished steel beams with a bright smooth sheen at a steelworks",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gang1.webp",
+  "card_bytes": 68838,
+  "art": "meaning/art/gang1-art.webp",
+  "art_bytes": 58864,
+  "thumb": "meaning/thumbs/gang1-thumb.webp",
+  "thumb_bytes": 28648,
+  "i18n": {
+   "en": {
+    "cue": "Neatly stacked polished steel beams with a bright smooth sheen at a steelworks"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "锅",
+  "trad": "鍋",
+  "pinyin": "guō",
+  "pinyin_num": "guo1",
+  "gloss": "wok, cooking pot",
+  "hsk": 5,
+  "cluster": "jin",
+  "cue": "A round iron wok on a traditional stove with gentle steam rising, its lid resting beside it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-guo1.webp",
+  "card_bytes": 69846,
+  "art": "meaning/art/guo1-art.webp",
+  "art_bytes": 57898,
+  "thumb": "meaning/thumbs/guo1-thumb.webp",
+  "thumb_bytes": 27612,
+  "i18n": {
+   "en": {
+    "cue": "A round iron wok on a traditional stove with gentle steam rising, its lid resting beside it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "键",
+  "trad": "鍵",
+  "pinyin": "jiàn",
+  "pinyin_num": "jian4",
+  "gloss": "door bolt",
+  "hsk": 5,
+  "cluster": "jin",
+  "cue": "Traditional double wooden doors barred by a heavy horizontal metal bolt, seen from the front",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jian4-952e.webp",
+  "card_bytes": 65510,
+  "art": "meaning/art/jian4-952e-art.webp",
+  "art_bytes": 53636,
+  "thumb": "meaning/thumbs/jian4-952e-thumb.webp",
+  "thumb_bytes": 26140,
+  "i18n": {
+   "en": {
+    "cue": "Traditional double wooden doors barred by a heavy horizontal metal bolt, seen from the front"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "铃",
+  "trad": "鈴",
+  "pinyin": "líng",
+  "pinyin_num": "ling2",
+  "gloss": "small bell",
+  "hsk": 5,
+  "cluster": "jin",
+  "cue": "A small bell hanging from the upturned corner of a pagoda roof eave against the sky",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ling2.webp",
+  "card_bytes": 85438,
+  "art": "meaning/art/ling2-art.webp",
+  "art_bytes": 75208,
+  "thumb": "meaning/thumbs/ling2-thumb.webp",
+  "thumb_bytes": 31384,
+  "i18n": {
+   "en": {
+    "cue": "A small bell hanging from the upturned corner of a pagoda roof eave against the sky"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "锁",
+  "trad": "鎖",
+  "pinyin": "suǒ",
+  "pinyin_num": "suo3",
+  "gloss": "lock, padlock",
+  "hsk": 5,
+  "cluster": "jin",
+  "cue": "A brass padlock fastening the latch of a traditional wooden door, close-up",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-suo3.webp",
+  "card_bytes": 80824,
+  "art": "meaning/art/suo3-art.webp",
+  "art_bytes": 71012,
+  "thumb": "meaning/thumbs/suo3-thumb.webp",
+  "thumb_bytes": 32580,
+  "i18n": {
+   "en": {
+    "cue": "A brass padlock fastening the latch of a traditional wooden door, close-up"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "锋",
+  "trad": "鋒",
+  "pinyin": "fēng",
+  "pinyin_num": "feng1",
+  "gloss": "spear point, sharp edge",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "A gleaming spearhead in a clean still-life study, its sharp point catching the light",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-feng1.webp",
+  "card_bytes": 76414,
+  "art": "meaning/art/feng1-art.webp",
+  "art_bytes": 61450,
+  "thumb": "meaning/thumbs/feng1-thumb.webp",
+  "thumb_bytes": 32122,
+  "i18n": {
+   "en": {
+    "cue": "A gleaming spearhead in a clean still-life study, its sharp point catching the light"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "铺",
+  "trad": "鋪",
+  "pinyin": "pù",
+  "pinyin_num": "pu4",
+  "gloss": "shop, store",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "A traditional Chinese shopfront with a tiled awning and goods displayed in its open front",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pu4.webp",
+  "card_bytes": 105634,
+  "art": "meaning/art/pu4-art.webp",
+  "art_bytes": 97408,
+  "thumb": "meaning/thumbs/pu4-thumb.webp",
+  "thumb_bytes": 40812,
+  "i18n": {
+   "en": {
+    "cue": "A traditional Chinese shopfront with a tiled awning and goods displayed in its open front"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "铅",
+  "trad": "鉛",
+  "pinyin": "qiān",
+  "pinyin_num": "qian1",
+  "gloss": "lead (metal)",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "A low stack of dull matte grey lead bars, heavy and plain",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qian1-94c5.webp",
+  "card_bytes": 54044,
+  "art": "meaning/art/qian1-94c5-art.webp",
+  "art_bytes": 45098,
+  "thumb": "meaning/thumbs/qian1-94c5-thumb.webp",
+  "thumb_bytes": 20374,
+  "i18n": {
+   "en": {
+    "cue": "A low stack of dull matte grey lead bars, heavy and plain"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "铜",
+  "trad": "銅",
+  "pinyin": "tóng",
+  "pinyin_num": "tong2",
+  "gloss": "copper, bronze",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "An ancient bronze ding tripod vessel with two handles, warm brown-green patina",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tong2.webp",
+  "card_bytes": 77110,
+  "art": "meaning/art/tong2-art.webp",
+  "art_bytes": 65596,
+  "thumb": "meaning/thumbs/tong2-thumb.webp",
+  "thumb_bytes": 32348,
+  "i18n": {
+   "en": {
+    "cue": "An ancient bronze ding tripod vessel with two handles, warm brown-green patina"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "镇",
+  "trad": "鎮",
+  "pinyin": "zhèn",
+  "pinyin_num": "zhen4",
+  "gloss": "small town",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "A quiet small-town street in old China, tiled roofs and lanterns along a stone lane",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhen4.webp",
+  "card_bytes": 100026,
+  "art": "meaning/art/zhen4-art.webp",
+  "art_bytes": 90134,
+  "thumb": "meaning/thumbs/zhen4-thumb.webp",
+  "thumb_bytes": 39262,
+  "i18n": {
+   "en": {
+    "cue": "A quiet small-town street in old China, tiled roofs and lanterns along a stone lane"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "钻",
+  "trad": "鑽",
+  "pinyin": "zuān",
+  "pinyin_num": "zuan1",
+  "gloss": "diamond",
+  "hsk": 6,
+  "cluster": "jin",
+  "cue": "One brilliant cut diamond resting on a velvet cushion, sparkling facets",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zuan1.webp",
+  "card_bytes": 69266,
+  "art": "meaning/art/zuan1-art.webp",
+  "art_bytes": 60264,
+  "thumb": "meaning/thumbs/zuan1-thumb.webp",
+  "thumb_bytes": 27132,
+  "i18n": {
+   "en": {
+    "cue": "One brilliant cut diamond resting on a velvet cushion, sparkling facets"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
  }
 ]
