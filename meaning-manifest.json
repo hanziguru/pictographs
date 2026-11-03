@@ -1267,5 +1267,2003 @@
    "ko": null,
    "fr": null
   }
+ },
+ {
+  "char": "打",
+  "trad": "打",
+  "pinyin": "dǎ",
+  "pinyin_num": "da3",
+  "gloss": "to hit, to beat",
+  "hsk": 1,
+  "cluster": "shou",
+  "cue": "A hand striking a ball with an open palm, motion lines at the impact",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-da3.webp",
+  "card_bytes": 63580,
+  "art": "meaning/art/da3-art.webp",
+  "art_bytes": 55200,
+  "thumb": "meaning/thumbs/da3-thumb.webp",
+  "thumb_bytes": 25312,
+  "i18n": {
+   "en": {
+    "cue": "A hand striking a ball with an open palm, motion lines at the impact"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拿",
+  "trad": "拿",
+  "pinyin": "ná",
+  "pinyin_num": "na2",
+  "gloss": "to take, to hold",
+  "hsk": 1,
+  "cluster": "shou",
+  "cue": "A hand picking up a book from a table, fingers closing over it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-na2.webp",
+  "card_bytes": 57584,
+  "art": "meaning/art/na2-art.webp",
+  "art_bytes": 48672,
+  "thumb": "meaning/thumbs/na2-thumb.webp",
+  "thumb_bytes": 22670,
+  "i18n": {
+   "en": {
+    "cue": "A hand picking up a book from a table, fingers closing over it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "找",
+  "trad": "找",
+  "pinyin": "zhǎo",
+  "pinyin_num": "zhao3",
+  "gloss": "to look for",
+  "hsk": 1,
+  "cluster": "shou",
+  "cue": "A hand lifting a cloth and peering underneath, searching for something hidden",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhao3.webp",
+  "card_bytes": 71116,
+  "art": "meaning/art/zhao3-art.webp",
+  "art_bytes": 61248,
+  "thumb": "meaning/thumbs/zhao3-thumb.webp",
+  "thumb_bytes": 30144,
+  "i18n": {
+   "en": {
+    "cue": "A hand lifting a cloth and peering underneath, searching for something hidden"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "掉",
+  "trad": "掉",
+  "pinyin": "diào",
+  "pinyin_num": "diao4",
+  "gloss": "to drop",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "A cup slipping from open fingers, falling downward with motion lines",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-diao4.webp",
+  "card_bytes": 80716,
+  "art": "meaning/art/diao4-art.webp",
+  "art_bytes": 69704,
+  "thumb": "meaning/thumbs/diao4-thumb.webp",
+  "thumb_bytes": 34992,
+  "i18n": {
+   "en": {
+    "cue": "A cup slipping from open fingers, falling downward with motion lines"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "护",
+  "trad": "護",
+  "pinyin": "hù",
+  "pinyin_num": "hu4",
+  "gloss": "to protect",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "A cupped hand shielding a small candle flame from the wind",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hu4.webp",
+  "card_bytes": 66710,
+  "art": "meaning/art/hu4-art.webp",
+  "art_bytes": 58996,
+  "thumb": "meaning/thumbs/hu4-thumb.webp",
+  "thumb_bytes": 27000,
+  "i18n": {
+   "en": {
+    "cue": "A cupped hand shielding a small candle flame from the wind"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "换",
+  "trad": "換",
+  "pinyin": "huàn",
+  "pinyin_num": "huan4",
+  "gloss": "to exchange",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "Two hands swapping a red apple and a green pear between them",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-huan4.webp",
+  "card_bytes": 54602,
+  "art": "meaning/art/huan4-art.webp",
+  "art_bytes": 44444,
+  "thumb": "meaning/thumbs/huan4-thumb.webp",
+  "thumb_bytes": 22400,
+  "i18n": {
+   "en": {
+    "cue": "Two hands swapping a red apple and a green pear between them"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "接",
+  "trad": "接",
+  "pinyin": "jiē",
+  "pinyin_num": "jie1",
+  "gloss": "to catch, to receive",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "Two hands catching a ball tossed through the air",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jie1-63a5.webp",
+  "card_bytes": 94104,
+  "art": "meaning/art/jie1-63a5-art.webp",
+  "art_bytes": 83590,
+  "thumb": "meaning/thumbs/jie1-63a5-thumb.webp",
+  "thumb_bytes": 40782,
+  "i18n": {
+   "en": {
+    "cue": "Two hands catching a ball tossed through the air"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "举",
+  "trad": "舉",
+  "pinyin": "jǔ",
+  "pinyin_num": "ju3",
+  "gloss": "to raise",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "One arm raised straight up high, open hand reaching the top of the frame",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ju3.webp",
+  "card_bytes": 95322,
+  "art": "meaning/art/ju3-art.webp",
+  "art_bytes": 84848,
+  "thumb": "meaning/thumbs/ju3-thumb.webp",
+  "thumb_bytes": 39094,
+  "i18n": {
+   "en": {
+    "cue": "One arm raised straight up high, open hand reaching the top of the frame"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拉",
+  "trad": "拉",
+  "pinyin": "lā",
+  "pinyin_num": "la1",
+  "gloss": "to pull",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "Hands pulling a rope taut, a heavy cart rolling behind it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-la1.webp",
+  "card_bytes": 75428,
+  "art": "meaning/art/la1-art.webp",
+  "art_bytes": 70096,
+  "thumb": "meaning/thumbs/la1-thumb.webp",
+  "thumb_bytes": 30228,
+  "i18n": {
+   "en": {
+    "cue": "Hands pulling a rope taut, a heavy cart rolling behind it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "排",
+  "trad": "排",
+  "pinyin": "pái",
+  "pinyin_num": "pai2",
+  "gloss": "to arrange in a row",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "A hand lining up five cups in one perfectly straight row",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pai2.webp",
+  "card_bytes": 46240,
+  "art": "meaning/art/pai2-art.webp",
+  "art_bytes": 36694,
+  "thumb": "meaning/thumbs/pai2-thumb.webp",
+  "thumb_bytes": 18390,
+  "i18n": {
+   "en": {
+    "cue": "A hand lining up five cups in one perfectly straight row"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "提",
+  "trad": "提",
+  "pinyin": "tí",
+  "pinyin_num": "ti2",
+  "gloss": "to carry by a handle",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "A hand carrying a bucket by its handle, the bucket hanging below",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ti2.webp",
+  "card_bytes": 49732,
+  "art": "meaning/art/ti2-art.webp",
+  "art_bytes": 38158,
+  "thumb": "meaning/thumbs/ti2-thumb.webp",
+  "thumb_bytes": 20128,
+  "i18n": {
+   "en": {
+    "cue": "A hand carrying a bucket by its handle, the bucket hanging below"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "推",
+  "trad": "推",
+  "pinyin": "tuī",
+  "pinyin_num": "tui1",
+  "gloss": "to push",
+  "hsk": 2,
+  "cluster": "shou",
+  "cue": "Both hands pushing a heavy wooden crate across the floor",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tui1.webp",
+  "card_bytes": 81634,
+  "art": "meaning/art/tui1-art.webp",
+  "art_bytes": 76424,
+  "thumb": "meaning/thumbs/tui1-thumb.webp",
+  "thumb_bytes": 32134,
+  "i18n": {
+   "en": {
+    "cue": "Both hands pushing a heavy wooden crate across the floor"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "按",
+  "trad": "按",
+  "pinyin": "àn",
+  "pinyin_num": "an4",
+  "gloss": "to press",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "One fingertip pressing down on a large round button",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-an4.webp",
+  "card_bytes": 61022,
+  "art": "meaning/art/an4-art.webp",
+  "art_bytes": 52758,
+  "thumb": "meaning/thumbs/an4-thumb.webp",
+  "thumb_bytes": 23540,
+  "i18n": {
+   "en": {
+    "cue": "One fingertip pressing down on a large round button"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "搬",
+  "trad": "搬",
+  "pinyin": "bān",
+  "pinyin_num": "ban1",
+  "gloss": "to carry, to move",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "Arms carrying a big cardboard box against the chest",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ban1.webp",
+  "card_bytes": 71412,
+  "art": "meaning/art/ban1-art.webp",
+  "art_bytes": 62834,
+  "thumb": "meaning/thumbs/ban1-thumb.webp",
+  "thumb_bytes": 29140,
+  "i18n": {
+   "en": {
+    "cue": "Arms carrying a big cardboard box against the chest"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "播",
+  "trad": "播",
+  "pinyin": "bō",
+  "pinyin_num": "bo1",
+  "gloss": "to sow",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "A hand scattering seeds in an arc over dark soil",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bo1-64ad.webp",
+  "card_bytes": 114294,
+  "art": "meaning/art/bo1-64ad-art.webp",
+  "art_bytes": 106676,
+  "thumb": "meaning/thumbs/bo1-64ad-thumb.webp",
+  "thumb_bytes": 48466,
+  "i18n": {
+   "en": {
+    "cue": "A hand scattering seeds in an arc over dark soil"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "持",
+  "trad": "持",
+  "pinyin": "chí",
+  "pinyin_num": "chi2",
+  "gloss": "to hold upright",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "A hand holding a tall sign upright on its pole",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chi2.webp",
+  "card_bytes": 93592,
+  "art": "meaning/art/chi2-art.webp",
+  "art_bytes": 85840,
+  "thumb": "meaning/thumbs/chi2-thumb.webp",
+  "thumb_bytes": 38126,
+  "i18n": {
+   "en": {
+    "cue": "A hand holding a tall sign upright on its pole"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挂",
+  "trad": "掛",
+  "pinyin": "guà",
+  "pinyin_num": "gua4",
+  "gloss": "to hang",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "A hand hanging a framed picture on a wall hook",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gua4.webp",
+  "card_bytes": 63622,
+  "art": "meaning/art/gua4-art.webp",
+  "art_bytes": 55494,
+  "thumb": "meaning/thumbs/gua4-thumb.webp",
+  "thumb_bytes": 25278,
+  "i18n": {
+   "en": {
+    "cue": "A hand hanging a framed picture on a wall hook"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拍",
+  "trad": "拍",
+  "pinyin": "pāi",
+  "pinyin_num": "pai1",
+  "gloss": "to clap, to pat",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "Two hands clapping together, small motion lines at the palms",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pai1.webp",
+  "card_bytes": 76506,
+  "art": "meaning/art/pai1-art.webp",
+  "art_bytes": 66538,
+  "thumb": "meaning/thumbs/pai1-thumb.webp",
+  "thumb_bytes": 31996,
+  "i18n": {
+   "en": {
+    "cue": "Two hands clapping together, small motion lines at the palms"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "握",
+  "trad": "握",
+  "pinyin": "wò",
+  "pinyin_num": "wo4",
+  "gloss": "to grasp; a handshake",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "Two hands locked in a firm handshake",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wo4.webp",
+  "card_bytes": 53962,
+  "art": "meaning/art/wo4-art.webp",
+  "art_bytes": 44842,
+  "thumb": "meaning/thumbs/wo4-thumb.webp",
+  "thumb_bytes": 22394,
+  "i18n": {
+   "en": {
+    "cue": "Two hands locked in a firm handshake"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "指",
+  "trad": "指",
+  "pinyin": "zhǐ",
+  "pinyin_num": "zhi3",
+  "gloss": "finger; to point",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "One hand with the index finger pointing straight ahead",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhi3.webp",
+  "card_bytes": 62750,
+  "art": "meaning/art/zhi3-art.webp",
+  "art_bytes": 52410,
+  "thumb": "meaning/thumbs/zhi3-thumb.webp",
+  "thumb_bytes": 25002,
+  "i18n": {
+   "en": {
+    "cue": "One hand with the index finger pointing straight ahead"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抓",
+  "trad": "抓",
+  "pinyin": "zhuā",
+  "pinyin_num": "zhua1",
+  "gloss": "to grab",
+  "hsk": 3,
+  "cluster": "shou",
+  "cue": "A claw-like hand grabbing a bunch of grapes from above",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhua1.webp",
+  "card_bytes": 98392,
+  "art": "meaning/art/zhua1-art.webp",
+  "art_bytes": 89790,
+  "thumb": "meaning/thumbs/zhua1-thumb.webp",
+  "thumb_bytes": 42550,
+  "i18n": {
+   "en": {
+    "cue": "A claw-like hand grabbing a bunch of grapes from above"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摆",
+  "trad": "擺",
+  "pinyin": "bǎi",
+  "pinyin_num": "bai3",
+  "gloss": "to set out, to display",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "Hands arranging fruits in neat piles on a market stall table",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bai3.webp",
+  "card_bytes": 86064,
+  "art": "meaning/art/bai3-art.webp",
+  "art_bytes": 76662,
+  "thumb": "meaning/thumbs/bai3-thumb.webp",
+  "thumb_bytes": 34530,
+  "i18n": {
+   "en": {
+    "cue": "Hands arranging fruits in neat piles on a market stall table"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抱",
+  "trad": "抱",
+  "pinyin": "bào",
+  "pinyin_num": "bao4",
+  "gloss": "to hug, to hold in the arms",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "Arms wrapped around a small child in a warm hug",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bao4.webp",
+  "card_bytes": 64516,
+  "art": "meaning/art/bao4-art.webp",
+  "art_bytes": 54554,
+  "thumb": "meaning/thumbs/bao4-thumb.webp",
+  "thumb_bytes": 26372,
+  "i18n": {
+   "en": {
+    "cue": "Arms wrapped around a small child in a warm hug"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "擦",
+  "trad": "擦",
+  "pinyin": "cā",
+  "pinyin_num": "ca1",
+  "gloss": "to wipe",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand wiping a board clean with a cloth, chalk dust trailing",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ca1.webp",
+  "card_bytes": 59428,
+  "art": "meaning/art/ca1-art.webp",
+  "art_bytes": 50504,
+  "thumb": "meaning/thumbs/ca1-thumb.webp",
+  "thumb_bytes": 24030,
+  "i18n": {
+   "en": {
+    "cue": "A hand wiping a board clean with a cloth, chalk dust trailing"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抄",
+  "trad": "抄",
+  "pinyin": "chāo",
+  "pinyin_num": "chao1",
+  "gloss": "to copy in writing",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand writing with a brush on paper, an open book beside it to copy from",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chao1.webp",
+  "card_bytes": 50370,
+  "art": "meaning/art/chao1-art.webp",
+  "art_bytes": 39114,
+  "thumb": "meaning/thumbs/chao1-thumb.webp",
+  "thumb_bytes": 21004,
+  "i18n": {
+   "en": {
+    "cue": "A hand writing with a brush on paper, an open book beside it to copy from"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抽",
+  "trad": "抽",
+  "pinyin": "chōu",
+  "pinyin_num": "chou1",
+  "gloss": "to draw out",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand pulling one book smoothly out of a full shelf",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chou1.webp",
+  "card_bytes": 68114,
+  "art": "meaning/art/chou1-art.webp",
+  "art_bytes": 61520,
+  "thumb": "meaning/thumbs/chou1-thumb.webp",
+  "thumb_bytes": 27098,
+  "i18n": {
+   "en": {
+    "cue": "A hand pulling one book smoothly out of a full shelf"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "担",
+  "trad": "擔",
+  "pinyin": "dān",
+  "pinyin_num": "dan1",
+  "gloss": "to carry on a shoulder pole",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A figure carrying two baskets balanced on a bamboo shoulder pole",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-dan1.webp",
+  "card_bytes": 57610,
+  "art": "meaning/art/dan1-art.webp",
+  "art_bytes": 46036,
+  "thumb": "meaning/thumbs/dan1-thumb.webp",
+  "thumb_bytes": 23932,
+  "i18n": {
+   "en": {
+    "cue": "A figure carrying two baskets balanced on a bamboo shoulder pole"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挥",
+  "trad": "揮",
+  "pinyin": "huī",
+  "pinyin_num": "hui1",
+  "gloss": "to wave",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand waving a small flag side to side",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hui1.webp",
+  "card_bytes": 52390,
+  "art": "meaning/art/hui1-art.webp",
+  "art_bytes": 46240,
+  "thumb": "meaning/thumbs/hui1-thumb.webp",
+  "thumb_bytes": 20402,
+  "i18n": {
+   "en": {
+    "cue": "A hand waving a small flag side to side"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "描",
+  "trad": "描",
+  "pinyin": "miáo",
+  "pinyin_num": "miao2",
+  "gloss": "to trace, to sketch",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand tracing the outline of a leaf with a brush on thin paper",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-miao2.webp",
+  "card_bytes": 65148,
+  "art": "meaning/art/miao2-art.webp",
+  "art_bytes": 54308,
+  "thumb": "meaning/thumbs/miao2-thumb.webp",
+  "thumb_bytes": 26466,
+  "i18n": {
+   "en": {
+    "cue": "A hand tracing the outline of a leaf with a brush on thin paper"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摸",
+  "trad": "摸",
+  "pinyin": "mō",
+  "pinyin_num": "mo1",
+  "gloss": "to stroke gently",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand gently stroking a sleeping cat",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-mo1.webp",
+  "card_bytes": 70242,
+  "art": "meaning/art/mo1-art.webp",
+  "art_bytes": 62412,
+  "thumb": "meaning/thumbs/mo1-thumb.webp",
+  "thumb_bytes": 27868,
+  "i18n": {
+   "en": {
+    "cue": "A hand gently stroking a sleeping cat"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扫",
+  "trad": "掃",
+  "pinyin": "sǎo",
+  "pinyin_num": "sao3",
+  "gloss": "to sweep",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "Hands sweeping fallen leaves with a long broom",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sao3.webp",
+  "card_bytes": 95054,
+  "art": "meaning/art/sao3-art.webp",
+  "art_bytes": 88322,
+  "thumb": "meaning/thumbs/sao3-thumb.webp",
+  "thumb_bytes": 38744,
+  "i18n": {
+   "en": {
+    "cue": "Hands sweeping fallen leaves with a long broom"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "投",
+  "trad": "投",
+  "pinyin": "tóu",
+  "pinyin_num": "tou2",
+  "gloss": "to throw",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "An arm throwing a ball toward a distant target ring",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tou2.webp",
+  "card_bytes": 63004,
+  "art": "meaning/art/tou2-art.webp",
+  "art_bytes": 54578,
+  "thumb": "meaning/thumbs/tou2-thumb.webp",
+  "thumb_bytes": 25292,
+  "i18n": {
+   "en": {
+    "cue": "An arm throwing a ball toward a distant target ring"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摇",
+  "trad": "搖",
+  "pinyin": "yáo",
+  "pinyin_num": "yao2",
+  "gloss": "to shake",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand shaking a bottle vigorously, motion lines around it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yao2.webp",
+  "card_bytes": 61552,
+  "art": "meaning/art/yao2-art.webp",
+  "art_bytes": 52656,
+  "thumb": "meaning/thumbs/yao2-thumb.webp",
+  "thumb_bytes": 25766,
+  "i18n": {
+   "en": {
+    "cue": "A hand shaking a bottle vigorously, motion lines around it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "折",
+  "trad": "折",
+  "pinyin": "zhé",
+  "pinyin_num": "zhe2",
+  "gloss": "to fold",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "Hands folding a sheet of paper into a paper plane",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhe2.webp",
+  "card_bytes": 57092,
+  "art": "meaning/art/zhe2-art.webp",
+  "art_bytes": 50002,
+  "thumb": "meaning/thumbs/zhe2-thumb.webp",
+  "thumb_bytes": 23400,
+  "i18n": {
+   "en": {
+    "cue": "Hands folding a sheet of paper into a paper plane"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "招",
+  "trad": "招",
+  "pinyin": "zhāo",
+  "pinyin_num": "zhao1",
+  "gloss": "to beckon",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand beckoning, fingers curling inward as if saying come here",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhao1.webp",
+  "card_bytes": 79318,
+  "art": "meaning/art/zhao1-art.webp",
+  "art_bytes": 69510,
+  "thumb": "meaning/thumbs/zhao1-thumb.webp",
+  "thumb_bytes": 35134,
+  "i18n": {
+   "en": {
+    "cue": "A hand beckoning, fingers curling inward as if saying come here"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拔",
+  "trad": "拔",
+  "pinyin": "bá",
+  "pinyin_num": "ba2",
+  "gloss": "to pull out, to uproot",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Both hands pulling a big radish up out of the ground, roots showing",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ba2.webp",
+  "card_bytes": 170132,
+  "art": "meaning/art/ba2-art.webp",
+  "art_bytes": 162280,
+  "thumb": "meaning/thumbs/ba2-thumb.webp",
+  "thumb_bytes": 69214,
+  "i18n": {
+   "en": {
+    "cue": "Both hands pulling a big radish up out of the ground, roots showing"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拜",
+  "trad": "拜",
+  "pinyin": "bài",
+  "pinyin_num": "bai4",
+  "gloss": "to bow in greeting",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Two palms pressed together in front of the chest in a respectful bow",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bai4.webp",
+  "card_bytes": 61072,
+  "art": "meaning/art/bai4-art.webp",
+  "art_bytes": 50572,
+  "thumb": "meaning/thumbs/bai4-thumb.webp",
+  "thumb_bytes": 24124,
+  "i18n": {
+   "en": {
+    "cue": "Two palms pressed together in front of the chest in a respectful bow"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扮",
+  "trad": "扮",
+  "pinyin": "bàn",
+  "pinyin_num": "ban4",
+  "gloss": "to dress up",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand holding a painted festival mask up toward a face",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ban4.webp",
+  "card_bytes": 93852,
+  "art": "meaning/art/ban4-art.webp",
+  "art_bytes": 84488,
+  "thumb": "meaning/thumbs/ban4-thumb.webp",
+  "thumb_bytes": 40536,
+  "i18n": {
+   "en": {
+    "cue": "A hand holding a painted festival mask up toward a face"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "插",
+  "trad": "插",
+  "pinyin": "chā",
+  "pinyin_num": "cha1",
+  "gloss": "to insert",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand inserting a flower stem into a narrow vase",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cha1.webp",
+  "card_bytes": 54004,
+  "art": "meaning/art/cha1-art.webp",
+  "art_bytes": 46616,
+  "thumb": "meaning/thumbs/cha1-thumb.webp",
+  "thumb_bytes": 22020,
+  "i18n": {
+   "en": {
+    "cue": "A hand inserting a flower stem into a narrow vase"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拆",
+  "trad": "拆",
+  "pinyin": "chāi",
+  "pinyin_num": "chai1",
+  "gloss": "to tear open",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Hands tearing open a sealed paper parcel",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chai1.webp",
+  "card_bytes": 53348,
+  "art": "meaning/art/chai1-art.webp",
+  "art_bytes": 45252,
+  "thumb": "meaning/thumbs/chai1-thumb.webp",
+  "thumb_bytes": 21266,
+  "i18n": {
+   "en": {
+    "cue": "Hands tearing open a sealed paper parcel"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挡",
+  "trad": "擋",
+  "pinyin": "dǎng",
+  "pinyin_num": "dang3",
+  "gloss": "to block",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "An open palm raised to block a ball flying straight at it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-dang3.webp",
+  "card_bytes": 50042,
+  "art": "meaning/art/dang3-art.webp",
+  "art_bytes": 41156,
+  "thumb": "meaning/thumbs/dang3-thumb.webp",
+  "thumb_bytes": 20484,
+  "i18n": {
+   "en": {
+    "cue": "An open palm raised to block a ball flying straight at it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扶",
+  "trad": "扶",
+  "pinyin": "fú",
+  "pinyin_num": "fu2",
+  "gloss": "to support, to help up",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand supporting an elderly person by the arm as they walk",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-fu2.webp",
+  "card_bytes": 108482,
+  "art": "meaning/art/fu2-art.webp",
+  "art_bytes": 98128,
+  "thumb": "meaning/thumbs/fu2-thumb.webp",
+  "thumb_bytes": 46290,
+  "i18n": {
+   "en": {
+    "cue": "A hand supporting an elderly person by the arm as they walk"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挤",
+  "trad": "擠",
+  "pinyin": "jǐ",
+  "pinyin_num": "ji3",
+  "gloss": "to squeeze",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand squeezing a tube, a ribbon of paste curling out",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ji3.webp",
+  "card_bytes": 64358,
+  "art": "meaning/art/ji3-art.webp",
+  "art_bytes": 56280,
+  "thumb": "meaning/thumbs/ji3-thumb.webp",
+  "thumb_bytes": 25756,
+  "i18n": {
+   "en": {
+    "cue": "A hand squeezing a tube, a ribbon of paste curling out"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拒",
+  "trad": "拒",
+  "pinyin": "jù",
+  "pinyin_num": "ju4",
+  "gloss": "to refuse",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A palm held out firmly toward an offered gift box, refusing it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ju4.webp",
+  "card_bytes": 72372,
+  "art": "meaning/art/ju4-art.webp",
+  "art_bytes": 65898,
+  "thumb": "meaning/thumbs/ju4-thumb.webp",
+  "thumb_bytes": 29204,
+  "i18n": {
+   "en": {
+    "cue": "A palm held out firmly toward an offered gift box, refusing it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摩",
+  "trad": "摩",
+  "pinyin": "mó",
+  "pinyin_num": "mo2",
+  "gloss": "to rub",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Two palms rubbing briskly together, small friction motion lines",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-mo2.webp",
+  "card_bytes": 64322,
+  "art": "meaning/art/mo2-art.webp",
+  "art_bytes": 55788,
+  "thumb": "meaning/thumbs/mo2-thumb.webp",
+  "thumb_bytes": 26482,
+  "i18n": {
+   "en": {
+    "cue": "Two palms rubbing briskly together, small friction motion lines"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "披",
+  "trad": "披",
+  "pinyin": "pī",
+  "pinyin_num": "pi1",
+  "gloss": "to drape over the shoulders",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A cloak being draped over both shoulders, seen from behind",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pi1.webp",
+  "card_bytes": 127800,
+  "art": "meaning/art/pi1-art.webp",
+  "art_bytes": 117272,
+  "thumb": "meaning/thumbs/pi1-thumb.webp",
+  "thumb_bytes": 52976,
+  "i18n": {
+   "en": {
+    "cue": "A cloak being draped over both shoulders, seen from behind"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拼",
+  "trad": "拼",
+  "pinyin": "pīn",
+  "pinyin_num": "pin1",
+  "gloss": "to piece together",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Hands fitting the last piece into a jigsaw puzzle",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pin1.webp",
+  "card_bytes": 75314,
+  "art": "meaning/art/pin1-art.webp",
+  "art_bytes": 67400,
+  "thumb": "meaning/thumbs/pin1-thumb.webp",
+  "thumb_bytes": 30962,
+  "i18n": {
+   "en": {
+    "cue": "Hands fitting the last piece into a jigsaw puzzle"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抢",
+  "trad": "搶",
+  "pinyin": "qiǎng",
+  "pinyin_num": "qiang3",
+  "gloss": "to snatch",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand snatching a bag away in one quick grab, motion lines",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qiang3.webp",
+  "card_bytes": 63444,
+  "art": "meaning/art/qiang3-art.webp",
+  "art_bytes": 54010,
+  "thumb": "meaning/thumbs/qiang3-thumb.webp",
+  "thumb_bytes": 26204,
+  "i18n": {
+   "en": {
+    "cue": "A hand snatching a bag away in one quick grab, motion lines"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扔",
+  "trad": "扔",
+  "pinyin": "rēng",
+  "pinyin_num": "reng1",
+  "gloss": "to throw away",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand tossing a crumpled paper ball into a basket",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-reng1.webp",
+  "card_bytes": 70944,
+  "art": "meaning/art/reng1-art.webp",
+  "art_bytes": 63132,
+  "thumb": "meaning/thumbs/reng1-thumb.webp",
+  "thumb_bytes": 28980,
+  "i18n": {
+   "en": {
+    "cue": "A hand tossing a crumpled paper ball into a basket"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摄",
+  "trad": "攝",
+  "pinyin": "shè",
+  "pinyin_num": "she4",
+  "gloss": "to photograph",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Two hands holding a camera up, taking a picture",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-she4.webp",
+  "card_bytes": 102526,
+  "art": "meaning/art/she4-art.webp",
+  "art_bytes": 92030,
+  "thumb": "meaning/thumbs/she4-thumb.webp",
+  "thumb_bytes": 45518,
+  "i18n": {
+   "en": {
+    "cue": "Two hands holding a camera up, taking a picture"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拾",
+  "trad": "拾",
+  "pinyin": "shí",
+  "pinyin_num": "shi2",
+  "gloss": "to pick up",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Fingertips delicately picking one coin up off the ground",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shi2.webp",
+  "card_bytes": 77582,
+  "art": "meaning/art/shi2-art.webp",
+  "art_bytes": 71970,
+  "thumb": "meaning/thumbs/shi2-thumb.webp",
+  "thumb_bytes": 31010,
+  "i18n": {
+   "en": {
+    "cue": "Fingertips delicately picking one coin up off the ground"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "搜",
+  "trad": "搜",
+  "pinyin": "sōu",
+  "pinyin_num": "sou1",
+  "gloss": "to rummage, to search",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Hands rummaging through a full open drawer, items shifted aside",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sou1.webp",
+  "card_bytes": 91670,
+  "art": "meaning/art/sou1-art.webp",
+  "art_bytes": 82618,
+  "thumb": "meaning/thumbs/sou1-thumb.webp",
+  "thumb_bytes": 36714,
+  "i18n": {
+   "en": {
+    "cue": "Hands rummaging through a full open drawer, items shifted aside"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "摘",
+  "trad": "摘",
+  "pinyin": "zhāi",
+  "pinyin_num": "zhai1",
+  "gloss": "to pluck, to pick fruit",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "A hand plucking a ripe apple from a tree branch",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhai1.webp",
+  "card_bytes": 56936,
+  "art": "meaning/art/zhai1-art.webp",
+  "art_bytes": 47762,
+  "thumb": "meaning/thumbs/zhai1-thumb.webp",
+  "thumb_bytes": 23580,
+  "i18n": {
+   "en": {
+    "cue": "A hand plucking a ripe apple from a tree branch"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "掌",
+  "trad": "掌",
+  "pinyin": "zhǎng",
+  "pinyin_num": "zhang3",
+  "gloss": "palm of the hand",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "One open palm facing forward, fingers together, palm lines visible",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhang3.webp",
+  "card_bytes": 132388,
+  "art": "meaning/art/zhang3-art.webp",
+  "art_bytes": 124734,
+  "thumb": "meaning/thumbs/zhang3-thumb.webp",
+  "thumb_bytes": 50562,
+  "i18n": {
+   "en": {
+    "cue": "One open palm facing forward, fingers together, palm lines visible"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "托",
+  "trad": "托託",
+  "pinyin": "tuō",
+  "pinyin_num": "tuo1",
+  "gloss": "to support from below",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "An open palm held flat, supporting a tray from underneath",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tuo1-6258.webp",
+  "card_bytes": 67960,
+  "art": "meaning/art/tuo1-6258-art.webp",
+  "art_bytes": 58154,
+  "thumb": "meaning/thumbs/tuo1-6258-thumb.webp",
+  "thumb_bytes": 27466,
+  "i18n": {
+   "en": {
+    "cue": "An open palm held flat, supporting a tray from underneath"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抬",
+  "trad": "抬",
+  "pinyin": "tái",
+  "pinyin_num": "tai2",
+  "gloss": "to lift together",
+  "hsk": 5,
+  "cluster": "shou",
+  "cue": "Two pairs of hands lifting a heavy table together",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tai2.webp",
+  "card_bytes": 80614,
+  "art": "meaning/art/tai2-art.webp",
+  "art_bytes": 73620,
+  "thumb": "meaning/thumbs/tai2-thumb.webp",
+  "thumb_bytes": 30068,
+  "i18n": {
+   "en": {
+    "cue": "Two pairs of hands lifting a heavy table together"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拨",
+  "trad": "撥",
+  "pinyin": "bō",
+  "pinyin_num": "bo1",
+  "gloss": "to push aside",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand parting tall reeds to clear a path",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bo1-62e8.webp",
+  "card_bytes": 102838,
+  "art": "meaning/art/bo1-62e8-art.webp",
+  "art_bytes": 98038,
+  "thumb": "meaning/thumbs/bo1-62e8-thumb.webp",
+  "thumb_bytes": 41692,
+  "i18n": {
+   "en": {
+    "cue": "A hand parting tall reeds to clear a path"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "捕",
+  "trad": "捕",
+  "pinyin": "bǔ",
+  "pinyin_num": "bu3",
+  "gloss": "to catch",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A net swooping down to catch a butterfly",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bu3.webp",
+  "card_bytes": 58088,
+  "art": "meaning/art/bu3-art.webp",
+  "art_bytes": 50914,
+  "thumb": "meaning/thumbs/bu3-thumb.webp",
+  "thumb_bytes": 22334,
+  "i18n": {
+   "en": {
+    "cue": "A net swooping down to catch a butterfly"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "撑",
+  "trad": "撐",
+  "pinyin": "chēng",
+  "pinyin_num": "cheng1",
+  "gloss": "to hold up, to prop",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand holding an open umbrella up overhead",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cheng1.webp",
+  "card_bytes": 96772,
+  "art": "meaning/art/cheng1-art.webp",
+  "art_bytes": 88312,
+  "thumb": "meaning/thumbs/cheng1-thumb.webp",
+  "thumb_bytes": 41734,
+  "i18n": {
+   "en": {
+    "cue": "A hand holding an open umbrella up overhead"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "搭",
+  "trad": "搭",
+  "pinyin": "dā",
+  "pinyin_num": "da1",
+  "gloss": "to put up, to build",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Hands raising the poles and cloth of a small tent",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-da1.webp",
+  "card_bytes": 47792,
+  "art": "meaning/art/da1-art.webp",
+  "art_bytes": 37836,
+  "thumb": "meaning/thumbs/da1-thumb.webp",
+  "thumb_bytes": 20270,
+  "i18n": {
+   "en": {
+    "cue": "Hands raising the poles and cloth of a small tent"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "抵",
+  "trad": "抵",
+  "pinyin": "dǐ",
+  "pinyin_num": "di3",
+  "gloss": "to hold back, to resist",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Both palms braced hard against a door that is pushing inward",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-di3.webp",
+  "card_bytes": 76088,
+  "art": "meaning/art/di3-art.webp",
+  "art_bytes": 65618,
+  "thumb": "meaning/thumbs/di3-thumb.webp",
+  "thumb_bytes": 28816,
+  "i18n": {
+   "en": {
+    "cue": "Both palms braced hard against a door that is pushing inward"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "揭",
+  "trad": "揭",
+  "pinyin": "jiē",
+  "pinyin_num": "jie1",
+  "gloss": "to lift off a cover",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand lifting the lid off a steaming pot",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jie1-63ed.webp",
+  "card_bytes": 116014,
+  "art": "meaning/art/jie1-63ed-art.webp",
+  "art_bytes": 107036,
+  "thumb": "meaning/thumbs/jie1-63ed-thumb.webp",
+  "thumb_bytes": 46376,
+  "i18n": {
+   "en": {
+    "cue": "A hand lifting the lid off a steaming pot"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "捐",
+  "trad": "捐",
+  "pinyin": "juān",
+  "pinyin_num": "juan1",
+  "gloss": "to donate",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand dropping coins into a charity box slot",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-juan1.webp",
+  "card_bytes": 53042,
+  "art": "meaning/art/juan1-art.webp",
+  "art_bytes": 44320,
+  "thumb": "meaning/thumbs/juan1-thumb.webp",
+  "thumb_bytes": 20380,
+  "i18n": {
+   "en": {
+    "cue": "A hand dropping coins into a charity box slot"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扣",
+  "trad": "釦扣",
+  "pinyin": "kòu",
+  "pinyin_num": "kou4",
+  "gloss": "to button up",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Fingers fastening a large button through its buttonhole",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-kou4.webp",
+  "card_bytes": 54478,
+  "art": "meaning/art/kou4-art.webp",
+  "art_bytes": 47022,
+  "thumb": "meaning/thumbs/kou4-thumb.webp",
+  "thumb_bytes": 22000,
+  "i18n": {
+   "en": {
+    "cue": "Fingers fastening a large button through its buttonhole"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扭",
+  "trad": "扭",
+  "pinyin": "niǔ",
+  "pinyin_num": "niu3",
+  "gloss": "to twist, to wring",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Two hands wringing water out of a wet towel, droplets falling",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-niu3.webp",
+  "card_bytes": 71124,
+  "art": "meaning/art/niu3-art.webp",
+  "art_bytes": 60780,
+  "thumb": "meaning/thumbs/niu3-thumb.webp",
+  "thumb_bytes": 30528,
+  "i18n": {
+   "en": {
+    "cue": "Two hands wringing water out of a wet towel, droplets falling"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "探",
+  "trad": "探",
+  "pinyin": "tàn",
+  "pinyin_num": "tan4",
+  "gloss": "to feel around, to probe",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand reaching into a dark hole, feeling around inside",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tan4.webp",
+  "card_bytes": 82792,
+  "art": "meaning/art/tan4-art.webp",
+  "art_bytes": 75188,
+  "thumb": "meaning/thumbs/tan4-thumb.webp",
+  "thumb_bytes": 33858,
+  "i18n": {
+   "en": {
+    "cue": "A hand reaching into a dark hole, feeling around inside"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "掏",
+  "trad": "掏",
+  "pinyin": "tāo",
+  "pinyin_num": "tao1",
+  "gloss": "to take out of a pocket",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand pulling a wallet out of a coat pocket",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tao1.webp",
+  "card_bytes": 120038,
+  "art": "meaning/art/tao1-art.webp",
+  "art_bytes": 111064,
+  "thumb": "meaning/thumbs/tao1-thumb.webp",
+  "thumb_bytes": 47792,
+  "i18n": {
+   "en": {
+    "cue": "A hand pulling a wallet out of a coat pocket"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "拖",
+  "trad": "拖",
+  "pinyin": "tuō",
+  "pinyin_num": "tuo1",
+  "gloss": "to drag",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand dragging a heavy trunk along the ground behind",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tuo1-62d6.webp",
+  "card_bytes": 90614,
+  "art": "meaning/art/tuo1-62d6-art.webp",
+  "art_bytes": 82328,
+  "thumb": "meaning/thumbs/tuo1-62d6-thumb.webp",
+  "thumb_bytes": 36868,
+  "i18n": {
+   "en": {
+    "cue": "A hand dragging a heavy trunk along the ground behind"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挖",
+  "trad": "挖",
+  "pinyin": "wā",
+  "pinyin_num": "wa1",
+  "gloss": "to dig",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Hands digging in earth with a small shovel, a hole deepening",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wa1.webp",
+  "card_bytes": 138692,
+  "art": "meaning/art/wa1-art.webp",
+  "art_bytes": 131568,
+  "thumb": "meaning/thumbs/wa1-thumb.webp",
+  "thumb_bytes": 58384,
+  "i18n": {
+   "en": {
+    "cue": "Hands digging in earth with a small shovel, a hole deepening"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "援",
+  "trad": "援",
+  "pinyin": "yuán",
+  "pinyin_num": "yuan2",
+  "gloss": "to aid, to rescue",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand reaching down from above, gripping and pulling up a hand from below",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yuan2.webp",
+  "card_bytes": 93824,
+  "art": "meaning/art/yuan2-art.webp",
+  "art_bytes": 80774,
+  "thumb": "meaning/thumbs/yuan2-thumb.webp",
+  "thumb_bytes": 41230,
+  "i18n": {
+   "en": {
+    "cue": "A hand reaching down from above, gripping and pulling up a hand from below"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "扎",
+  "trad": "扎紮",
+  "pinyin": "zhā",
+  "pinyin_num": "zha1",
+  "gloss": "to tie up",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Hands tying long hair up into a ponytail with a band",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zha1.webp",
+  "card_bytes": 102114,
+  "art": "meaning/art/zha1-art.webp",
+  "art_bytes": 94260,
+  "thumb": "meaning/thumbs/zha1-thumb.webp",
+  "thumb_bytes": 39872,
+  "i18n": {
+   "en": {
+    "cue": "Hands tying long hair up into a ponytail with a band"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "捉",
+  "trad": "捉",
+  "pinyin": "zhuō",
+  "pinyin_num": "zhuo1",
+  "gloss": "to catch in cupped hands",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "Two cupped hands closing over a grasshopper on a leaf",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhuo1.webp",
+  "card_bytes": 75412,
+  "art": "meaning/art/zhuo1-art.webp",
+  "art_bytes": 65894,
+  "thumb": "meaning/thumbs/zhuo1-thumb.webp",
+  "thumb_bytes": 30256,
+  "i18n": {
+   "en": {
+    "cue": "Two cupped hands closing over a grasshopper on a leaf"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "捡",
+  "trad": "撿",
+  "pinyin": "jiǎn",
+  "pinyin_num": "jian3",
+  "gloss": "to gather up",
+  "hsk": 6,
+  "cluster": "shou",
+  "cue": "A hand gathering scattered beans from the ground into a basket",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jian3.webp",
+  "card_bytes": 91674,
+  "art": "meaning/art/jian3-art.webp",
+  "art_bytes": 84718,
+  "thumb": "meaning/thumbs/jian3-thumb.webp",
+  "thumb_bytes": 36796,
+  "i18n": {
+   "en": {
+    "cue": "A hand gathering scattered beans from the ground into a basket"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "挑",
+  "trad": "挑",
+  "pinyin": "tiāo",
+  "pinyin_num": "tiao1",
+  "gloss": "to pick, to choose",
+  "hsk": 4,
+  "cluster": "shou",
+  "cue": "A hand choosing the best peach from a pile of peaches",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tiao1.webp",
+  "card_bytes": 69154,
+  "art": "meaning/art/tiao1-art.webp",
+  "art_bytes": 59518,
+  "thumb": "meaning/thumbs/tiao1-thumb.webp",
+  "thumb_bytes": 27926,
+  "i18n": {
+   "en": {
+    "cue": "A hand choosing the best peach from a pile of peaches"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
  }
 ]
