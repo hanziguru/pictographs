@@ -1,0 +1,1271 @@
+[
+ {
+  "char": "海",
+  "trad": "海",
+  "pinyin": "hǎi",
+  "pinyin_num": "hai3",
+  "gloss": "sea",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "Sea meeting a sandy coastline, waves rolling onto a beach - land visible at the edge",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hai3.webp",
+  "card_bytes": 60608,
+  "art": "meaning/art/hai3-art.webp",
+  "art_bytes": 49844,
+  "thumb": "meaning/thumbs/hai3-thumb.webp",
+  "thumb_bytes": 22580,
+  "i18n": {
+   "en": {
+    "cue": "Sea meeting a sandy coastline, waves rolling onto a beach - land visible at the edge"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "洋",
+  "trad": "洋",
+  "pinyin": "yáng",
+  "pinyin_num": "yang2",
+  "gloss": "ocean",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "Endless open ocean, no land anywhere, one tiny distant ship - vaster than 海",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yang2.webp",
+  "card_bytes": 50060,
+  "art": "meaning/art/yang2-art.webp",
+  "art_bytes": 40298,
+  "thumb": "meaning/thumbs/yang2-thumb.webp",
+  "thumb_bytes": 19326,
+  "i18n": {
+   "en": {
+    "cue": "Endless open ocean, no land anywhere, one tiny distant ship - vaster than 海"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "洗",
+  "trad": "洗",
+  "pinyin": "xǐ",
+  "pinyin_num": "xi3",
+  "gloss": "to wash",
+  "hsk": 1,
+  "cluster": "shui",
+  "cue": "Two hands being washed under running water with soap foam",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xi3.webp",
+  "card_bytes": 46158,
+  "art": "meaning/art/xi3-art.webp",
+  "art_bytes": 36796,
+  "thumb": "meaning/thumbs/xi3-thumb.webp",
+  "thumb_bytes": 18394,
+  "i18n": {
+   "en": {
+    "cue": "Two hands being washed under running water with soap foam"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "游",
+  "trad": "游遊",
+  "pinyin": "yóu",
+  "pinyin_num": "you2",
+  "gloss": "to swim (leisure)",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A relaxed swimmer floating and paddling leisurely in open water",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-you2-6e38.webp",
+  "card_bytes": 44068,
+  "art": "meaning/art/you2-6e38-art.webp",
+  "art_bytes": 33034,
+  "thumb": "meaning/thumbs/you2-6e38-thumb.webp",
+  "thumb_bytes": 18472,
+  "i18n": {
+   "en": {
+    "cue": "A relaxed swimmer floating and paddling leisurely in open water"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "泳",
+  "trad": "泳",
+  "pinyin": "yǒng",
+  "pinyin_num": "yong3",
+  "gloss": "to swim (sport)",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "A racing swimmer with cap and goggles in a pool lane, mid-stroke - sport, unlike leisurely 游",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yong3.webp",
+  "card_bytes": 67964,
+  "art": "meaning/art/yong3-art.webp",
+  "art_bytes": 54492,
+  "thumb": "meaning/thumbs/yong3-thumb.webp",
+  "thumb_bytes": 27484,
+  "i18n": {
+   "en": {
+    "cue": "A racing swimmer with cap and goggles in a pool lane, mid-stroke - sport, unlike leisurely 游"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "酒",
+  "trad": "酒",
+  "pinyin": "jiǔ",
+  "pinyin_num": "jiu3",
+  "gloss": "wine, liquor",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A bottle and small cup of baijiu liquor on a table",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jiu3.webp",
+  "card_bytes": 27086,
+  "art": "meaning/art/jiu3-art.webp",
+  "art_bytes": 18796,
+  "thumb": "meaning/thumbs/jiu3-thumb.webp",
+  "thumb_bytes": 10910,
+  "i18n": {
+   "en": {
+    "cue": "A bottle and small cup of baijiu liquor on a table"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "油",
+  "trad": "油",
+  "pinyin": "yóu",
+  "pinyin_num": "you2",
+  "gloss": "oil",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "Golden oil pouring in a thin stream from a bottle, one glossy drop",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-you2-6cb9.webp",
+  "card_bytes": 39036,
+  "art": "meaning/art/you2-6cb9-art.webp",
+  "art_bytes": 31614,
+  "thumb": "meaning/thumbs/you2-6cb9-thumb.webp",
+  "thumb_bytes": 16438,
+  "i18n": {
+   "en": {
+    "cue": "Golden oil pouring in a thin stream from a bottle, one glossy drop"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "汤",
+  "trad": "湯",
+  "pinyin": "tāng",
+  "pinyin_num": "tang1",
+  "gloss": "soup",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "A steaming bowl of soup with a spoon resting in it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tang1.webp",
+  "card_bytes": 36162,
+  "art": "meaning/art/tang1-art.webp",
+  "art_bytes": 27212,
+  "thumb": "meaning/thumbs/tang1-thumb.webp",
+  "thumb_bytes": 15222,
+  "i18n": {
+   "en": {
+    "cue": "A steaming bowl of soup with a spoon resting in it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "汁",
+  "trad": "汁",
+  "pinyin": "zhī",
+  "pinyin_num": "zhi1",
+  "gloss": "juice",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "A glass of orange juice beside a cut orange",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhi1.webp",
+  "card_bytes": 50192,
+  "art": "meaning/art/zhi1-art.webp",
+  "art_bytes": 44158,
+  "thumb": "meaning/thumbs/zhi1-thumb.webp",
+  "thumb_bytes": 18532,
+  "i18n": {
+   "en": {
+    "cue": "A glass of orange juice beside a cut orange"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "汗",
+  "trad": "汗",
+  "pinyin": "hàn",
+  "pinyin_num": "han4",
+  "gloss": "sweat",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A runner's face and neck beaded with sweat drops after exercise",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-han4.webp",
+  "card_bytes": 50786,
+  "art": "meaning/art/han4-art.webp",
+  "art_bytes": 42392,
+  "thumb": "meaning/thumbs/han4-thumb.webp",
+  "thumb_bytes": 20576,
+  "i18n": {
+   "en": {
+    "cue": "A runner's face and neck beaded with sweat drops after exercise"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "泪",
+  "trad": "淚",
+  "pinyin": "lèi",
+  "pinyin_num": "lei4",
+  "gloss": "tears",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A close eye with teardrops rolling down the cheek",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lei4.webp",
+  "card_bytes": 40468,
+  "art": "meaning/art/lei4-art.webp",
+  "art_bytes": 32206,
+  "thumb": "meaning/thumbs/lei4-thumb.webp",
+  "thumb_bytes": 15868,
+  "i18n": {
+   "en": {
+    "cue": "A close eye with teardrops rolling down the cheek"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "深",
+  "trad": "深",
+  "pinyin": "shēn",
+  "pinyin_num": "shen1",
+  "gloss": "deep",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "A diver far below the surface in dark deep water, light fading above - pair with 浅",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shen1.webp",
+  "card_bytes": 70512,
+  "art": "meaning/art/shen1-art.webp",
+  "art_bytes": 57230,
+  "thumb": "meaning/thumbs/shen1-thumb.webp",
+  "thumb_bytes": 27136,
+  "i18n": {
+   "en": {
+    "cue": "A diver far below the surface in dark deep water, light fading above - pair with 浅"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "浅",
+  "trad": "淺",
+  "pinyin": "qiǎn",
+  "pinyin_num": "qian3",
+  "gloss": "shallow",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A child standing in bright ankle-deep water, bottom clearly visible - pair with 深",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qian3.webp",
+  "card_bytes": 45532,
+  "art": "meaning/art/qian3-art.webp",
+  "art_bytes": 33370,
+  "thumb": "meaning/thumbs/qian3-thumb.webp",
+  "thumb_bytes": 17178,
+  "i18n": {
+   "en": {
+    "cue": "A child standing in bright ankle-deep water, bottom clearly visible - pair with 深"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "湿",
+  "trad": "濕",
+  "pinyin": "shī",
+  "pinyin_num": "shi1",
+  "gloss": "wet",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A soaked cloth dripping water, dark with wetness",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shi1.webp",
+  "card_bytes": 87944,
+  "art": "meaning/art/shi1-art.webp",
+  "art_bytes": 79474,
+  "thumb": "meaning/thumbs/shi1-thumb.webp",
+  "thumb_bytes": 36916,
+  "i18n": {
+   "en": {
+    "cue": "A soaked cloth dripping water, dark with wetness"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "澡",
+  "trad": "澡",
+  "pinyin": "zǎo",
+  "pinyin_num": "zao3",
+  "gloss": "bath",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A person relaxing in a bathtub full of bubbles",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zao3.webp",
+  "card_bytes": 64396,
+  "art": "meaning/art/zao3-art.webp",
+  "art_bytes": 56378,
+  "thumb": "meaning/thumbs/zao3-thumb.webp",
+  "thumb_bytes": 26306,
+  "i18n": {
+   "en": {
+    "cue": "A person relaxing in a bathtub full of bubbles"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "渴",
+  "trad": "渴",
+  "pinyin": "kě",
+  "pinyin_num": "ke3",
+  "gloss": "thirsty",
+  "hsk": 1,
+  "cluster": "shui",
+  "cue": "A parched traveler reaching toward a water flask, dry cracked ground",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ke3.webp",
+  "card_bytes": 43382,
+  "art": "meaning/art/ke3-art.webp",
+  "art_bytes": 32778,
+  "thumb": "meaning/thumbs/ke3-thumb.webp",
+  "thumb_bytes": 17552,
+  "i18n": {
+   "en": {
+    "cue": "A parched traveler reaching toward a water flask, dry cracked ground"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "波",
+  "trad": "波",
+  "pinyin": "bō",
+  "pinyin_num": "bo1",
+  "gloss": "wave (gentle)",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "Gentle rolling ripples and small waves on calm water - pair with 浪",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bo1.webp",
+  "card_bytes": 58594,
+  "art": "meaning/art/bo1-art.webp",
+  "art_bytes": 47848,
+  "thumb": "meaning/thumbs/bo1-thumb.webp",
+  "thumb_bytes": 21206,
+  "i18n": {
+   "en": {
+    "cue": "Gentle rolling ripples and small waves on calm water - pair with 浪"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "浪",
+  "trad": "浪",
+  "pinyin": "làng",
+  "pinyin_num": "lang4",
+  "gloss": "wave (breaker)",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "One tall ocean breaker curling and crashing with spray - bigger and wilder than 波",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lang4.webp",
+  "card_bytes": 182808,
+  "art": "meaning/art/lang4-art.webp",
+  "art_bytes": 176638,
+  "thumb": "meaning/thumbs/lang4-thumb.webp",
+  "thumb_bytes": 80446,
+  "i18n": {
+   "en": {
+    "cue": "One tall ocean breaker curling and crashing with spray - bigger and wilder than 波"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "潮",
+  "trad": "潮",
+  "pinyin": "cháo",
+  "pinyin_num": "chao2",
+  "gloss": "tide",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "The tide coming in over a beach, water advancing past marker stones, moon above",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chao2.webp",
+  "card_bytes": 64364,
+  "art": "meaning/art/chao2-art.webp",
+  "art_bytes": 54100,
+  "thumb": "meaning/thumbs/chao2-thumb.webp",
+  "thumb_bytes": 24040,
+  "i18n": {
+   "en": {
+    "cue": "The tide coming in over a beach, water advancing past marker stones, moon above"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "洪",
+  "trad": "洪",
+  "pinyin": "hóng",
+  "pinyin_num": "hong2",
+  "gloss": "flood",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "Flood water rising around houses and treetops in a village",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hong2.webp",
+  "card_bytes": 74326,
+  "art": "meaning/art/hong2-art.webp",
+  "art_bytes": 67586,
+  "thumb": "meaning/thumbs/hong2-thumb.webp",
+  "thumb_bytes": 28588,
+  "i18n": {
+   "en": {
+    "cue": "Flood water rising around houses and treetops in a village"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "浮",
+  "trad": "浮",
+  "pinyin": "fú",
+  "pinyin_num": "fu2",
+  "gloss": "to float",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A leaf and a cork floating on the water surface - pair with 沉",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-fu2.webp",
+  "card_bytes": 40494,
+  "art": "meaning/art/fu2-art.webp",
+  "art_bytes": 31148,
+  "thumb": "meaning/thumbs/fu2-thumb.webp",
+  "thumb_bytes": 16428,
+  "i18n": {
+   "en": {
+    "cue": "A leaf and a cork floating on the water surface - pair with 沉"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "沉",
+  "trad": "沉",
+  "pinyin": "chén",
+  "pinyin_num": "chen2",
+  "gloss": "to sink",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A stone sinking below the surface trailing bubbles - pair with 浮",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chen2.webp",
+  "card_bytes": 128920,
+  "art": "meaning/art/chen2-art.webp",
+  "art_bytes": 119416,
+  "thumb": "meaning/thumbs/chen2-thumb.webp",
+  "thumb_bytes": 52522,
+  "i18n": {
+   "en": {
+    "cue": "A stone sinking below the surface trailing bubbles - pair with 浮"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "漂",
+  "trad": "漂",
+  "pinyin": "piāo",
+  "pinyin_num": "piao1",
+  "gloss": "to drift",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A bottle drifting along on a flowing current, moving with the stream",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-piao1.webp",
+  "card_bytes": 63014,
+  "art": "meaning/art/piao1-art.webp",
+  "art_bytes": 52624,
+  "thumb": "meaning/thumbs/piao1-thumb.webp",
+  "thumb_bytes": 24772,
+  "i18n": {
+   "en": {
+    "cue": "A bottle drifting along on a flowing current, moving with the stream"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "滴",
+  "trad": "滴",
+  "pinyin": "dī",
+  "pinyin_num": "di1",
+  "gloss": "to drip; a drop",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "One single gold drop falling from a tap into a ripple below",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-di1.webp",
+  "card_bytes": 41754,
+  "art": "meaning/art/di1-art.webp",
+  "art_bytes": 31516,
+  "thumb": "meaning/thumbs/di1-thumb.webp",
+  "thumb_bytes": 17638,
+  "i18n": {
+   "en": {
+    "cue": "One single gold drop falling from a tap into a ripple below"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "池",
+  "trad": "池",
+  "pinyin": "chí",
+  "pinyin_num": "chi2",
+  "gloss": "pool, pond",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A small man-made pond with a stone edge and one lotus - smaller and stiller than 湖",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chi2.webp",
+  "card_bytes": 40652,
+  "art": "meaning/art/chi2-art.webp",
+  "art_bytes": 29020,
+  "thumb": "meaning/thumbs/chi2-thumb.webp",
+  "thumb_bytes": 16318,
+  "i18n": {
+   "en": {
+    "cue": "A small man-made pond with a stone edge and one lotus - smaller and stiller than 湖"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "沟",
+  "trad": "溝",
+  "pinyin": "gōu",
+  "pinyin_num": "gou1",
+  "gloss": "ditch, channel",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A narrow water ditch cut through farmland carrying a thin stream",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gou1.webp",
+  "card_bytes": 129002,
+  "art": "meaning/art/gou1-art.webp",
+  "art_bytes": 120258,
+  "thumb": "meaning/thumbs/gou1-thumb.webp",
+  "thumb_bytes": 52926,
+  "i18n": {
+   "en": {
+    "cue": "A narrow water ditch cut through farmland carrying a thin stream"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "港",
+  "trad": "港",
+  "pinyin": "gǎng",
+  "pinyin_num": "gang3",
+  "gloss": "harbor, port",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A harbor with docked cargo ships and a small lighthouse",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gang3.webp",
+  "card_bytes": 44382,
+  "art": "meaning/art/gang3-art.webp",
+  "art_bytes": 33766,
+  "thumb": "meaning/thumbs/gang3-thumb.webp",
+  "thumb_bytes": 16666,
+  "i18n": {
+   "en": {
+    "cue": "A harbor with docked cargo ships and a small lighthouse"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "湾",
+  "trad": "灣",
+  "pinyin": "wān",
+  "pinyin_num": "wan1",
+  "gloss": "bay",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A curved bay seen from a hillside, water curling into the land",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wan1.webp",
+  "card_bytes": 60786,
+  "art": "meaning/art/wan1-art.webp",
+  "art_bytes": 52410,
+  "thumb": "meaning/thumbs/wan1-thumb.webp",
+  "thumb_bytes": 23446,
+  "i18n": {
+   "en": {
+    "cue": "A curved bay seen from a hillside, water curling into the land"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "源",
+  "trad": "源",
+  "pinyin": "yuán",
+  "pinyin_num": "yuan2",
+  "gloss": "spring, source",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A mountain spring bubbling out of rocks at the start of a stream",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yuan2.webp",
+  "card_bytes": 45014,
+  "art": "meaning/art/yuan2-art.webp",
+  "art_bytes": 33686,
+  "thumb": "meaning/thumbs/yuan2-thumb.webp",
+  "thumb_bytes": 17124,
+  "i18n": {
+   "en": {
+    "cue": "A mountain spring bubbling out of rocks at the start of a stream"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "洞",
+  "trad": "洞",
+  "pinyin": "dòng",
+  "pinyin_num": "dong4",
+  "gloss": "cave",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A dark cave mouth in a cliff face above a stream",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-dong4.webp",
+  "card_bytes": 61540,
+  "art": "meaning/art/dong4-art.webp",
+  "art_bytes": 54306,
+  "thumb": "meaning/thumbs/dong4-thumb.webp",
+  "thumb_bytes": 23154,
+  "i18n": {
+   "en": {
+    "cue": "A dark cave mouth in a cliff face above a stream"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "滑",
+  "trad": "滑",
+  "pinyin": "huá",
+  "pinyin_num": "hua2",
+  "gloss": "slippery",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A foot sliding on a wet polished floor, motion lines, about to slip",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hua2.webp",
+  "card_bytes": 50096,
+  "art": "meaning/art/hua2-art.webp",
+  "art_bytes": 41050,
+  "thumb": "meaning/thumbs/hua2-thumb.webp",
+  "thumb_bytes": 19546,
+  "i18n": {
+   "en": {
+    "cue": "A foot sliding on a wet polished floor, motion lines, about to slip"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "漏",
+  "trad": "漏",
+  "pinyin": "lòu",
+  "pinyin_num": "lou4",
+  "gloss": "to leak",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A cracked pipe leaking drops into a bucket placed beneath it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lou4.webp",
+  "card_bytes": 31576,
+  "art": "meaning/art/lou4-art.webp",
+  "art_bytes": 21698,
+  "thumb": "meaning/thumbs/lou4-thumb.webp",
+  "thumb_bytes": 13484,
+  "i18n": {
+   "en": {
+    "cue": "A cracked pipe leaking drops into a bucket placed beneath it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "滚",
+  "trad": "滾",
+  "pinyin": "gǔn",
+  "pinyin_num": "gun3",
+  "gloss": "to boil, to roll",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A pot of water at a rolling boil, big bubbles churning",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gun3.webp",
+  "card_bytes": 53302,
+  "art": "meaning/art/gun3-art.webp",
+  "art_bytes": 42994,
+  "thumb": "meaning/thumbs/gun3-thumb.webp",
+  "thumb_bytes": 21138,
+  "i18n": {
+   "en": {
+    "cue": "A pot of water at a rolling boil, big bubbles churning"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "泡",
+  "trad": "泡",
+  "pinyin": "pào",
+  "pinyin_num": "pao4",
+  "gloss": "bubble",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A cluster of soap bubbles rising, light and round",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pao4.webp",
+  "card_bytes": 35188,
+  "art": "meaning/art/pao4-art.webp",
+  "art_bytes": 26438,
+  "thumb": "meaning/thumbs/pao4-thumb.webp",
+  "thumb_bytes": 13988,
+  "i18n": {
+   "en": {
+    "cue": "A cluster of soap bubbles rising, light and round"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "洒",
+  "trad": "灑",
+  "pinyin": "sǎ",
+  "pinyin_num": "sa3",
+  "gloss": "to sprinkle",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A watering can sprinkling fine droplets over seedlings",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sa3.webp",
+  "card_bytes": 38228,
+  "art": "meaning/art/sa3-art.webp",
+  "art_bytes": 29002,
+  "thumb": "meaning/thumbs/sa3-thumb.webp",
+  "thumb_bytes": 15570,
+  "i18n": {
+   "en": {
+    "cue": "A watering can sprinkling fine droplets over seedlings"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "泼",
+  "trad": "潑",
+  "pinyin": "pō",
+  "pinyin_num": "po1",
+  "gloss": "to splash, to pour out",
+  "hsk": 5,
+  "cluster": "shui",
+  "cue": "A bucket tipping and splashing a big arc of water out",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-po1.webp",
+  "card_bytes": 49864,
+  "art": "meaning/art/po1-art.webp",
+  "art_bytes": 38180,
+  "thumb": "meaning/thumbs/po1-thumb.webp",
+  "thumb_bytes": 20966,
+  "i18n": {
+   "en": {
+    "cue": "A bucket tipping and splashing a big arc of water out"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "满",
+  "trad": "滿",
+  "pinyin": "mǎn",
+  "pinyin_num": "man3",
+  "gloss": "full, to fill",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A cup filled to the very brim, one drop above the rim",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-man3.webp",
+  "card_bytes": 35202,
+  "art": "meaning/art/man3-art.webp",
+  "art_bytes": 26162,
+  "thumb": "meaning/thumbs/man3-thumb.webp",
+  "thumb_bytes": 13390,
+  "i18n": {
+   "en": {
+    "cue": "A cup filled to the very brim, one drop above the rim"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "流",
+  "trad": "流",
+  "pinyin": "liú",
+  "pinyin_num": "liu2",
+  "gloss": "to flow",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A stream flowing downhill with clear current lines over stones",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-liu2.webp",
+  "card_bytes": 104348,
+  "art": "meaning/art/liu2-art.webp",
+  "art_bytes": 94892,
+  "thumb": "meaning/thumbs/liu2-thumb.webp",
+  "thumb_bytes": 42500,
+  "i18n": {
+   "en": {
+    "cue": "A stream flowing downhill with clear current lines over stones"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "清",
+  "trad": "清",
+  "pinyin": "qīng",
+  "pinyin_num": "qing1",
+  "gloss": "clear",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "Crystal-clear water over visible pebbles, everything seen through it - pair with 混",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qing1.webp",
+  "card_bytes": 71952,
+  "art": "meaning/art/qing1-art.webp",
+  "art_bytes": 62088,
+  "thumb": "meaning/thumbs/qing1-thumb.webp",
+  "thumb_bytes": 27750,
+  "i18n": {
+   "en": {
+    "cue": "Crystal-clear water over visible pebbles, everything seen through it - pair with 混"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "混",
+  "trad": "混",
+  "pinyin": "hùn",
+  "pinyin_num": "hun4",
+  "gloss": "muddy, mixed",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "Muddy swirling water where two currents mix, nothing visible through it - pair with 清",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hun4.webp",
+  "card_bytes": 68000,
+  "art": "meaning/art/hun4-art.webp",
+  "art_bytes": 56678,
+  "thumb": "meaning/thumbs/hun4-thumb.webp",
+  "thumb_bytes": 26782,
+  "i18n": {
+   "en": {
+    "cue": "Muddy swirling water where two currents mix, nothing visible through it - pair with 清"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "汽",
+  "trad": "汽",
+  "pinyin": "qì",
+  "pinyin_num": "qi4",
+  "gloss": "steam, vapor",
+  "hsk": 1,
+  "cluster": "shui",
+  "cue": "Steam curling up from a kettle spout and a hot cup",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qi4.webp",
+  "card_bytes": 85064,
+  "art": "meaning/art/qi4-art.webp",
+  "art_bytes": 76264,
+  "thumb": "meaning/thumbs/qi4-thumb.webp",
+  "thumb_bytes": 35124,
+  "i18n": {
+   "en": {
+    "cue": "Steam curling up from a kettle spout and a hot cup"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "沙",
+  "trad": "沙",
+  "pinyin": "shā",
+  "pinyin_num": "sha1",
+  "gloss": "sand",
+  "hsk": 3,
+  "cluster": "shui",
+  "cue": "A handful of sand trickling through fingers onto a small dune",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sha1.webp",
+  "card_bytes": 69180,
+  "art": "meaning/art/sha1-art.webp",
+  "art_bytes": 59088,
+  "thumb": "meaning/thumbs/sha1-thumb.webp",
+  "thumb_bytes": 26600,
+  "i18n": {
+   "en": {
+    "cue": "A handful of sand trickling through fingers onto a small dune"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "泥",
+  "trad": "泥",
+  "pinyin": "ní",
+  "pinyin_num": "ni2",
+  "gloss": "mud",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A muddy puddle with footprints pressed into wet mud",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ni2.webp",
+  "card_bytes": 50326,
+  "art": "meaning/art/ni2-art.webp",
+  "art_bytes": 43524,
+  "thumb": "meaning/thumbs/ni2-thumb.webp",
+  "thumb_bytes": 20022,
+  "i18n": {
+   "en": {
+    "cue": "A muddy puddle with footprints pressed into wet mud"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "渡",
+  "trad": "渡",
+  "pinyin": "dù",
+  "pinyin_num": "du4",
+  "gloss": "to cross by ferry",
+  "hsk": 6,
+  "cluster": "shui",
+  "cue": "A small ferry boat carrying passengers across a wide river",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-du4.webp",
+  "card_bytes": 37282,
+  "art": "meaning/art/du4-art.webp",
+  "art_bytes": 26338,
+  "thumb": "meaning/thumbs/du4-thumb.webp",
+  "thumb_bytes": 14958,
+  "i18n": {
+   "en": {
+    "cue": "A small ferry boat carrying passengers across a wide river"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "河",
+  "trad": "河",
+  "pinyin": "hé",
+  "pinyin_num": "he2",
+  "gloss": "river",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A river flowing between its banks, moving water with a visible current",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-he2.webp",
+  "card_bytes": 81388,
+  "art": "meaning/art/he2-art.webp",
+  "art_bytes": 74782,
+  "thumb": "meaning/thumbs/he2-thumb.webp",
+  "thumb_bytes": 30136,
+  "i18n": {
+   "en": {
+    "cue": "A river flowing between its banks, moving water with a visible current"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "江",
+  "trad": "江",
+  "pinyin": "jiāng",
+  "pinyin_num": "jiang1",
+  "gloss": "large river",
+  "hsk": 4,
+  "cluster": "shui",
+  "cue": "A broad, wide river stretching toward a distant shore, much wider than an ordinary river",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jiang1.webp",
+  "card_bytes": 48604,
+  "art": "meaning/art/jiang1-art.webp",
+  "art_bytes": 37916,
+  "thumb": "meaning/thumbs/jiang1-thumb.webp",
+  "thumb_bytes": 18990,
+  "i18n": {
+   "en": {
+    "cue": "A broad, wide river stretching toward a distant shore, much wider than an ordinary river"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "湖",
+  "trad": "湖",
+  "pinyin": "hú",
+  "pinyin_num": "hu2",
+  "gloss": "lake",
+  "hsk": 2,
+  "cluster": "shui",
+  "cue": "A still lake, calm enclosed water with no visible current",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hu2.webp",
+  "card_bytes": 48744,
+  "art": "meaning/art/hu2-art.webp",
+  "art_bytes": 40922,
+  "thumb": "meaning/thumbs/hu2-thumb.webp",
+  "thumb_bytes": 17980,
+  "i18n": {
+   "en": {
+    "cue": "A still lake, calm enclosed water with no visible current"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ }
+]
