@@ -5074,5 +5074,1004 @@
    "ko": null,
    "fr": null
   }
+ },
+ {
+  "char": "杯",
+  "trad": "杯",
+  "pinyin": "bēi",
+  "pinyin_num": "bei1",
+  "gloss": "cup, glass",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A single empty cup standing on a saucer",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bei1.webp",
+  "card_bytes": 51564,
+  "art": "meaning/art/bei1-art.webp",
+  "art_bytes": 44670,
+  "thumb": "meaning/thumbs/bei1-thumb.webp",
+  "thumb_bytes": 19392,
+  "i18n": {
+   "en": {
+    "cue": "A single empty cup standing on a saucer"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "床",
+  "trad": "床",
+  "pinyin": "chuáng",
+  "pinyin_num": "chuang2",
+  "gloss": "bed",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A wooden bed with a pillow and a folded blanket",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chuang2.webp",
+  "card_bytes": 83146,
+  "art": "meaning/art/chuang2-art.webp",
+  "art_bytes": 77556,
+  "thumb": "meaning/thumbs/chuang2-thumb.webp",
+  "thumb_bytes": 30264,
+  "i18n": {
+   "en": {
+    "cue": "A wooden bed with a pillow and a folded blanket"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "楼",
+  "trad": "樓",
+  "pinyin": "lóu",
+  "pinyin_num": "lou2",
+  "gloss": "multi-storey building",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A tall multi-storey building with rows of windows and a tiled roof",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lou2.webp",
+  "card_bytes": 155856,
+  "art": "meaning/art/lou2-art.webp",
+  "art_bytes": 143516,
+  "thumb": "meaning/thumbs/lou2-thumb.webp",
+  "thumb_bytes": 60120,
+  "i18n": {
+   "en": {
+    "cue": "A tall multi-storey building with rows of windows and a tiled roof"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "树",
+  "trad": "樹",
+  "pinyin": "shù",
+  "pinyin_num": "shu4",
+  "gloss": "tree",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "One single large leafy tree standing alone in a field",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shu4.webp",
+  "card_bytes": 81842,
+  "art": "meaning/art/shu4-art.webp",
+  "art_bytes": 75790,
+  "thumb": "meaning/thumbs/shu4-thumb.webp",
+  "thumb_bytes": 31964,
+  "i18n": {
+   "en": {
+    "cue": "One single large leafy tree standing alone in a field"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "桌",
+  "trad": "桌",
+  "pinyin": "zhuō",
+  "pinyin_num": "zhuo1",
+  "gloss": "table, desk",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A sturdy wooden table with four legs, nothing on it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhuo1.webp",
+  "card_bytes": 59752,
+  "art": "meaning/art/zhuo1-art.webp",
+  "art_bytes": 51338,
+  "thumb": "meaning/thumbs/zhuo1-thumb.webp",
+  "thumb_bytes": 23268,
+  "i18n": {
+   "en": {
+    "cue": "A sturdy wooden table with four legs, nothing on it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "茶",
+  "trad": "茶",
+  "pinyin": "chá",
+  "pinyin_num": "cha2",
+  "gloss": "tea",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A cup of tea with steam rising, fresh tea leaves beside the cup",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cha2.webp",
+  "card_bytes": 51496,
+  "art": "meaning/art/cha2-art.webp",
+  "art_bytes": 42364,
+  "thumb": "meaning/thumbs/cha2-thumb.webp",
+  "thumb_bytes": 20498,
+  "i18n": {
+   "en": {
+    "cue": "A cup of tea with steam rising, fresh tea leaves beside the cup"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "校",
+  "trad": "校",
+  "pinyin": "xiào",
+  "pinyin_num": "xiao4",
+  "gloss": "school",
+  "hsk": 1,
+  "cluster": "mu",
+  "cue": "A school building with a wide gate and a courtyard in front",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xiao4.webp",
+  "card_bytes": 79896,
+  "art": "meaning/art/xiao4-art.webp",
+  "art_bytes": 71360,
+  "thumb": "meaning/thumbs/xiao4-thumb.webp",
+  "thumb_bytes": 29812,
+  "i18n": {
+   "en": {
+    "cue": "A school building with a wide gate and a courtyard in front"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "板",
+  "trad": "板闆",
+  "pinyin": "bǎn",
+  "pinyin_num": "ban3",
+  "gloss": "board, plank",
+  "hsk": 2,
+  "cluster": "mu",
+  "cue": "A stack of flat wooden planks and boards",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ban3.webp",
+  "card_bytes": 136880,
+  "art": "meaning/art/ban3-art.webp",
+  "art_bytes": 129864,
+  "thumb": "meaning/thumbs/ban3-thumb.webp",
+  "thumb_bytes": 51330,
+  "i18n": {
+   "en": {
+    "cue": "A stack of flat wooden planks and boards"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "椅",
+  "trad": "椅",
+  "pinyin": "yǐ",
+  "pinyin_num": "yi3",
+  "gloss": "chair",
+  "hsk": 2,
+  "cluster": "mu",
+  "cue": "A single wooden chair with a backrest",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yi3.webp",
+  "card_bytes": 56668,
+  "art": "meaning/art/yi3-art.webp",
+  "art_bytes": 49222,
+  "thumb": "meaning/thumbs/yi3-thumb.webp",
+  "thumb_bytes": 21844,
+  "i18n": {
+   "en": {
+    "cue": "A single wooden chair with a backrest"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "材",
+  "trad": "材",
+  "pinyin": "cái",
+  "pinyin_num": "cai2",
+  "gloss": "timber, lumber",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "A neat pile of sawn timber logs and lumber beams",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cai2.webp",
+  "card_bytes": 84940,
+  "art": "meaning/art/cai2-art.webp",
+  "art_bytes": 77532,
+  "thumb": "meaning/thumbs/cai2-thumb.webp",
+  "thumb_bytes": 31436,
+  "i18n": {
+   "en": {
+    "cue": "A neat pile of sawn timber logs and lumber beams"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "村",
+  "trad": "村",
+  "pinyin": "cūn",
+  "pinyin_num": "cun1",
+  "gloss": "village",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "A small village of cottages nestled among trees",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cun1.webp",
+  "card_bytes": 111880,
+  "art": "meaning/art/cun1-art.webp",
+  "art_bytes": 108706,
+  "thumb": "meaning/thumbs/cun1-thumb.webp",
+  "thumb_bytes": 41070,
+  "i18n": {
+   "en": {
+    "cue": "A small village of cottages nestled among trees"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "根",
+  "trad": "根",
+  "pinyin": "gēn",
+  "pinyin_num": "gen1",
+  "gloss": "root",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "The roots of a tree spreading underground, shown in a cross-section of soil",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gen1.webp",
+  "card_bytes": 158550,
+  "art": "meaning/art/gen1-art.webp",
+  "art_bytes": 151330,
+  "thumb": "meaning/thumbs/gen1-thumb.webp",
+  "thumb_bytes": 65914,
+  "i18n": {
+   "en": {
+    "cue": "The roots of a tree spreading underground, shown in a cross-section of soil"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "李",
+  "trad": "李",
+  "pinyin": "lǐ",
+  "pinyin_num": "li3",
+  "gloss": "plum",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "A tree branch heavy with ripe round purple plums",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-li3.webp",
+  "card_bytes": 104480,
+  "art": "meaning/art/li3-art.webp",
+  "art_bytes": 98664,
+  "thumb": "meaning/thumbs/li3-thumb.webp",
+  "thumb_bytes": 43696,
+  "i18n": {
+   "en": {
+    "cue": "A tree branch heavy with ripe round purple plums"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "桥",
+  "trad": "橋",
+  "pinyin": "qiáo",
+  "pinyin_num": "qiao2",
+  "gloss": "bridge",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "An arched wooden bridge crossing a river",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qiao2.webp",
+  "card_bytes": 84446,
+  "art": "meaning/art/qiao2-art.webp",
+  "art_bytes": 78936,
+  "thumb": "meaning/thumbs/qiao2-thumb.webp",
+  "thumb_bytes": 32156,
+  "i18n": {
+   "en": {
+    "cue": "An arched wooden bridge crossing a river"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "架",
+  "trad": "架",
+  "pinyin": "jià",
+  "pinyin_num": "jia4",
+  "gloss": "shelf, rack",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "A wooden shelf rack holding pots and books on its levels",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jia4.webp",
+  "card_bytes": 87504,
+  "art": "meaning/art/jia4-art.webp",
+  "art_bytes": 79256,
+  "thumb": "meaning/thumbs/jia4-thumb.webp",
+  "thumb_bytes": 35660,
+  "i18n": {
+   "en": {
+    "cue": "A wooden shelf rack holding pots and books on its levels"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "标",
+  "trad": "標",
+  "pinyin": "biāo",
+  "pinyin_num": "biao1",
+  "gloss": "sign, mark",
+  "hsk": 3,
+  "cluster": "mu",
+  "cue": "A wooden signpost at a crossroads with one blank direction board",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-biao1.webp",
+  "card_bytes": 69592,
+  "art": "meaning/art/biao1-art.webp",
+  "art_bytes": 60172,
+  "thumb": "meaning/thumbs/biao1-thumb.webp",
+  "thumb_bytes": 27214,
+  "i18n": {
+   "en": {
+    "cue": "A wooden signpost at a crossroads with one blank direction board"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "林",
+  "trad": "林",
+  "pinyin": "lín",
+  "pinyin_num": "lin2",
+  "gloss": "forest, grove",
+  "hsk": 4,
+  "cluster": "mu",
+  "cue": "A grove of several tall trees standing together",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lin2.webp",
+  "card_bytes": 124564,
+  "art": "meaning/art/lin2-art.webp",
+  "art_bytes": 120234,
+  "thumb": "meaning/thumbs/lin2-thumb.webp",
+  "thumb_bytes": 46186,
+  "i18n": {
+   "en": {
+    "cue": "A grove of several tall trees standing together"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "森",
+  "trad": "森",
+  "pinyin": "sēn",
+  "pinyin_num": "sen1",
+  "gloss": "dense forest",
+  "hsk": 4,
+  "cluster": "mu",
+  "cue": "A deep dense forest of many dark trees crowded together, dim inside",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sen1.webp",
+  "card_bytes": 179512,
+  "art": "meaning/art/sen1-art.webp",
+  "art_bytes": 174300,
+  "thumb": "meaning/thumbs/sen1-thumb.webp",
+  "thumb_bytes": 70632,
+  "i18n": {
+   "en": {
+    "cue": "A deep dense forest of many dark trees crowded together, dim inside"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "松",
+  "trad": "鬆松",
+  "pinyin": "sōng",
+  "pinyin_num": "song1",
+  "gloss": "pine tree",
+  "hsk": 4,
+  "cluster": "mu",
+  "cue": "A pine tree with long needle clusters and pine cones on its branches",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-song1.webp",
+  "card_bytes": 144948,
+  "art": "meaning/art/song1-art.webp",
+  "art_bytes": 134602,
+  "thumb": "meaning/thumbs/song1-thumb.webp",
+  "thumb_bytes": 56450,
+  "i18n": {
+   "en": {
+    "cue": "A pine tree with long needle clusters and pine cones on its branches"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "梯",
+  "trad": "梯",
+  "pinyin": "tī",
+  "pinyin_num": "ti1",
+  "gloss": "ladder",
+  "hsk": 4,
+  "cluster": "mu",
+  "cue": "A tall ladder leaning against a wall",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ti1.webp",
+  "card_bytes": 82514,
+  "art": "meaning/art/ti1-art.webp",
+  "art_bytes": 77674,
+  "thumb": "meaning/thumbs/ti1-thumb.webp",
+  "thumb_bytes": 29554,
+  "i18n": {
+   "en": {
+    "cue": "A tall ladder leaning against a wall"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "植",
+  "trad": "植",
+  "pinyin": "zhí",
+  "pinyin_num": "zhi2",
+  "gloss": "to plant",
+  "hsk": 4,
+  "cluster": "mu",
+  "cue": "A person planting a young sapling into the soil, patting the earth around it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhi2.webp",
+  "card_bytes": 74264,
+  "art": "meaning/art/zhi2-art.webp",
+  "art_bytes": 64706,
+  "thumb": "meaning/thumbs/zhi2-thumb.webp",
+  "thumb_bytes": 30052,
+  "i18n": {
+   "en": {
+    "cue": "A person planting a young sapling into the soil, patting the earth around it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "棒",
+  "trad": "棒",
+  "pinyin": "bàng",
+  "pinyin_num": "bang4",
+  "gloss": "stick, club",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "One thick heavy wooden club lying across a log",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bang4.webp",
+  "card_bytes": 63432,
+  "art": "meaning/art/bang4-art.webp",
+  "art_bytes": 54838,
+  "thumb": "meaning/thumbs/bang4-thumb.webp",
+  "thumb_bytes": 24374,
+  "i18n": {
+   "en": {
+    "cue": "One thick heavy wooden club lying across a log"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "柴",
+  "trad": "柴",
+  "pinyin": "chái",
+  "pinyin_num": "chai2",
+  "gloss": "firewood",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A bundle of chopped firewood stacked against a wall",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chai2.webp",
+  "card_bytes": 116172,
+  "art": "meaning/art/chai2-art.webp",
+  "art_bytes": 109062,
+  "thumb": "meaning/thumbs/chai2-thumb.webp",
+  "thumb_bytes": 46834,
+  "i18n": {
+   "en": {
+    "cue": "A bundle of chopped firewood stacked against a wall"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "朵",
+  "trad": "朵",
+  "pinyin": "duǒ",
+  "pinyin_num": "duo3",
+  "gloss": "cluster of flowers",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A single stem bearing a cluster of blossoms",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-duo3.webp",
+  "card_bytes": 71882,
+  "art": "meaning/art/duo3-art.webp",
+  "art_bytes": 62414,
+  "thumb": "meaning/thumbs/duo3-thumb.webp",
+  "thumb_bytes": 31016,
+  "i18n": {
+   "en": {
+    "cue": "A single stem bearing a cluster of blossoms"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "柜",
+  "trad": "櫃柜",
+  "pinyin": "guì",
+  "pinyin_num": "gui4",
+  "gloss": "cabinet, cupboard",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A tall wooden cabinet with two doors and drawers below",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gui4.webp",
+  "card_bytes": 98272,
+  "art": "meaning/art/gui4-art.webp",
+  "art_bytes": 88384,
+  "thumb": "meaning/thumbs/gui4-thumb.webp",
+  "thumb_bytes": 38790,
+  "i18n": {
+   "en": {
+    "cue": "A tall wooden cabinet with two doors and drawers below"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "梨",
+  "trad": "梨",
+  "pinyin": "lí",
+  "pinyin_num": "li2",
+  "gloss": "pear",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A branch bearing two ripe yellow-green pears",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-li2.webp",
+  "card_bytes": 52298,
+  "art": "meaning/art/li2-art.webp",
+  "art_bytes": 44892,
+  "thumb": "meaning/thumbs/li2-thumb.webp",
+  "thumb_bytes": 22144,
+  "i18n": {
+   "en": {
+    "cue": "A branch bearing two ripe yellow-green pears"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "枪",
+  "trad": "槍",
+  "pinyin": "qiāng",
+  "pinyin_num": "qiang1",
+  "gloss": "gun, rifle",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A long rifle with a wooden stock resting on a stand",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qiang1.webp",
+  "card_bytes": 53358,
+  "art": "meaning/art/qiang1-art.webp",
+  "art_bytes": 44218,
+  "thumb": "meaning/thumbs/qiang1-thumb.webp",
+  "thumb_bytes": 20812,
+  "i18n": {
+   "en": {
+    "cue": "A long rifle with a wooden stock resting on a stand"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "柿",
+  "trad": "柿",
+  "pinyin": "shì",
+  "pinyin_num": "shi4",
+  "gloss": "persimmon",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A bare branch bearing round orange persimmons",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shi4.webp",
+  "card_bytes": 63618,
+  "art": "meaning/art/shi4-art.webp",
+  "art_bytes": 55856,
+  "thumb": "meaning/thumbs/shi4-thumb.webp",
+  "thumb_bytes": 26604,
+  "i18n": {
+   "en": {
+    "cue": "A bare branch bearing round orange persimmons"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "桃",
+  "trad": "桃",
+  "pinyin": "táo",
+  "pinyin_num": "tao2",
+  "gloss": "peach",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "A branch bearing ripe pink peaches with green leaves",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tao2.webp",
+  "card_bytes": 102944,
+  "art": "meaning/art/tao2-art.webp",
+  "art_bytes": 95042,
+  "thumb": "meaning/thumbs/tao2-thumb.webp",
+  "thumb_bytes": 43838,
+  "i18n": {
+   "en": {
+    "cue": "A branch bearing ripe pink peaches with green leaves"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "析",
+  "trad": "析",
+  "pinyin": "xī",
+  "pinyin_num": "xi1",
+  "gloss": "to split wood",
+  "hsk": 5,
+  "cluster": "mu",
+  "cue": "An axe splitting a log in two on a chopping block",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xi1.webp",
+  "card_bytes": 61188,
+  "art": "meaning/art/xi1-art.webp",
+  "art_bytes": 53086,
+  "thumb": "meaning/thumbs/xi1-thumb.webp",
+  "thumb_bytes": 24080,
+  "i18n": {
+   "en": {
+    "cue": "An axe splitting a log in two on a chopping block"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "枝",
+  "trad": "枝",
+  "pinyin": "zhī",
+  "pinyin_num": "zhi1",
+  "gloss": "branch",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "One leafy tree branch reaching across the frame, twigs and leaves detailed",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhi1.webp",
+  "card_bytes": 85800,
+  "art": "meaning/art/zhi1-art.webp",
+  "art_bytes": 78422,
+  "thumb": "meaning/thumbs/zhi1-thumb.webp",
+  "thumb_bytes": 35248,
+  "i18n": {
+   "en": {
+    "cue": "One leafy tree branch reaching across the frame, twigs and leaves detailed"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "栏",
+  "trad": "欄",
+  "pinyin": "lán",
+  "pinyin_num": "lan2",
+  "gloss": "railing, fence",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "A wooden railing running along the edge of a terrace",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-lan2.webp",
+  "card_bytes": 95352,
+  "art": "meaning/art/lan2-art.webp",
+  "art_bytes": 90158,
+  "thumb": "meaning/thumbs/lan2-thumb.webp",
+  "thumb_bytes": 35768,
+  "i18n": {
+   "en": {
+    "cue": "A wooden railing running along the edge of a terrace"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "梁",
+  "trad": "梁",
+  "pinyin": "liáng",
+  "pinyin_num": "liang2",
+  "gloss": "roof beam",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "The heavy horizontal roof beam of a house frame, spanning across two posts",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-liang2.webp",
+  "card_bytes": 56008,
+  "art": "meaning/art/liang2-art.webp",
+  "art_bytes": 44700,
+  "thumb": "meaning/thumbs/liang2-thumb.webp",
+  "thumb_bytes": 22126,
+  "i18n": {
+   "en": {
+    "cue": "The heavy horizontal roof beam of a house frame, spanning across two posts"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "梅",
+  "trad": "梅",
+  "pinyin": "méi",
+  "pinyin_num": "mei2",
+  "gloss": "plum blossom",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "A gnarled branch with pink plum blossoms opening in light snow",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-mei2.webp",
+  "card_bytes": 74160,
+  "art": "meaning/art/mei2-art.webp",
+  "art_bytes": 65696,
+  "thumb": "meaning/thumbs/mei2-thumb.webp",
+  "thumb_bytes": 30744,
+  "i18n": {
+   "en": {
+    "cue": "A gnarled branch with pink plum blossoms opening in light snow"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "棉",
+  "trad": "棉",
+  "pinyin": "mián",
+  "pinyin_num": "mian2",
+  "gloss": "cotton",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "A cotton plant with open white fluffy cotton bolls",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-mian2.webp",
+  "card_bytes": 80326,
+  "art": "meaning/art/mian2-art.webp",
+  "art_bytes": 71872,
+  "thumb": "meaning/thumbs/mian2-thumb.webp",
+  "thumb_bytes": 34860,
+  "i18n": {
+   "en": {
+    "cue": "A cotton plant with open white fluffy cotton bolls"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "柱",
+  "trad": "柱",
+  "pinyin": "zhù",
+  "pinyin_num": "zhu4",
+  "gloss": "pillar, post",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "One massive wooden pillar holding up a roof corner",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhu4.webp",
+  "card_bytes": 102930,
+  "art": "meaning/art/zhu4-art.webp",
+  "art_bytes": 94820,
+  "thumb": "meaning/thumbs/zhu4-thumb.webp",
+  "thumb_bytes": 40192,
+  "i18n": {
+   "en": {
+    "cue": "One massive wooden pillar holding up a roof corner"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "杆",
+  "trad": "杆桿",
+  "pinyin": "gān",
+  "pinyin_num": "gan1",
+  "gloss": "pole",
+  "hsk": 6,
+  "cluster": "mu",
+  "cue": "One long straight bamboo pole standing upright, a small flag at its top",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gan1.webp",
+  "card_bytes": 60620,
+  "art": "meaning/art/gan1-art.webp",
+  "art_bytes": 50958,
+  "thumb": "meaning/thumbs/gan1-thumb.webp",
+  "thumb_bytes": 24778,
+  "i18n": {
+   "en": {
+    "cue": "One long straight bamboo pole standing upright, a small flag at its top"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
  }
 ]
