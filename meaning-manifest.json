@@ -3265,5 +3265,842 @@
    "ko": null,
    "fr": null
   }
+ },
+ {
+  "char": "唱",
+  "trad": "唱",
+  "pinyin": "chàng",
+  "pinyin_num": "chang4",
+  "gloss": "to sing",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A singer with mouth open wide in song, gold sound arcs flowing from the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chang4.webp",
+  "card_bytes": 112908,
+  "art": "meaning/art/chang4-art.webp",
+  "art_bytes": 103014,
+  "thumb": "meaning/thumbs/chang4-thumb.webp",
+  "thumb_bytes": 47708,
+  "i18n": {
+   "en": {
+    "cue": "A singer with mouth open wide in song, gold sound arcs flowing from the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吃",
+  "trad": "吃",
+  "pinyin": "chī",
+  "pinyin_num": "chi1",
+  "gloss": "to eat",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A person eating a bowl of rice with chopsticks, bowl raised close to the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chi1.webp",
+  "card_bytes": 101704,
+  "art": "meaning/art/chi1-art.webp",
+  "art_bytes": 92788,
+  "thumb": "meaning/thumbs/chi1-thumb.webp",
+  "thumb_bytes": 44032,
+  "i18n": {
+   "en": {
+    "cue": "A person eating a bowl of rice with chopsticks, bowl raised close to the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "告",
+  "trad": "告",
+  "pinyin": "gào",
+  "pinyin_num": "gao4",
+  "gloss": "to announce, to tell",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A herald formally announcing news to two listeners, a blank scroll in one hand, calm speech arcs toward the crowd",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gao4.webp",
+  "card_bytes": 88458,
+  "art": "meaning/art/gao4-art.webp",
+  "art_bytes": 76774,
+  "thumb": "meaning/thumbs/gao4-thumb.webp",
+  "thumb_bytes": 36904,
+  "i18n": {
+   "en": {
+    "cue": "A herald formally announcing news to two listeners, a blank scroll in one hand, calm speech arcs toward the crowd"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "喝",
+  "trad": "喝",
+  "pinyin": "hē",
+  "pinyin_num": "he1",
+  "gloss": "to drink",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A person tilting a cup to the lips and drinking, head tipped back slightly",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-he1.webp",
+  "card_bytes": 59308,
+  "art": "meaning/art/he1-art.webp",
+  "art_bytes": 49564,
+  "thumb": "meaning/thumbs/he1-thumb.webp",
+  "thumb_bytes": 24402,
+  "i18n": {
+   "en": {
+    "cue": "A person tilting a cup to the lips and drinking, head tipped back slightly"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "叫",
+  "trad": "叫",
+  "pinyin": "jiào",
+  "pinyin_num": "jiao4",
+  "gloss": "to call out",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A person with both hands cupped around the mouth, calling toward a small distant figure across a valley",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jiao4.webp",
+  "card_bytes": 95150,
+  "art": "meaning/art/jiao4-art.webp",
+  "art_bytes": 86884,
+  "thumb": "meaning/thumbs/jiao4-thumb.webp",
+  "thumb_bytes": 35956,
+  "i18n": {
+   "en": {
+    "cue": "A person with both hands cupped around the mouth, calling toward a small distant figure across a valley"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "听",
+  "trad": "聽听",
+  "pinyin": "tīng",
+  "pinyin_num": "ting1",
+  "gloss": "to listen",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A person leaning in with one hand cupped behind the ear, listening intently to a speaker",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ting1.webp",
+  "card_bytes": 62842,
+  "art": "meaning/art/ting1-art.webp",
+  "art_bytes": 52428,
+  "thumb": "meaning/thumbs/ting1-thumb.webp",
+  "thumb_bytes": 26272,
+  "i18n": {
+   "en": {
+    "cue": "A person leaning in with one hand cupped behind the ear, listening intently to a speaker"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "问",
+  "trad": "問",
+  "pinyin": "wèn",
+  "pinyin_num": "wen4",
+  "gloss": "to ask",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "A visitor at a doorway leaning in to ask the keeper a question, one gold speech arc between them",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wen4.webp",
+  "card_bytes": 77856,
+  "art": "meaning/art/wen4-art.webp",
+  "art_bytes": 67844,
+  "thumb": "meaning/thumbs/wen4-thumb.webp",
+  "thumb_bytes": 32536,
+  "i18n": {
+   "en": {
+    "cue": "A visitor at a doorway leaning in to ask the keeper a question, one gold speech arc between them"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "名",
+  "trad": "名",
+  "pinyin": "míng",
+  "pinyin_num": "ming2",
+  "gloss": "name",
+  "hsk": 1,
+  "cluster": "kou",
+  "cue": "At dusk, a person calling out a name toward a house while another figure turns around in answer",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ming2.webp",
+  "card_bytes": 111946,
+  "art": "meaning/art/ming2-art.webp",
+  "art_bytes": 105872,
+  "thumb": "meaning/thumbs/ming2-thumb.webp",
+  "thumb_bytes": 43918,
+  "i18n": {
+   "en": {
+    "cue": "At dusk, a person calling out a name toward a house while another figure turns around in answer"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吹",
+  "trad": "吹",
+  "pinyin": "chuī",
+  "pinyin_num": "chui1",
+  "gloss": "to blow",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A person blowing out a candle, the flame bending away in the stream of breath",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chui1.webp",
+  "card_bytes": 54566,
+  "art": "meaning/art/chui1-art.webp",
+  "art_bytes": 43906,
+  "thumb": "meaning/thumbs/chui1-thumb.webp",
+  "thumb_bytes": 23340,
+  "i18n": {
+   "en": {
+    "cue": "A person blowing out a candle, the flame bending away in the stream of breath"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "喊",
+  "trad": "喊",
+  "pinyin": "hǎn",
+  "pinyin_num": "han3",
+  "gloss": "to shout, to yell",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A person yelling at full volume, head thrown back, mouth at its widest, large sound arcs bursting out",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-han3.webp",
+  "card_bytes": 138158,
+  "art": "meaning/art/han3-art.webp",
+  "art_bytes": 126094,
+  "thumb": "meaning/thumbs/han3-thumb.webp",
+  "thumb_bytes": 60010,
+  "i18n": {
+   "en": {
+    "cue": "A person yelling at full volume, head thrown back, mouth at its widest, large sound arcs bursting out"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "哭",
+  "trad": "哭",
+  "pinyin": "kū",
+  "pinyin_num": "ku1",
+  "gloss": "to cry, to weep",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A face weeping with tears streaming down both cheeks, mouth open in a wail",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ku1.webp",
+  "card_bytes": 90236,
+  "art": "meaning/art/ku1-art.webp",
+  "art_bytes": 78934,
+  "thumb": "meaning/thumbs/ku1-thumb.webp",
+  "thumb_bytes": 38796,
+  "i18n": {
+   "en": {
+    "cue": "A face weeping with tears streaming down both cheeks, mouth open in a wail"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "味",
+  "trad": "味",
+  "pinyin": "wèi",
+  "pinyin_num": "wei4",
+  "gloss": "taste, flavour",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A cook tasting soup from a spoon with eyes closed, delicate flavour swirls rising above the bowl",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wei4-5473.webp",
+  "card_bytes": 115566,
+  "art": "meaning/art/wei4-5473-art.webp",
+  "art_bytes": 104414,
+  "thumb": "meaning/thumbs/wei4-5473-thumb.webp",
+  "thumb_bytes": 48468,
+  "i18n": {
+   "en": {
+    "cue": "A cook tasting soup from a spoon with eyes closed, delicate flavour swirls rising above the bowl"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "喂",
+  "trad": "喂餵",
+  "pinyin": "wèi",
+  "pinyin_num": "wei4",
+  "gloss": "hello (on the phone)",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A person holding a telephone receiver to the ear and speaking into it in greeting",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wei4-5582.webp",
+  "card_bytes": 139432,
+  "art": "meaning/art/wei4-5582-art.webp",
+  "art_bytes": 127060,
+  "thumb": "meaning/thumbs/wei4-5582-thumb.webp",
+  "thumb_bytes": 58590,
+  "i18n": {
+   "en": {
+    "cue": "A person holding a telephone receiver to the ear and speaking into it in greeting"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "响",
+  "trad": "響",
+  "pinyin": "xiǎng",
+  "pinyin_num": "xiang3",
+  "gloss": "to resound, to make a sound",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A large bronze bell ringing, concentric gold sound arcs radiating from it, no people",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xiang3.webp",
+  "card_bytes": 72798,
+  "art": "meaning/art/xiang3-art.webp",
+  "art_bytes": 61362,
+  "thumb": "meaning/thumbs/xiang3-thumb.webp",
+  "thumb_bytes": 30090,
+  "i18n": {
+   "en": {
+    "cue": "A large bronze bell ringing, concentric gold sound arcs radiating from it, no people"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "言",
+  "trad": "言",
+  "pinyin": "yán",
+  "pinyin_num": "yan2",
+  "gloss": "speech, words",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "An elder speaking calmly and deliberately, measured even speech arcs from the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yan2.webp",
+  "card_bytes": 75234,
+  "art": "meaning/art/yan2-art.webp",
+  "art_bytes": 65288,
+  "thumb": "meaning/thumbs/yan2-thumb.webp",
+  "thumb_bytes": 29388,
+  "i18n": {
+   "en": {
+    "cue": "An elder speaking calmly and deliberately, measured even speech arcs from the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "嘴",
+  "trad": "嘴",
+  "pinyin": "zuǐ",
+  "pinyin_num": "zui3",
+  "gloss": "mouth, lips",
+  "hsk": 2,
+  "cluster": "kou",
+  "cue": "A close profile view of lips and mouth, the lips carrying a flat gold accent",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zui3.webp",
+  "card_bytes": 72344,
+  "art": "meaning/art/zui3-art.webp",
+  "art_bytes": 63904,
+  "thumb": "meaning/thumbs/zui3-thumb.webp",
+  "thumb_bytes": 28282,
+  "i18n": {
+   "en": {
+    "cue": "A close profile view of lips and mouth, the lips carrying a flat gold accent"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吵",
+  "trad": "吵",
+  "pinyin": "chǎo",
+  "pinyin_num": "chao3",
+  "gloss": "to argue, to quarrel",
+  "hsk": 3,
+  "cluster": "kou",
+  "cue": "Two people face to face arguing heatedly, sharp zigzag arcs clashing between their open mouths",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chao3.webp",
+  "card_bytes": 85238,
+  "art": "meaning/art/chao3-art.webp",
+  "art_bytes": 73262,
+  "thumb": "meaning/thumbs/chao3-thumb.webp",
+  "thumb_bytes": 36224,
+  "i18n": {
+   "en": {
+    "cue": "Two people face to face arguing heatedly, sharp zigzag arcs clashing between their open mouths"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "哈",
+  "trad": "哈",
+  "pinyin": "hā",
+  "pinyin_num": "ha1",
+  "gloss": "(sound of laughter)",
+  "hsk": 3,
+  "cluster": "kou",
+  "cue": "A person laughing heartily with head thrown back and mouth wide open, rhythmic arcs of laughter",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ha1.webp",
+  "card_bytes": 115984,
+  "art": "meaning/art/ha1-art.webp",
+  "art_bytes": 105336,
+  "thumb": "meaning/thumbs/ha1-thumb.webp",
+  "thumb_bytes": 51322,
+  "i18n": {
+   "en": {
+    "cue": "A person laughing heartily with head thrown back and mouth wide open, rhythmic arcs of laughter"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "含",
+  "trad": "含",
+  "pinyin": "hán",
+  "pinyin_num": "han2",
+  "gloss": "to hold in the mouth",
+  "hsk": 4,
+  "cluster": "kou",
+  "cue": "A side profile of a face with one cheek bulging around a round sweet held inside the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-han2.webp",
+  "card_bytes": 126372,
+  "art": "meaning/art/han2-art.webp",
+  "art_bytes": 112552,
+  "thumb": "meaning/thumbs/han2-thumb.webp",
+  "thumb_bytes": 51818,
+  "i18n": {
+   "en": {
+    "cue": "A side profile of a face with one cheek bulging around a round sweet held inside the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "呼",
+  "trad": "呼",
+  "pinyin": "hū",
+  "pinyin_num": "hu1",
+  "gloss": "to exhale, to breathe out",
+  "hsk": 4,
+  "cluster": "kou",
+  "cue": "A person exhaling a long visible cloud of breath into cold air",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hu1.webp",
+  "card_bytes": 79808,
+  "art": "meaning/art/hu1-art.webp",
+  "art_bytes": 70394,
+  "thumb": "meaning/thumbs/hu1-thumb.webp",
+  "thumb_bytes": 32240,
+  "i18n": {
+   "en": {
+    "cue": "A person exhaling a long visible cloud of breath into cold air"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吸",
+  "trad": "吸",
+  "pinyin": "xī",
+  "pinyin_num": "xi1",
+  "gloss": "to inhale, to suck in",
+  "hsk": 4,
+  "cluster": "kou",
+  "cue": "A person drinking through a long straw with cheeks drawn in, the drink rising up the straw",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xi1.webp",
+  "card_bytes": 52402,
+  "art": "meaning/art/xi1-art.webp",
+  "art_bytes": 39252,
+  "thumb": "meaning/thumbs/xi1-thumb.webp",
+  "thumb_bytes": 21754,
+  "i18n": {
+   "en": {
+    "cue": "A person drinking through a long straw with cheeks drawn in, the drink rising up the straw"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "呆",
+  "trad": "呆",
+  "pinyin": "dāi",
+  "pinyin_num": "dai1",
+  "gloss": "dull, blank (staring)",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A face with a vacant blank stare, eyes unfocused and mouth hanging slightly open",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-dai1.webp",
+  "card_bytes": 116878,
+  "art": "meaning/art/dai1-art.webp",
+  "art_bytes": 107536,
+  "thumb": "meaning/thumbs/dai1-thumb.webp",
+  "thumb_bytes": 51774,
+  "i18n": {
+   "en": {
+    "cue": "A face with a vacant blank stare, eyes unfocused and mouth hanging slightly open"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "咳",
+  "trad": "咳",
+  "pinyin": "ké",
+  "pinyin_num": "ke2",
+  "gloss": "to cough",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A person coughing into a raised fist, small sharp puffs escaping from the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ke2.webp",
+  "card_bytes": 104602,
+  "art": "meaning/art/ke2-art.webp",
+  "art_bytes": 93676,
+  "thumb": "meaning/thumbs/ke2-thumb.webp",
+  "thumb_bytes": 45992,
+  "i18n": {
+   "en": {
+    "cue": "A person coughing into a raised fist, small sharp puffs escaping from the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "骂",
+  "trad": "罵",
+  "pinyin": "mà",
+  "pinyin_num": "ma4",
+  "gloss": "to scold, to curse",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "An angry person pointing a finger and scolding, sharp speech arcs striking toward a cowering figure",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ma4.webp",
+  "card_bytes": 80624,
+  "art": "meaning/art/ma4-art.webp",
+  "art_bytes": 68550,
+  "thumb": "meaning/thumbs/ma4-thumb.webp",
+  "thumb_bytes": 33140,
+  "i18n": {
+   "en": {
+    "cue": "An angry person pointing a finger and scolding, sharp speech arcs striking toward a cowering figure"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "喷",
+  "trad": "噴",
+  "pinyin": "pēn",
+  "pinyin_num": "pen1",
+  "gloss": "to spurt, to spray",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A person spurting a mouthful of water out in a wide fine spray, droplets everywhere",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-pen1.webp",
+  "card_bytes": 84712,
+  "art": "meaning/art/pen1-art.webp",
+  "art_bytes": 73974,
+  "thumb": "meaning/thumbs/pen1-thumb.webp",
+  "thumb_bytes": 35584,
+  "i18n": {
+   "en": {
+    "cue": "A person spurting a mouthful of water out in a wide fine spray, droplets everywhere"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吐",
+  "trad": "吐",
+  "pinyin": "tǔ",
+  "pinyin_num": "tu3",
+  "gloss": "to spit out",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A person spitting a small fruit stone out of the mouth in a neat arc",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tu3.webp",
+  "card_bytes": 48326,
+  "art": "meaning/art/tu3-art.webp",
+  "art_bytes": 38948,
+  "thumb": "meaning/thumbs/tu3-thumb.webp",
+  "thumb_bytes": 19608,
+  "i18n": {
+   "en": {
+    "cue": "A person spitting a small fruit stone out of the mouth in a neat arc"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吓",
+  "trad": "嚇",
+  "pinyin": "xià",
+  "pinyin_num": "xia4",
+  "gloss": "to frighten, to scare",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A person leaping out from behind a screen with mouth wide in a boo, while another figure recoils in fright",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xia4.webp",
+  "card_bytes": 87486,
+  "art": "meaning/art/xia4-art.webp",
+  "art_bytes": 77080,
+  "thumb": "meaning/thumbs/xia4-thumb.webp",
+  "thumb_bytes": 36032,
+  "i18n": {
+   "en": {
+    "cue": "A person leaping out from behind a screen with mouth wide in a boo, while another figure recoils in fright"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "咬",
+  "trad": "咬",
+  "pinyin": "yǎo",
+  "pinyin_num": "yao3",
+  "gloss": "to bite",
+  "hsk": 5,
+  "cluster": "kou",
+  "cue": "A close profile of teeth biting into a crisp apple, a clear bite taken out of it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yao3.webp",
+  "card_bytes": 70070,
+  "art": "meaning/art/yao3-art.webp",
+  "art_bytes": 61172,
+  "thumb": "meaning/thumbs/yao3-thumb.webp",
+  "thumb_bytes": 27750,
+  "i18n": {
+   "en": {
+    "cue": "A close profile of teeth biting into a crisp apple, a clear bite taken out of it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "叹",
+  "trad": "嘆",
+  "pinyin": "tàn",
+  "pinyin_num": "tan4",
+  "gloss": "to sigh",
+  "hsk": 6,
+  "cluster": "kou",
+  "cue": "A person sighing with slumped shoulders, one long slow breath wisp curling from the mouth",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tan4.webp",
+  "card_bytes": 134854,
+  "art": "meaning/art/tan4-art.webp",
+  "art_bytes": 124606,
+  "thumb": "meaning/thumbs/tan4-thumb.webp",
+  "thumb_bytes": 54128,
+  "i18n": {
+   "en": {
+    "cue": "A person sighing with slumped shoulders, one long slow breath wisp curling from the mouth"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "吞",
+  "trad": "吞",
+  "pinyin": "tūn",
+  "pinyin_num": "tun1",
+  "gloss": "to swallow",
+  "hsk": 6,
+  "cluster": "kou",
+  "cue": "A side profile in the act of swallowing, a small morsel shown moving down the throat with a gulp",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tun1.webp",
+  "card_bytes": 116518,
+  "art": "meaning/art/tun1-art.webp",
+  "art_bytes": 106468,
+  "thumb": "meaning/thumbs/tun1-thumb.webp",
+  "thumb_bytes": 47250,
+  "i18n": {
+   "en": {
+    "cue": "A side profile in the act of swallowing, a small morsel shown moving down the throat with a gulp"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "咨",
+  "trad": "咨",
+  "pinyin": "zī",
+  "pinyin_num": "zi1",
+  "gloss": "to consult, to inquire",
+  "hsk": 6,
+  "cluster": "kou",
+  "cue": "Two people seated across a low table in calm discussion, alternating gentle speech arcs between them",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zi1.webp",
+  "card_bytes": 66738,
+  "art": "meaning/art/zi1-art.webp",
+  "art_bytes": 54470,
+  "thumb": "meaning/thumbs/zi1-thumb.webp",
+  "thumb_bytes": 28908,
+  "i18n": {
+   "en": {
+    "cue": "Two people seated across a low table in calm discussion, alternating gentle speech arcs between them"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
  }
 ]
