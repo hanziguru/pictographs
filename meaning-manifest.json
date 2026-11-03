@@ -4102,5 +4102,977 @@
    "ko": null,
    "fr": null
   }
+ },
+ {
+  "char": "候",
+  "trad": "候",
+  "pinyin": "hòu",
+  "pinyin_num": "hou4",
+  "gloss": "to wait",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A person standing at a gate looking down the road, waiting expectantly for someone to arrive",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-hou4.webp",
+  "card_bytes": 148338,
+  "art": "meaning/art/hou4-art.webp",
+  "art_bytes": 134266,
+  "thumb": "meaning/thumbs/hou4-thumb.webp",
+  "thumb_bytes": 60412,
+  "i18n": {
+   "en": {
+    "cue": "A person standing at a gate looking down the road, waiting expectantly for someone to arrive"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "休",
+  "trad": "休",
+  "pinyin": "xiū",
+  "pinyin_num": "xiu1",
+  "gloss": "to rest",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A person leaning back against a large tree with eyes closed, resting",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xiu1.webp",
+  "card_bytes": 103346,
+  "art": "meaning/art/xiu1-art.webp",
+  "art_bytes": 97652,
+  "thumb": "meaning/thumbs/xiu1-thumb.webp",
+  "thumb_bytes": 42562,
+  "i18n": {
+   "en": {
+    "cue": "A person leaning back against a large tree with eyes closed, resting"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "住",
+  "trad": "住",
+  "pinyin": "zhù",
+  "pinyin_num": "zhu4",
+  "gloss": "to live, to dwell",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A person standing at the door of a small house at dusk, home for the night, a warm lantern glowing inside",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhu4.webp",
+  "card_bytes": 83834,
+  "art": "meaning/art/zhu4-art.webp",
+  "art_bytes": 72538,
+  "thumb": "meaning/thumbs/zhu4-thumb.webp",
+  "thumb_bytes": 33642,
+  "i18n": {
+   "en": {
+    "cue": "A person standing at the door of a small house at dusk, home for the night, a warm lantern glowing inside"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "做",
+  "trad": "做",
+  "pinyin": "zuò",
+  "pinyin_num": "zuo4",
+  "gloss": "to do, to make",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A person working at a bench, hands busy making a wooden object",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zuo4.webp",
+  "card_bytes": 74724,
+  "art": "meaning/art/zuo4-art.webp",
+  "art_bytes": 66354,
+  "thumb": "meaning/thumbs/zuo4-thumb.webp",
+  "thumb_bytes": 29676,
+  "i18n": {
+   "en": {
+    "cue": "A person working at a bench, hands busy making a wooden object"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "体",
+  "trad": "體",
+  "pinyin": "tǐ",
+  "pinyin_num": "ti3",
+  "gloss": "body",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A full human figure standing straight in front view, the whole body shown head to toe",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ti3.webp",
+  "card_bytes": 132380,
+  "art": "meaning/art/ti3-art.webp",
+  "art_bytes": 122878,
+  "thumb": "meaning/thumbs/ti3-thumb.webp",
+  "thumb_bytes": 57522,
+  "i18n": {
+   "en": {
+    "cue": "A full human figure standing straight in front view, the whole body shown head to toe"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "假",
+  "trad": "假",
+  "pinyin": "jiǎ",
+  "pinyin_num": "jia3",
+  "gloss": "fake, false",
+  "hsk": 1,
+  "cluster": "ren",
+  "cue": "A person holding a smiling mask up beside their own different, sly real face",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jia3.webp",
+  "card_bytes": 75784,
+  "art": "meaning/art/jia3-art.webp",
+  "art_bytes": 67458,
+  "thumb": "meaning/thumbs/jia3-thumb.webp",
+  "thumb_bytes": 31948,
+  "i18n": {
+   "en": {
+    "cue": "A person holding a smiling mask up beside their own different, sly real face"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "倒",
+  "trad": "倒",
+  "pinyin": "dào",
+  "pinyin_num": "dao4",
+  "gloss": "to fall over",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A person toppling over sideways, arms flailing, halfway to the ground",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-dao4.webp",
+  "card_bytes": 70176,
+  "art": "meaning/art/dao4-art.webp",
+  "art_bytes": 60820,
+  "thumb": "meaning/thumbs/dao4-thumb.webp",
+  "thumb_bytes": 29124,
+  "i18n": {
+   "en": {
+    "cue": "A person toppling over sideways, arms flailing, halfway to the ground"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "低",
+  "trad": "低",
+  "pinyin": "dī",
+  "pinyin_num": "di1",
+  "gloss": "low",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A person ducking their head low to pass under a very low doorway beam",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-di1.webp",
+  "card_bytes": 122914,
+  "art": "meaning/art/di1-art.webp",
+  "art_bytes": 114538,
+  "thumb": "meaning/thumbs/di1-thumb.webp",
+  "thumb_bytes": 50822,
+  "i18n": {
+   "en": {
+    "cue": "A person ducking their head low to pass under a very low doorway beam"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "借",
+  "trad": "借",
+  "pinyin": "jiè",
+  "pinyin_num": "jie4",
+  "gloss": "to borrow",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A person receiving a book with both hands from another person, in the act of borrowing it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jie4.webp",
+  "card_bytes": 79176,
+  "art": "meaning/art/jie4-art.webp",
+  "art_bytes": 69576,
+  "thumb": "meaning/thumbs/jie4-thumb.webp",
+  "thumb_bytes": 33772,
+  "i18n": {
+   "en": {
+    "cue": "A person receiving a book with both hands from another person, in the act of borrowing it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "停",
+  "trad": "停",
+  "pinyin": "tíng",
+  "pinyin_num": "ting2",
+  "gloss": "to stop, to halt",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A person raising one palm to halt an approaching cart, the cart stopping",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ting2.webp",
+  "card_bytes": 126852,
+  "art": "meaning/art/ting2-art.webp",
+  "art_bytes": 116378,
+  "thumb": "meaning/thumbs/ting2-thumb.webp",
+  "thumb_bytes": 53224,
+  "i18n": {
+   "en": {
+    "cue": "A person raising one palm to halt an approaching cart, the cart stopping"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "健",
+  "trad": "健",
+  "pinyin": "jiàn",
+  "pinyin_num": "jian4",
+  "gloss": "healthy, strong",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A strong healthy person lifting a heavy stone weight overhead with ease",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-jian4.webp",
+  "card_bytes": 54956,
+  "art": "meaning/art/jian4-art.webp",
+  "art_bytes": 42758,
+  "thumb": "meaning/thumbs/jian4-thumb.webp",
+  "thumb_bytes": 21916,
+  "i18n": {
+   "en": {
+    "cue": "A strong healthy person lifting a heavy stone weight overhead with ease"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "信",
+  "trad": "信",
+  "pinyin": "xìn",
+  "pinyin_num": "xin4",
+  "gloss": "letter",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A person sealing a letter into an envelope at a writing desk",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xin4.webp",
+  "card_bytes": 62198,
+  "art": "meaning/art/xin4-art.webp",
+  "art_bytes": 54806,
+  "thumb": "meaning/thumbs/xin4-thumb.webp",
+  "thumb_bytes": 25198,
+  "i18n": {
+   "en": {
+    "cue": "A person sealing a letter into an envelope at a writing desk"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "像",
+  "trad": "像",
+  "pinyin": "xiàng",
+  "pinyin_num": "xiang4",
+  "gloss": "portrait; to resemble",
+  "hsk": 2,
+  "cluster": "ren",
+  "cue": "A portrait painting on an easel that looks exactly like the person sitting beside it",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-xiang4.webp",
+  "card_bytes": 88156,
+  "art": "meaning/art/xiang4-art.webp",
+  "art_bytes": 78482,
+  "thumb": "meaning/thumbs/xiang4-thumb.webp",
+  "thumb_bytes": 36890,
+  "i18n": {
+   "en": {
+    "cue": "A portrait painting on an easel that looks exactly like the person sitting beside it"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "传",
+  "trad": "傳",
+  "pinyin": "chuán",
+  "pinyin_num": "chuan2",
+  "gloss": "to pass on",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A runner handing a scroll to the next runner in a relay, passing it on",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chuan2.webp",
+  "card_bytes": 63728,
+  "art": "meaning/art/chuan2-art.webp",
+  "art_bytes": 54068,
+  "thumb": "meaning/thumbs/chuan2-thumb.webp",
+  "thumb_bytes": 26524,
+  "i18n": {
+   "en": {
+    "cue": "A runner handing a scroll to the next runner in a relay, passing it on"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "付",
+  "trad": "付",
+  "pinyin": "fù",
+  "pinyin_num": "fu4",
+  "gloss": "to pay, to hand over",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A customer handing coins across a market counter to a merchant",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-fu4.webp",
+  "card_bytes": 75478,
+  "art": "meaning/art/fu4-art.webp",
+  "art_bytes": 67098,
+  "thumb": "meaning/thumbs/fu4-thumb.webp",
+  "thumb_bytes": 30882,
+  "i18n": {
+   "en": {
+    "cue": "A customer handing coins across a market counter to a merchant"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "伤",
+  "trad": "傷",
+  "pinyin": "shāng",
+  "pinyin_num": "shang1",
+  "gloss": "to injure; wound",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A person sitting with one arm in a sling and a bandage across the forehead, injured",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shang1.webp",
+  "card_bytes": 75854,
+  "art": "meaning/art/shang1-art.webp",
+  "art_bytes": 64886,
+  "thumb": "meaning/thumbs/shang1-thumb.webp",
+  "thumb_bytes": 30576,
+  "i18n": {
+   "en": {
+    "cue": "A person sitting with one arm in a sling and a bandage across the forehead, injured"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "保",
+  "trad": "保",
+  "pinyin": "bǎo",
+  "pinyin_num": "bao3",
+  "gloss": "to protect",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A person holding a large shield in front of a small child, protecting them",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-bao3.webp",
+  "card_bytes": 56310,
+  "art": "meaning/art/bao3-art.webp",
+  "art_bytes": 46586,
+  "thumb": "meaning/thumbs/bao3-thumb.webp",
+  "thumb_bytes": 22588,
+  "i18n": {
+   "en": {
+    "cue": "A person holding a large shield in front of a small child, protecting them"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "众",
+  "trad": "眾",
+  "pinyin": "zhòng",
+  "pinyin_num": "zhong4",
+  "gloss": "crowd, multitude",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A dense crowd of many people filling a market street",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhong4.webp",
+  "card_bytes": 152278,
+  "art": "meaning/art/zhong4-art.webp",
+  "art_bytes": 152630,
+  "thumb": "meaning/thumbs/zhong4-thumb.webp",
+  "thumb_bytes": 53846,
+  "i18n": {
+   "en": {
+    "cue": "A dense crowd of many people filling a market street"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "伟",
+  "trad": "偉",
+  "pinyin": "wěi",
+  "pinyin_num": "wei3",
+  "gloss": "great, imposing",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A towering heroic figure standing far larger than the ordinary people around him",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-wei3.webp",
+  "card_bytes": 145338,
+  "art": "meaning/art/wei3-art.webp",
+  "art_bytes": 137442,
+  "thumb": "meaning/thumbs/wei3-thumb.webp",
+  "thumb_bytes": 63690,
+  "i18n": {
+   "en": {
+    "cue": "A towering heroic figure standing far larger than the ordinary people around him"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "优",
+  "trad": "優",
+  "pinyin": "yōu",
+  "pinyin_num": "you1",
+  "gloss": "excellent, superior",
+  "hsk": 3,
+  "cluster": "ren",
+  "cue": "A student standing on the top step of a podium, holding a prize cup high",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-you1.webp",
+  "card_bytes": 111996,
+  "art": "meaning/art/you1-art.webp",
+  "art_bytes": 100056,
+  "thumb": "meaning/thumbs/you1-thumb.webp",
+  "thumb_bytes": 46952,
+  "i18n": {
+   "en": {
+    "cue": "A student standing on the top step of a podium, holding a prize cup high"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "伴",
+  "trad": "伴",
+  "pinyin": "bàn",
+  "pinyin_num": "ban4",
+  "gloss": "companion",
+  "hsk": 4,
+  "cluster": "ren",
+  "cue": "Two friends walking side by side along a path, companions",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ban4.webp",
+  "card_bytes": 97600,
+  "art": "meaning/art/ban4-art.webp",
+  "art_bytes": 92224,
+  "thumb": "meaning/thumbs/ban4-thumb.webp",
+  "thumb_bytes": 38690,
+  "i18n": {
+   "en": {
+    "cue": "Two friends walking side by side along a path, companions"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "依",
+  "trad": "依",
+  "pinyin": "yī",
+  "pinyin_num": "yi1",
+  "gloss": "to lean on, to rely on",
+  "hsk": 4,
+  "cluster": "ren",
+  "cue": "A tired traveller leaning their head on a friend's shoulder, relying on them",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yi1.webp",
+  "card_bytes": 85874,
+  "art": "meaning/art/yi1-art.webp",
+  "art_bytes": 75542,
+  "thumb": "meaning/thumbs/yi1-thumb.webp",
+  "thumb_bytes": 33986,
+  "i18n": {
+   "en": {
+    "cue": "A tired traveller leaning their head on a friend's shoulder, relying on them"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "供",
+  "trad": "供",
+  "pinyin": "gōng",
+  "pinyin_num": "gong1",
+  "gloss": "to supply, to provide",
+  "hsk": 4,
+  "cluster": "ren",
+  "cue": "A person respectfully offering up a tray piled with food provisions to an elder",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-gong1.webp",
+  "card_bytes": 87774,
+  "art": "meaning/art/gong1-art.webp",
+  "art_bytes": 78088,
+  "thumb": "meaning/thumbs/gong1-thumb.webp",
+  "thumb_bytes": 34552,
+  "i18n": {
+   "en": {
+    "cue": "A person respectfully offering up a tray piled with food provisions to an elder"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "促",
+  "trad": "促",
+  "pinyin": "cù",
+  "pinyin_num": "cu4",
+  "gloss": "to urge, to hurry",
+  "hsk": 4,
+  "cluster": "ren",
+  "cue": "A person urging a dawdling traveller onward, pointing at the road ahead and waving them faster",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-cu4.webp",
+  "card_bytes": 85850,
+  "art": "meaning/art/cu4-art.webp",
+  "art_bytes": 74656,
+  "thumb": "meaning/thumbs/cu4-thumb.webp",
+  "thumb_bytes": 35000,
+  "i18n": {
+   "en": {
+    "cue": "A person urging a dawdling traveller onward, pointing at the road ahead and waving them faster"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "伸",
+  "trad": "伸",
+  "pinyin": "shēn",
+  "pinyin_num": "shen1",
+  "gloss": "to stretch out",
+  "hsk": 5,
+  "cluster": "ren",
+  "cue": "A person doing a morning stretch with both arms extended wide and body arched",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-shen1.webp",
+  "card_bytes": 50228,
+  "art": "meaning/art/shen1-art.webp",
+  "art_bytes": 38472,
+  "thumb": "meaning/thumbs/shen1-thumb.webp",
+  "thumb_bytes": 20888,
+  "i18n": {
+   "en": {
+    "cue": "A person doing a morning stretch with both arms extended wide and body arched"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "偷",
+  "trad": "偷",
+  "pinyin": "tōu",
+  "pinyin_num": "tou1",
+  "gloss": "to steal",
+  "hsk": 5,
+  "cluster": "ren",
+  "cue": "A sneaking figure tiptoeing away with a stolen bundle under one arm, glancing back over the shoulder",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-tou1.webp",
+  "card_bytes": 106584,
+  "art": "meaning/art/tou1-art.webp",
+  "art_bytes": 93752,
+  "thumb": "meaning/thumbs/tou1-thumb.webp",
+  "thumb_bytes": 45256,
+  "i18n": {
+   "en": {
+    "cue": "A sneaking figure tiptoeing away with a stolen bundle under one arm, glancing back over the shoulder"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "傻",
+  "trad": "傻",
+  "pinyin": "shǎ",
+  "pinyin_num": "sha3",
+  "gloss": "foolish, silly",
+  "hsk": 5,
+  "cluster": "ren",
+  "cue": "A foolish-looking person with a lopsided grin and a hat worn crooked, looking silly",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-sha3.webp",
+  "card_bytes": 118184,
+  "art": "meaning/art/sha3-art.webp",
+  "art_bytes": 107716,
+  "thumb": "meaning/thumbs/sha3-thumb.webp",
+  "thumb_bytes": 50534,
+  "i18n": {
+   "en": {
+    "cue": "A foolish-looking person with a lopsided grin and a hat worn crooked, looking silly"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "仿",
+  "trad": "彷仿",
+  "pinyin": "fǎng",
+  "pinyin_num": "fang3",
+  "gloss": "to imitate",
+  "hsk": 5,
+  "cluster": "ren",
+  "cue": "A child imitating an adult's pose exactly, both standing in the identical posture side by side",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-fang3.webp",
+  "card_bytes": 55636,
+  "art": "meaning/art/fang3-art.webp",
+  "art_bytes": 43110,
+  "thumb": "meaning/thumbs/fang3-thumb.webp",
+  "thumb_bytes": 23196,
+  "i18n": {
+   "en": {
+    "cue": "A child imitating an adult's pose exactly, both standing in the identical posture side by side"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "偿",
+  "trad": "償",
+  "pinyin": "cháng",
+  "pinyin_num": "chang2",
+  "gloss": "to repay",
+  "hsk": 5,
+  "cluster": "ren",
+  "cue": "A person handing a pouch of coins back to a lender, returning a debt in full",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chang2.webp",
+  "card_bytes": 81734,
+  "art": "meaning/art/chang2-art.webp",
+  "art_bytes": 73400,
+  "thumb": "meaning/thumbs/chang2-thumb.webp",
+  "thumb_bytes": 33798,
+  "i18n": {
+   "en": {
+    "cue": "A person handing a pouch of coins back to a lender, returning a debt in full"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "傲",
+  "trad": "傲",
+  "pinyin": "ào",
+  "pinyin_num": "ao4",
+  "gloss": "proud, haughty",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A haughty person with chin raised high and nose in the air, looking down on passers-by",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-ao4.webp",
+  "card_bytes": 130180,
+  "art": "meaning/art/ao4-art.webp",
+  "art_bytes": 116404,
+  "thumb": "meaning/thumbs/ao4-thumb.webp",
+  "thumb_bytes": 51976,
+  "i18n": {
+   "en": {
+    "cue": "A haughty person with chin raised high and nose in the air, looking down on passers-by"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "仰",
+  "trad": "仰",
+  "pinyin": "yǎng",
+  "pinyin_num": "yang3",
+  "gloss": "to look up",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A person with head tilted far back, gazing up at the stars",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-yang3.webp",
+  "card_bytes": 123362,
+  "art": "meaning/art/yang3-art.webp",
+  "art_bytes": 114826,
+  "thumb": "meaning/thumbs/yang3-thumb.webp",
+  "thumb_bytes": 52644,
+  "i18n": {
+   "en": {
+    "cue": "A person with head tilted far back, gazing up at the stars"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "倾",
+  "trad": "傾",
+  "pinyin": "qīng",
+  "pinyin_num": "qing1",
+  "gloss": "to lean, to pour out",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A large jug tilting far over, pouring out a stream of water",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qing1.webp",
+  "card_bytes": 66906,
+  "art": "meaning/art/qing1-art.webp",
+  "art_bytes": 57216,
+  "thumb": "meaning/thumbs/qing1-thumb.webp",
+  "thumb_bytes": 26360,
+  "i18n": {
+   "en": {
+    "cue": "A large jug tilting far over, pouring out a stream of water"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "侵",
+  "trad": "侵",
+  "pinyin": "qīn",
+  "pinyin_num": "qin1",
+  "gloss": "to invade",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A troop of soldiers marching across a boundary line into neighbouring fields",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-qin1.webp",
+  "card_bytes": 107920,
+  "art": "meaning/art/qin1-art.webp",
+  "art_bytes": 99902,
+  "thumb": "meaning/thumbs/qin1-thumb.webp",
+  "thumb_bytes": 40944,
+  "i18n": {
+   "en": {
+    "cue": "A troop of soldiers marching across a boundary line into neighbouring fields"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "债",
+  "trad": "債",
+  "pinyin": "zhài",
+  "pinyin_num": "zhai4",
+  "gloss": "debt",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A person bowed low under the weight of a huge heavy sack of owed coins carried on the back",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-zhai4.webp",
+  "card_bytes": 104612,
+  "art": "meaning/art/zhai4-art.webp",
+  "art_bytes": 92800,
+  "thumb": "meaning/thumbs/zhai4-thumb.webp",
+  "thumb_bytes": 43824,
+  "i18n": {
+   "en": {
+    "cue": "A person bowed low under the weight of a huge heavy sack of owed coins carried on the back"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "佛",
+  "trad": "髴佛彿",
+  "pinyin": "fó",
+  "pinyin_num": "fo2",
+  "gloss": "Buddha",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A serene seated Buddha statue on a lotus pedestal",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-fo2.webp",
+  "card_bytes": 130418,
+  "art": "meaning/art/fo2-art.webp",
+  "art_bytes": 121138,
+  "thumb": "meaning/thumbs/fo2-thumb.webp",
+  "thumb_bytes": 53210,
+  "i18n": {
+   "en": {
+    "cue": "A serene seated Buddha statue on a lotus pedestal"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
+ },
+ {
+  "char": "储",
+  "trad": "儲",
+  "pinyin": "chǔ",
+  "pinyin_num": "chu3",
+  "gloss": "to save, to store",
+  "hsk": 6,
+  "cluster": "ren",
+  "cue": "A person dropping coins one by one into a large savings jar already half full of coins",
+  "depicts_source": "modern",
+  "file": "meaning/meaning-chu3.webp",
+  "card_bytes": 73988,
+  "art": "meaning/art/chu3-art.webp",
+  "art_bytes": 61930,
+  "thumb": "meaning/thumbs/chu3-thumb.webp",
+  "thumb_bytes": 31118,
+  "i18n": {
+   "en": {
+    "cue": "A person dropping coins one by one into a large savings jar already half full of coins"
+   },
+   "vi": null,
+   "es": null,
+   "ja": null,
+   "ko": null,
+   "fr": null
+  }
  }
 ]
